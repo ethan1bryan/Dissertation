@@ -1,0 +1,901 @@
+Key,Opponent,Value
+"('Aphelios', 'Braum')",Karma,0.252675
+"('Aphelios', 'Braum')",Leona,0.2205
+"('Aphelios', 'Braum')",Lulu,0.3241500000000001
+"('Aphelios', 'Braum')",Nami,0.2572749999999998
+"('Aphelios', 'Braum')",Nautilus,0.3652000000000001
+"('Aphelios', 'Braum')",Pyke,0.2134
+"('Aphelios', 'Braum')",Rakan,0.241525
+"('Aphelios', 'Braum')",Rell,0.232125
+"('Aphelios', 'Braum')",Thresh,0.299
+"('Aphelios', 'Karma')",Braum,0.1961749999999998
+"('Aphelios', 'Karma')",Leona,0.1944999999999998
+"('Aphelios', 'Karma')",Lulu,0.3150749999999999
+"('Aphelios', 'Karma')",Nami,0.2453249999999998
+"('Aphelios', 'Karma')",Nautilus,0.332675
+"('Aphelios', 'Karma')",Pyke,0.1901999999999999
+"('Aphelios', 'Karma')",Rakan,0.211925
+"('Aphelios', 'Karma')",Rell,0.2114249999999999
+"('Aphelios', 'Karma')",Thresh,0.2549249999999999
+"('Aphelios', 'Leona')",Braum,0.1434499999999999
+"('Aphelios', 'Leona')",Karma,0.182075
+"('Aphelios', 'Leona')",Lulu,0.2798250000000001
+"('Aphelios', 'Leona')",Nami,0.1915249999999999
+"('Aphelios', 'Leona')",Nautilus,0.299125
+"('Aphelios', 'Leona')",Pyke,0.14905
+"('Aphelios', 'Leona')",Rakan,0.1710249999999999
+"('Aphelios', 'Leona')",Rell,0.165325
+"('Aphelios', 'Leona')",Thresh,0.2186499999999999
+"('Aphelios', 'Lulu')",Braum,0.3355000000000001
+"('Aphelios', 'Lulu')",Karma,0.3428250000000001
+"('Aphelios', 'Lulu')",Leona,0.2922749999999999
+"('Aphelios', 'Lulu')",Nami,0.36265
+"('Aphelios', 'Lulu')",Nautilus,0.4506750000000001
+"('Aphelios', 'Lulu')",Pyke,0.3113250000000001
+"('Aphelios', 'Lulu')",Rakan,0.3310250000000002
+"('Aphelios', 'Lulu')",Rell,0.3298
+"('Aphelios', 'Lulu')",Thresh,0.371275
+"('Aphelios', 'Nami')",Braum,0.2095749999999999
+"('Aphelios', 'Nami')",Karma,0.2450250000000001
+"('Aphelios', 'Nami')",Leona,0.1943
+"('Aphelios', 'Nami')",Lulu,0.3238000000000001
+"('Aphelios', 'Nami')",Nautilus,0.3322500000000001
+"('Aphelios', 'Nami')",Pyke,0.211725
+"('Aphelios', 'Nami')",Rakan,0.219325
+"('Aphelios', 'Nami')",Rell,0.2178750000000001
+"('Aphelios', 'Nami')",Thresh,0.2656
+"('Aphelios', 'Nautilus')",Braum,0.2042999999999999
+"('Aphelios', 'Nautilus')",Karma,0.2533249999999999
+"('Aphelios', 'Nautilus')",Leona,0.2134249999999999
+"('Aphelios', 'Nautilus')",Lulu,0.3461250000000001
+"('Aphelios', 'Nautilus')",Nami,0.27265
+"('Aphelios', 'Nautilus')",Pyke,0.22405
+"('Aphelios', 'Nautilus')",Rakan,0.2328749999999999
+"('Aphelios', 'Nautilus')",Rell,0.2264
+"('Aphelios', 'Nautilus')",Thresh,0.2998249999999999
+"('Aphelios', 'Pyke')",Braum,0.2913749999999999
+"('Aphelios', 'Pyke')",Karma,0.3385249999999999
+"('Aphelios', 'Pyke')",Leona,0.2883249999999999
+"('Aphelios', 'Pyke')",Lulu,0.4275499999999999
+"('Aphelios', 'Pyke')",Nami,0.3284499999999999
+"('Aphelios', 'Pyke')",Nautilus,0.418775
+"('Aphelios', 'Pyke')",Rakan,0.2994
+"('Aphelios', 'Pyke')",Rell,0.296975
+"('Aphelios', 'Pyke')",Thresh,0.3504
+"('Aphelios', 'Rakan')",Braum,0.4193249999999999
+"('Aphelios', 'Rakan')",Karma,0.4828750000000001
+"('Aphelios', 'Rakan')",Leona,0.4230749999999999
+"('Aphelios', 'Rakan')",Lulu,0.5605499999999999
+"('Aphelios', 'Rakan')",Nami,0.4677249999999999
+"('Aphelios', 'Rakan')",Nautilus,0.5660250000000001
+"('Aphelios', 'Rakan')",Pyke,0.4347749999999999
+"('Aphelios', 'Rakan')",Rell,0.4406
+"('Aphelios', 'Rakan')",Thresh,0.494525
+"('Aphelios', 'Rell')",Braum,0.2978749999999999
+"('Aphelios', 'Rell')",Karma,0.359275
+"('Aphelios', 'Rell')",Leona,0.2994249999999999
+"('Aphelios', 'Rell')",Lulu,0.4309999999999999
+"('Aphelios', 'Rell')",Nami,0.347525
+"('Aphelios', 'Rell')",Nautilus,0.44165
+"('Aphelios', 'Rell')",Pyke,0.30635
+"('Aphelios', 'Rell')",Rakan,0.3188
+"('Aphelios', 'Rell')",Thresh,0.371025
+"('Aphelios', 'Thresh')",Braum,0.297025
+"('Aphelios', 'Thresh')",Karma,0.337325
+"('Aphelios', 'Thresh')",Leona,0.298725
+"('Aphelios', 'Thresh')",Lulu,0.4165
+"('Aphelios', 'Thresh')",Nami,0.3522999999999999
+"('Aphelios', 'Thresh')",Nautilus,0.4448000000000002
+"('Aphelios', 'Thresh')",Pyke,0.31905
+"('Aphelios', 'Thresh')",Rakan,0.3294750000000001
+"('Aphelios', 'Thresh')",Rell,0.3258
+"('Ashe', 'Braum')",Karma,0.407725
+"('Ashe', 'Braum')",Leona,0.3622499999999999
+"('Ashe', 'Braum')",Lulu,0.4591500000000001
+"('Ashe', 'Braum')",Nami,0.39975
+"('Ashe', 'Braum')",Nautilus,0.5112250000000002
+"('Ashe', 'Braum')",Pyke,0.3594500000000002
+"('Ashe', 'Braum')",Rakan,0.3910000000000002
+"('Ashe', 'Braum')",Rell,0.3910000000000002
+"('Ashe', 'Braum')",Thresh,0.4558250000000001
+"('Ashe', 'Karma')",Braum,0.4285249999999999
+"('Ashe', 'Karma')",Leona,0.4112499999999998
+"('Ashe', 'Karma')",Lulu,0.5342
+"('Ashe', 'Karma')",Nami,0.4628
+"('Ashe', 'Karma')",Nautilus,0.5537000000000001
+"('Ashe', 'Karma')",Pyke,0.41125
+"('Ashe', 'Karma')",Rakan,0.4364
+"('Ashe', 'Karma')",Rell,0.4453
+"('Ashe', 'Karma')",Thresh,0.4867499999999999
+"('Ashe', 'Leona')",Braum,0.3137999999999999
+"('Ashe', 'Leona')",Karma,0.350125
+"('Ashe', 'Leona')",Lulu,0.427825
+"('Ashe', 'Leona')",Nami,0.3469999999999998
+"('Ashe', 'Leona')",Nautilus,0.45815
+"('Ashe', 'Leona')",Pyke,0.3081
+"('Ashe', 'Leona')",Rakan,0.3335
+"('Ashe', 'Leona')",Rell,0.3372
+"('Ashe', 'Leona')",Thresh,0.3884749999999998
+"('Ashe', 'Lulu')",Braum,0.4255999999999998
+"('Ashe', 'Lulu')",Karma,0.430625
+"('Ashe', 'Lulu')",Leona,0.3667749999999999
+"('Ashe', 'Lulu')",Nami,0.4378749999999998
+"('Ashe', 'Lulu')",Nautilus,0.5277250000000001
+"('Ashe', 'Lulu')",Pyke,0.3861499999999999
+"('Ashe', 'Lulu')",Rakan,0.4116250000000001
+"('Ashe', 'Lulu')",Rell,0.421425
+"('Ashe', 'Lulu')",Thresh,0.4608499999999999
+"('Ashe', 'Nami')",Braum,0.377675
+"('Ashe', 'Nami')",Karma,0.410825
+"('Ashe', 'Nami')",Leona,0.3468
+"('Ashe', 'Nami')",Lulu,0.4820250000000001
+"('Ashe', 'Nami')",Nautilus,0.4890250000000001
+"('Ashe', 'Nami')",Pyke,0.368525
+"('Ashe', 'Nami')",Rakan,0.3779250000000002
+"('Ashe', 'Nami')",Rell,0.3875000000000001
+"('Ashe', 'Nami')",Thresh,0.433175
+"('Ashe', 'Nautilus')",Braum,0.3326499999999999
+"('Ashe', 'Nautilus')",Karma,0.3793749999999999
+"('Ashe', 'Nautilus')",Leona,0.3261749999999999
+"('Ashe', 'Nautilus')",Lulu,0.452125
+"('Ashe', 'Nautilus')",Nami,0.386125
+"('Ashe', 'Nautilus')",Pyke,0.3411
+"('Ashe', 'Nautilus')",Rakan,0.3533499999999999
+"('Ashe', 'Nautilus')",Rell,0.3562749999999999
+"('Ashe', 'Nautilus')",Thresh,0.42355
+"('Ashe', 'Pyke')",Braum,0.362975
+"('Ashe', 'Pyke')",Karma,0.407825
+"('Ashe', 'Pyke')",Leona,0.344325
+"('Ashe', 'Pyke')",Lulu,0.4774500000000001
+"('Ashe', 'Pyke')",Nami,0.385175
+"('Ashe', 'Pyke')",Nautilus,0.4790500000000001
+"('Ashe', 'Pyke')",Rakan,0.3631250000000001
+"('Ashe', 'Pyke')",Rell,0.3701
+"('Ashe', 'Pyke')",Thresh,0.4214750000000001
+"('Ashe', 'Rakan')",Braum,0.3811749999999999
+"('Ashe', 'Rakan')",Karma,0.4424249999999999
+"('Ashe', 'Rakan')",Leona,0.369325
+"('Ashe', 'Rakan')",Lulu,0.5062000000000001
+"('Ashe', 'Rakan')",Nami,0.4147
+"('Ashe', 'Rakan')",Nautilus,0.5165500000000001
+"('Ashe', 'Rakan')",Pyke,0.3853250000000001
+"('Ashe', 'Rakan')",Rell,0.4039750000000001
+"('Ashe', 'Rakan')",Thresh,0.4558500000000001
+"('Ashe', 'Rell')",Braum,0.3882249999999999
+"('Ashe', 'Rell')",Karma,0.4473250000000001
+"('Ashe', 'Rell')",Leona,0.374175
+"('Ashe', 'Rell')",Lulu,0.5160500000000001
+"('Ashe', 'Rell')",Nami,0.423
+"('Ashe', 'Rell')",Nautilus,0.5206750000000001
+"('Ashe', 'Rell')",Pyke,0.3854000000000001
+"('Ashe', 'Rell')",Rakan,0.4012750000000001
+"('Ashe', 'Rell')",Thresh,0.4608500000000001
+"('Ashe', 'Thresh')",Braum,0.3143749999999999
+"('Ashe', 'Thresh')",Karma,0.352375
+"('Ashe', 'Thresh')",Leona,0.300475
+"('Ashe', 'Thresh')",Lulu,0.4115000000000002
+"('Ashe', 'Thresh')",Nami,0.354775
+"('Ashe', 'Thresh')",Nautilus,0.4464500000000002
+"('Ashe', 'Thresh')",Pyke,0.318475
+"('Ashe', 'Thresh')",Rakan,0.3373250000000001
+"('Ashe', 'Thresh')",Rell,0.344675
+"('Caitlyn', 'Braum')",Karma,0.4310000000000001
+"('Caitlyn', 'Braum')",Leona,0.3928
+"('Caitlyn', 'Braum')",Lulu,0.49795
+"('Caitlyn', 'Braum')",Nami,0.4358249999999999
+"('Caitlyn', 'Braum')",Nautilus,0.533875
+"('Caitlyn', 'Braum')",Pyke,0.39415
+"('Caitlyn', 'Braum')",Rakan,0.4327000000000001
+"('Caitlyn', 'Braum')",Rell,0.4006500000000001
+"('Caitlyn', 'Braum')",Thresh,0.488875
+"('Caitlyn', 'Karma')",Braum,0.3683249999999999
+"('Caitlyn', 'Karma')",Leona,0.3350499999999999
+"('Caitlyn', 'Karma')",Lulu,0.4509
+"('Caitlyn', 'Karma')",Nami,0.3921249999999999
+"('Caitlyn', 'Karma')",Nautilus,0.4696000000000001
+"('Caitlyn', 'Karma')",Pyke,0.3392000000000001
+"('Caitlyn', 'Karma')",Rakan,0.3713500000000001
+"('Caitlyn', 'Karma')",Rell,0.3482
+"('Caitlyn', 'Karma')",Thresh,0.4130500000000001
+"('Caitlyn', 'Leona')",Braum,0.3745999999999998
+"('Caitlyn', 'Leona')",Karma,0.38765
+"('Caitlyn', 'Leona')",Lulu,0.480875
+"('Caitlyn', 'Leona')",Nami,0.3973249999999998
+"('Caitlyn', 'Leona')",Nautilus,0.4950499999999999
+"('Caitlyn', 'Leona')",Pyke,0.3570499999999999
+"('Caitlyn', 'Leona')",Rakan,0.3894499999999999
+"('Caitlyn', 'Leona')",Rell,0.3611
+"('Caitlyn', 'Leona')",Thresh,0.4357749999999998
+"('Caitlyn', 'Lulu')",Braum,0.3711499999999998
+"('Caitlyn', 'Lulu')",Karma,0.3529
+"('Caitlyn', 'Lulu')",Leona,0.2963249999999999
+"('Caitlyn', 'Lulu')",Nami,0.3729499999999999
+"('Caitlyn', 'Lulu')",Nautilus,0.4511
+"('Caitlyn', 'Lulu')",Pyke,0.323825
+"('Caitlyn', 'Lulu')",Rakan,0.361825
+"('Caitlyn', 'Lulu')",Rell,0.330075
+"('Caitlyn', 'Lulu')",Thresh,0.3928999999999999
+"('Caitlyn', 'Nami')",Braum,0.2962249999999999
+"('Caitlyn', 'Nami')",Karma,0.3061
+"('Caitlyn', 'Nami')",Leona,0.2493499999999998
+"('Caitlyn', 'Nami')",Lulu,0.3741249999999999
+"('Caitlyn', 'Nami')",Nautilus,0.383675
+"('Caitlyn', 'Nami')",Pyke,0.275225
+"('Caitlyn', 'Nami')",Rakan,0.30245
+"('Caitlyn', 'Nami')",Rell,0.26915
+"('Caitlyn', 'Nami')",Thresh,0.3382249999999999
+"('Caitlyn', 'Nautilus')",Braum,0.2334499999999999
+"('Caitlyn', 'Nautilus')",Karma,0.2568999999999999
+"('Caitlyn', 'Nautilus')",Leona,0.2109749999999998
+"('Caitlyn', 'Nautilus')",Lulu,0.345175
+"('Caitlyn', 'Nautilus')",Nami,0.2764499999999998
+"('Caitlyn', 'Nautilus')",Pyke,0.2300499999999999
+"('Caitlyn', 'Nautilus')",Rakan,0.2493
+"('Caitlyn', 'Nautilus')",Rell,0.220175
+"('Caitlyn', 'Nautilus')",Thresh,0.3106
+"('Caitlyn', 'Pyke')",Braum,0.362775
+"('Caitlyn', 'Pyke')",Karma,0.38435
+"('Caitlyn', 'Pyke')",Leona,0.328125
+"('Caitlyn', 'Pyke')",Lulu,0.462625
+"('Caitlyn', 'Pyke')",Nami,0.3745
+"('Caitlyn', 'Pyke')",Nautilus,0.4549500000000002
+"('Caitlyn', 'Pyke')",Rakan,0.3580750000000001
+"('Caitlyn', 'Pyke')",Rell,0.3330000000000001
+"('Caitlyn', 'Pyke')",Thresh,0.407775
+"('Caitlyn', 'Rakan')",Braum,0.4697249999999999
+"('Caitlyn', 'Rakan')",Karma,0.5077
+"('Caitlyn', 'Rakan')",Leona,0.4418749999999998
+"('Caitlyn', 'Rakan')",Lulu,0.5870000000000001
+"('Caitlyn', 'Rakan')",Nami,0.4927749999999999
+"('Caitlyn', 'Rakan')",Nautilus,0.5812
+"('Caitlyn', 'Rakan')",Pyke,0.462025
+"('Caitlyn', 'Rakan')",Rell,0.455625
+"('Caitlyn', 'Rakan')",Thresh,0.5308999999999999
+"('Caitlyn', 'Rell')",Braum,0.347025
+"('Caitlyn', 'Rell')",Karma,0.3828500000000001
+"('Caitlyn', 'Rell')",Leona,0.316975
+"('Caitlyn', 'Rell')",Lulu,0.4438250000000001
+"('Caitlyn', 'Rell')",Nami,0.3713249999999999
+"('Caitlyn', 'Rell')",Nautilus,0.4555750000000002
+"('Caitlyn', 'Rell')",Pyke,0.3323500000000001
+"('Caitlyn', 'Rell')",Rakan,0.355225
+"('Caitlyn', 'Rell')",Thresh,0.40615
+"('Caitlyn', 'Thresh')",Braum,0.415925
+"('Caitlyn', 'Thresh')",Karma,0.4306500000000001
+"('Caitlyn', 'Thresh')",Leona,0.386025
+"('Caitlyn', 'Thresh')",Lulu,0.5043250000000001
+"('Caitlyn', 'Thresh')",Nami,0.44585
+"('Caitlyn', 'Thresh')",Nautilus,0.5284750000000001
+"('Caitlyn', 'Thresh')",Pyke,0.413375
+"('Caitlyn', 'Thresh')",Rakan,0.4378250000000001
+"('Caitlyn', 'Thresh')",Rell,0.4093250000000001
+"('Corki bot', 'Braum')",Karma,0.5208250000000001
+"('Corki bot', 'Braum')",Leona,0.4849000000000001
+"('Corki bot', 'Braum')",Lulu,0.5690000000000002
+"('Corki bot', 'Braum')",Nami,0.599775
+"('Corki bot', 'Braum')",Nautilus,0.6487000000000002
+"('Corki bot', 'Braum')",Pyke,0.493625
+"('Corki bot', 'Braum')",Rakan,0.530275
+"('Corki bot', 'Braum')",Rell,0.541375
+"('Corki bot', 'Braum')",Thresh,0.558575
+"('Corki bot', 'Karma')",Braum,0.4373749999999999
+"('Corki bot', 'Karma')",Leona,0.3316499999999999
+"('Corki bot', 'Karma')",Lulu,0.4199000000000001
+"('Corki bot', 'Karma')",Nami,0.4494749999999999
+"('Corki bot', 'Karma')",Nautilus,0.4829
+"('Corki bot', 'Karma')",Pyke,0.3458
+"('Corki bot', 'Karma')",Rakan,0.3772250000000001
+"('Corki bot', 'Karma')",Rell,0.3876500000000001
+"('Corki bot', 'Karma')",Thresh,0.3872499999999999
+"('Corki bot', 'Leona')",Braum,0.5284749999999999
+"('Corki bot', 'Leona')",Karma,0.457475
+"('Corki bot', 'Leona')",Lulu,0.5279
+"('Corki bot', 'Leona')",Nami,0.547675
+"('Corki bot', 'Leona')",Nautilus,0.5909750000000001
+"('Corki bot', 'Leona')",Pyke,0.4376249999999999
+"('Corki bot', 'Leona')",Rakan,0.48015
+"('Corki bot', 'Leona')",Rell,0.482925
+"('Corki bot', 'Leona')",Thresh,0.485475
+"('Corki bot', 'Lulu')",Braum,0.472675
+"('Corki bot', 'Lulu')",Karma,0.3984750000000001
+"('Corki bot', 'Lulu')",Leona,0.344175
+"('Corki bot', 'Lulu')",Nami,0.4712999999999999
+"('Corki bot', 'Lulu')",Nautilus,0.5090250000000002
+"('Corki bot', 'Lulu')",Pyke,0.3664
+"('Corki bot', 'Lulu')",Rakan,0.4001750000000001
+"('Corki bot', 'Lulu')",Rell,0.4055000000000001
+"('Corki bot', 'Lulu')",Thresh,0.41835
+"('Corki bot', 'Nami')",Braum,0.5641750000000001
+"('Corki bot', 'Nami')",Karma,0.5194250000000001
+"('Corki bot', 'Nami')",Leona,0.46495
+"('Corki bot', 'Nami')",Lulu,0.5621250000000001
+"('Corki bot', 'Nami')",Nautilus,0.6138750000000001
+"('Corki bot', 'Nami')",Pyke,0.5043
+"('Corki bot', 'Nami')",Rakan,0.5072250000000001
+"('Corki bot', 'Nami')",Rell,0.5199500000000001
+"('Corki bot', 'Nami')",Thresh,0.531425
+"('Corki bot', 'Nautilus')",Braum,0.4661249999999999
+"('Corki bot', 'Nautilus')",Karma,0.405975
+"('Corki bot', 'Nautilus')",Leona,0.3623249999999999
+"('Corki bot', 'Nautilus')",Lulu,0.4705499999999999
+"('Corki bot', 'Nautilus')",Nami,0.5101999999999999
+"('Corki bot', 'Nautilus')",Pyke,0.3878749999999998
+"('Corki bot', 'Nautilus')",Rakan,0.4187999999999999
+"('Corki bot', 'Nautilus')",Rell,0.4192499999999999
+"('Corki bot', 'Nautilus')",Thresh,0.4438999999999998
+"('Corki bot', 'Pyke')",Braum,0.6058499999999999
+"('Corki bot', 'Pyke')",Karma,0.5569250000000001
+"('Corki bot', 'Pyke')",Leona,0.5029749999999998
+"('Corki bot', 'Pyke')",Lulu,0.609875
+"('Corki bot', 'Pyke')",Nami,0.6213
+"('Corki bot', 'Pyke')",Nautilus,0.6589
+"('Corki bot', 'Pyke')",Rakan,0.537975
+"('Corki bot', 'Pyke')",Rell,0.5566749999999999
+"('Corki bot', 'Pyke')",Thresh,0.560225
+"('Corki bot', 'Rakan')",Braum,0.5672999999999999
+"('Corki bot', 'Rakan')",Karma,0.523525
+"('Corki bot', 'Rakan')",Leona,0.4599749999999998
+"('Corki bot', 'Rakan')",Lulu,0.5788499999999999
+"('Corki bot', 'Rakan')",Nami,0.583475
+"('Corki bot', 'Rakan')",Nautilus,0.638575
+"('Corki bot', 'Rakan')",Pyke,0.5040499999999999
+"('Corki bot', 'Rakan')",Rell,0.5232
+"('Corki bot', 'Rakan')",Thresh,0.5266
+"('Corki bot', 'Rell')",Braum,0.5993499999999998
+"('Corki bot', 'Rell')",Karma,0.542925
+"('Corki bot', 'Rell')",Leona,0.4793249999999999
+"('Corki bot', 'Rell')",Lulu,0.5785750000000001
+"('Corki bot', 'Rell')",Nami,0.6077749999999998
+"('Corki bot', 'Rell')",Nautilus,0.643725
+"('Corki bot', 'Rell')",Pyke,0.5253749999999999
+"('Corki bot', 'Rell')",Rakan,0.544375
+"('Corki bot', 'Rell')",Thresh,0.5460999999999999
+"('Corki bot', 'Thresh')",Braum,0.47215
+"('Corki bot', 'Thresh')",Karma,0.4252250000000001
+"('Corki bot', 'Thresh')",Leona,0.382875
+"('Corki bot', 'Thresh')",Lulu,0.4735750000000001
+"('Corki bot', 'Thresh')",Nami,0.497
+"('Corki bot', 'Thresh')",Nautilus,0.5327500000000002
+"('Corki bot', 'Thresh')",Pyke,0.4037249999999999
+"('Corki bot', 'Thresh')",Rakan,0.430875
+"('Corki bot', 'Thresh')",Rell,0.4373500000000001
+"('Ezreal', 'Braum')",Karma,0.4197249999999999
+"('Ezreal', 'Braum')",Leona,0.3564249999999999
+"('Ezreal', 'Braum')",Lulu,0.4731
+"('Ezreal', 'Braum')",Nami,0.4108999999999999
+"('Ezreal', 'Braum')",Nautilus,0.5034000000000001
+"('Ezreal', 'Braum')",Pyke,0.367325
+"('Ezreal', 'Braum')",Rakan,0.4068249999999999
+"('Ezreal', 'Braum')",Rell,0.386075
+"('Ezreal', 'Braum')",Thresh,0.4480249999999999
+"('Ezreal', 'Karma')",Braum,0.307575
+"('Ezreal', 'Karma')",Leona,0.2846749999999999
+"('Ezreal', 'Karma')",Lulu,0.401375
+"('Ezreal', 'Karma')",Nami,0.3532
+"('Ezreal', 'Karma')",Nautilus,0.4251250000000002
+"('Ezreal', 'Karma')",Pyke,0.2983750000000001
+"('Ezreal', 'Karma')",Rakan,0.3314750000000001
+"('Ezreal', 'Karma')",Rell,0.3196250000000001
+"('Ezreal', 'Karma')",Thresh,0.3582
+"('Ezreal', 'Leona')",Braum,0.2881
+"('Ezreal', 'Leona')",Karma,0.336625
+"('Ezreal', 'Leona')",Lulu,0.4081250000000001
+"('Ezreal', 'Leona')",Nami,0.33265
+"('Ezreal', 'Leona')",Nautilus,0.4248250000000002
+"('Ezreal', 'Leona')",Pyke,0.2904750000000001
+"('Ezreal', 'Leona')",Rakan,0.3238250000000001
+"('Ezreal', 'Leona')",Rell,0.3067750000000001
+"('Ezreal', 'Leona')",Thresh,0.3551749999999999
+"('Ezreal', 'Lulu')",Braum,0.3794000000000001
+"('Ezreal', 'Lulu')",Karma,0.396625
+"('Ezreal', 'Lulu')",Leona,0.31495
+"('Ezreal', 'Lulu')",Nami,0.4030249999999999
+"('Ezreal', 'Lulu')",Nautilus,0.4756250000000001
+"('Ezreal', 'Lulu')",Pyke,0.3520000000000001
+"('Ezreal', 'Lulu')",Rakan,0.3812250000000001
+"('Ezreal', 'Lulu')",Rell,0.3705000000000001
+"('Ezreal', 'Lulu')",Thresh,0.4070500000000001
+"('Ezreal', 'Nami')",Braum,0.306225
+"('Ezreal', 'Nami')",Karma,0.3515750000000001
+"('Ezreal', 'Nami')",Leona,0.269725
+"('Ezreal', 'Nami')",Lulu,0.3953500000000001
+"('Ezreal', 'Nami')",Nautilus,0.4099500000000001
+"('Ezreal', 'Nami')",Pyke,0.3051500000000001
+"('Ezreal', 'Nami')",Rakan,0.3222750000000001
+"('Ezreal', 'Nami')",Rell,0.3113250000000001
+"('Ezreal', 'Nami')",Thresh,0.3541250000000001
+"('Ezreal', 'Nautilus')",Braum,0.27745
+"('Ezreal', 'Nautilus')",Karma,0.3363750000000001
+"('Ezreal', 'Nautilus')",Leona,0.26535
+"('Ezreal', 'Nautilus')",Lulu,0.4020250000000001
+"('Ezreal', 'Nautilus')",Nami,0.342275
+"('Ezreal', 'Nautilus')",Pyke,0.2939750000000001
+"('Ezreal', 'Nautilus')",Rakan,0.3141750000000001
+"('Ezreal', 'Nautilus')",Rell,0.2963500000000001
+"('Ezreal', 'Nautilus')",Thresh,0.36485
+"('Ezreal', 'Pyke')",Braum,0.2535249999999998
+"('Ezreal', 'Pyke')",Karma,0.310575
+"('Ezreal', 'Pyke')",Leona,0.2292499999999998
+"('Ezreal', 'Pyke')",Lulu,0.3645999999999999
+"('Ezreal', 'Pyke')",Nami,0.2870749999999999
+"('Ezreal', 'Pyke')",Nautilus,0.361975
+"('Ezreal', 'Pyke')",Rakan,0.2697
+"('Ezreal', 'Pyke')",Rell,0.2559249999999999
+"('Ezreal', 'Pyke')",Thresh,0.3044249999999998
+"('Ezreal', 'Rakan')",Braum,0.2929749999999999
+"('Ezreal', 'Rakan')",Karma,0.366425
+"('Ezreal', 'Rakan')",Leona,0.2754999999999999
+"('Ezreal', 'Rakan')",Lulu,0.422125
+"('Ezreal', 'Rakan')",Nami,0.33785
+"('Ezreal', 'Rakan')",Nautilus,0.420725
+"('Ezreal', 'Rakan')",Pyke,0.3051999999999999
+"('Ezreal', 'Rakan')",Rell,0.31105
+"('Ezreal', 'Rakan')",Thresh,0.3600499999999998
+"('Ezreal', 'Rell')",Braum,0.3240249999999999
+"('Ezreal', 'Rell')",Karma,0.395325
+"('Ezreal', 'Rell')",Leona,0.3043499999999999
+"('Ezreal', 'Rell')",Lulu,0.43205
+"('Ezreal', 'Rell')",Nami,0.3701499999999998
+"('Ezreal', 'Rell')",Nautilus,0.44885
+"('Ezreal', 'Rell')",Pyke,0.3292750000000001
+"('Ezreal', 'Rell')",Rakan,0.3531
+"('Ezreal', 'Rell')",Thresh,0.3890499999999999
+"('Ezreal', 'Thresh')",Braum,0.2281749999999998
+"('Ezreal', 'Thresh')",Karma,0.278375
+"('Ezreal', 'Thresh')",Leona,0.2086499999999999
+"('Ezreal', 'Thresh')",Lulu,0.3278
+"('Ezreal', 'Thresh')",Nami,0.2799249999999999
+"('Ezreal', 'Thresh')",Nautilus,0.357
+"('Ezreal', 'Thresh')",Pyke,0.246975
+"('Ezreal', 'Thresh')",Rakan,0.2669249999999999
+"('Ezreal', 'Thresh')",Rell,0.25375
+"('Jhin', 'Braum')",Karma,0.328525
+"('Jhin', 'Braum')",Leona,0.2674499999999999
+"('Jhin', 'Braum')",Lulu,0.3869499999999999
+"('Jhin', 'Braum')",Nami,0.3183499999999998
+"('Jhin', 'Braum')",Nautilus,0.415425
+"('Jhin', 'Braum')",Pyke,0.2614749999999999
+"('Jhin', 'Braum')",Rakan,0.3216499999999999
+"('Jhin', 'Braum')",Rell,0.29505
+"('Jhin', 'Braum')",Thresh,0.3560999999999999
+"('Jhin', 'Karma')",Braum,0.31085
+"('Jhin', 'Karma')",Leona,0.2991999999999999
+"('Jhin', 'Karma')",Lulu,0.428825
+"('Jhin', 'Karma')",Nami,0.3641500000000001
+"('Jhin', 'Karma')",Nautilus,0.4406500000000001
+"('Jhin', 'Karma')",Pyke,0.2960250000000001
+"('Jhin', 'Karma')",Rakan,0.3498
+"('Jhin', 'Karma')",Rell,0.3321000000000002
+"('Jhin', 'Karma')",Thresh,0.3697749999999999
+"('Jhin', 'Leona')",Braum,0.2608749999999999
+"('Jhin', 'Leona')",Karma,0.3184249999999999
+"('Jhin', 'Leona')",Lulu,0.403125
+"('Jhin', 'Leona')",Nami,0.3130999999999999
+"('Jhin', 'Leona')",Nautilus,0.40985
+"('Jhin', 'Leona')",Pyke,0.257625
+"('Jhin', 'Leona')",Rakan,0.31165
+"('Jhin', 'Leona')",Rell,0.2887499999999999
+"('Jhin', 'Leona')",Thresh,0.3362499999999999
+"('Jhin', 'Lulu')",Braum,0.2219249999999999
+"('Jhin', 'Lulu')",Karma,0.2481749999999999
+"('Jhin', 'Lulu')",Leona,0.1687249999999998
+"('Jhin', 'Lulu')",Nami,0.2532249999999998
+"('Jhin', 'Lulu')",Nautilus,0.3304000000000001
+"('Jhin', 'Lulu')",Pyke,0.1888999999999999
+"('Jhin', 'Lulu')",Rakan,0.242775
+"('Jhin', 'Lulu')",Rell,0.2222249999999999
+"('Jhin', 'Lulu')",Thresh,0.2578749999999999
+"('Jhin', 'Nami')",Braum,0.3702500000000001
+"('Jhin', 'Nami')",Karma,0.4246250000000001
+"('Jhin', 'Nami')",Leona,0.345
+"('Jhin', 'Nami')",Lulu,0.4835500000000002
+"('Jhin', 'Nami')",Nautilus,0.4862250000000002
+"('Jhin', 'Nami')",Pyke,0.36355
+"('Jhin', 'Nami')",Rakan,0.4053250000000001
+"('Jhin', 'Nami')",Rell,0.3845500000000001
+"('Jhin', 'Nami')",Thresh,0.42645
+"('Jhin', 'Nautilus')",Braum,0.2169749999999998
+"('Jhin', 'Nautilus')",Karma,0.2849250000000001
+"('Jhin', 'Nautilus')",Leona,0.2161249999999999
+"('Jhin', 'Nautilus')",Lulu,0.3646750000000001
+"('Jhin', 'Nautilus')",Nami,0.2894749999999999
+"('Jhin', 'Nautilus')",Pyke,0.227875
+"('Jhin', 'Nautilus')",Rakan,0.26875
+"('Jhin', 'Nautilus')",Rell,0.245075
+"('Jhin', 'Nautilus')",Thresh,0.312675
+"('Jhin', 'Pyke')",Braum,0.2483
+"('Jhin', 'Pyke')",Karma,0.3143750000000001
+"('Jhin', 'Pyke')",Leona,0.2352749999999999
+"('Jhin', 'Pyke')",Lulu,0.38355
+"('Jhin', 'Pyke')",Nami,0.289525
+"('Jhin', 'Pyke')",Nautilus,0.3690000000000002
+"('Jhin', 'Pyke')",Rakan,0.2795250000000001
+"('Jhin', 'Pyke')",Rell,0.2599000000000001
+"('Jhin', 'Pyke')",Thresh,0.3075
+"('Jhin', 'Rakan')",Braum,0.27625
+"('Jhin', 'Rakan')",Karma,0.358725
+"('Jhin', 'Rakan')",Leona,0.2700249999999999
+"('Jhin', 'Rakan')",Lulu,0.4195750000000001
+"('Jhin', 'Rakan')",Nami,0.3288
+"('Jhin', 'Rakan')",Nautilus,0.4162500000000001
+"('Jhin', 'Rakan')",Pyke,0.2828500000000001
+"('Jhin', 'Rakan')",Rell,0.3035250000000001
+"('Jhin', 'Rakan')",Thresh,0.351625
+"('Jhin', 'Rell')",Braum,0.3127999999999999
+"('Jhin', 'Rell')",Karma,0.393125
+"('Jhin', 'Rell')",Leona,0.304375
+"('Jhin', 'Rell')",Lulu,0.4450000000000001
+"('Jhin', 'Rell')",Nami,0.3666
+"('Jhin', 'Rell')",Nautilus,0.4498750000000001
+"('Jhin', 'Rell')",Pyke,0.3124250000000001
+"('Jhin', 'Rell')",Rakan,0.3569250000000001
+"('Jhin', 'Rell')",Thresh,0.386125
+"('Jhin', 'Thresh')",Braum,0.2087
+"('Jhin', 'Thresh')",Karma,0.2679250000000001
+"('Jhin', 'Thresh')",Leona,0.200425
+"('Jhin', 'Thresh')",Lulu,0.3325000000000001
+"('Jhin', 'Thresh')",Nami,0.268125
+"('Jhin', 'Thresh')",Nautilus,0.3497750000000002
+"('Jhin', 'Thresh')",Pyke,0.220075
+"('Jhin', 'Thresh')",Rakan,0.2664750000000001
+"('Jhin', 'Thresh')",Rell,0.2434750000000001
+"('Jinx', 'Braum')",Karma,0.4136250000000001
+"('Jinx', 'Braum')",Leona,0.4445
+"('Jinx', 'Braum')",Lulu,0.4770750000000001
+"('Jinx', 'Braum')",Nami,0.3992999999999999
+"('Jinx', 'Braum')",Nautilus,0.5022500000000001
+"('Jinx', 'Braum')",Pyke,0.3598750000000001
+"('Jinx', 'Braum')",Rakan,0.409025
+"('Jinx', 'Braum')",Rell,0.3859750000000001
+"('Jinx', 'Braum')",Thresh,0.4772000000000001
+"('Jinx', 'Karma')",Braum,0.439075
+"('Jinx', 'Karma')",Leona,0.497125
+"('Jinx', 'Karma')",Lulu,0.5309750000000001
+"('Jinx', 'Karma')",Nami,0.4601
+"('Jinx', 'Karma')",Nautilus,0.5424750000000002
+"('Jinx', 'Karma')",Pyke,0.4094250000000001
+"('Jinx', 'Karma')",Rakan,0.452175
+"('Jinx', 'Karma')",Rell,0.4380250000000001
+"('Jinx', 'Karma')",Thresh,0.5143750000000001
+"('Jinx', 'Leona')",Braum,0.5150999999999999
+"('Jinx', 'Leona')",Karma,0.5445250000000001
+"('Jinx', 'Leona')",Lulu,0.633225
+"('Jinx', 'Leona')",Nami,0.5350499999999999
+"('Jinx', 'Leona')",Nautilus,0.6376750000000001
+"('Jinx', 'Leona')",Pyke,0.4970250000000001
+"('Jinx', 'Leona')",Rakan,0.5400250000000001
+"('Jinx', 'Leona')",Rell,0.5206750000000001
+"('Jinx', 'Leona')",Thresh,0.5930500000000002
+"('Jinx', 'Lulu')",Braum,0.4203999999999999
+"('Jinx', 'Lulu')",Karma,0.418525
+"('Jinx', 'Lulu')",Leona,0.4521749999999999
+"('Jinx', 'Lulu')",Nami,0.4194249999999999
+"('Jinx', 'Lulu')",Nautilus,0.502475
+"('Jinx', 'Lulu')",Pyke,0.3725500000000001
+"('Jinx', 'Lulu')",Rakan,0.41115
+"('Jinx', 'Lulu')",Rell,0.3984
+"('Jinx', 'Lulu')",Thresh,0.472725
+"('Jinx', 'Nami')",Braum,0.400225
+"('Jinx', 'Nami')",Karma,0.4264750000000001
+"('Jinx', 'Nami')",Leona,0.452325
+"('Jinx', 'Nami')",Lulu,0.4874500000000001
+"('Jinx', 'Nami')",Nautilus,0.4898000000000001
+"('Jinx', 'Nami')",Pyke,0.3787000000000001
+"('Jinx', 'Nami')",Rakan,0.4052000000000001
+"('Jinx', 'Nami')",Rell,0.3922250000000001
+"('Jinx', 'Nami')",Thresh,0.470425
+"('Jinx', 'Nautilus')",Braum,0.2734499999999999
+"('Jinx', 'Nautilus')",Karma,0.313275
+"('Jinx', 'Nautilus')",Leona,0.3258750000000001
+"('Jinx', 'Nautilus')",Lulu,0.396125
+"('Jinx', 'Nautilus')",Nami,0.313675
+"('Jinx', 'Nautilus')",Pyke,0.269525
+"('Jinx', 'Nautilus')",Rakan,0.299375
+"('Jinx', 'Nautilus')",Rell,0.27925
+"('Jinx', 'Nautilus')",Thresh,0.365575
+"('Jinx', 'Pyke')",Braum,0.3867749999999998
+"('Jinx', 'Pyke')",Karma,0.4247249999999999
+"('Jinx', 'Pyke')",Leona,0.4374749999999999
+"('Jinx', 'Pyke')",Lulu,0.4959499999999999
+"('Jinx', 'Pyke')",Nami,0.3957249999999999
+"('Jinx', 'Pyke')",Nautilus,0.481075
+"('Jinx', 'Pyke')",Rakan,0.3921499999999999
+"('Jinx', 'Pyke')",Rell,0.376075
+"('Jinx', 'Pyke')",Thresh,0.4603
+"('Jinx', 'Rakan')",Braum,0.3242249999999999
+"('Jinx', 'Rakan')",Karma,0.378575
+"('Jinx', 'Rakan')",Leona,0.381075
+"('Jinx', 'Rakan')",Lulu,0.4522
+"('Jinx', 'Rakan')",Nami,0.3445
+"('Jinx', 'Rakan')",Nautilus,0.4378250000000001
+"('Jinx', 'Rakan')",Pyke,0.316
+"('Jinx', 'Rakan')",Rell,0.3292
+"('Jinx', 'Rakan')",Thresh,0.423275
+"('Jinx', 'Rell')",Braum,0.4585249999999998
+"('Jinx', 'Rell')",Karma,0.5107250000000001
+"('Jinx', 'Rell')",Leona,0.5116749999999999
+"('Jinx', 'Rell')",Lulu,0.56465
+"('Jinx', 'Rell')",Nami,0.4800499999999998
+"('Jinx', 'Rell')",Nautilus,0.5692
+"('Jinx', 'Rell')",Pyke,0.443325
+"('Jinx', 'Rell')",Rakan,0.4768
+"('Jinx', 'Rell')",Thresh,0.560775
+"('Jinx', 'Thresh')",Braum,0.4414249999999999
+"('Jinx', 'Thresh')",Karma,0.472525
+"('Jinx', 'Thresh')",Leona,0.5145250000000001
+"('Jinx', 'Thresh')",Lulu,0.53915
+"('Jinx', 'Thresh')",Nami,0.468575
+"('Jinx', 'Thresh')",Nautilus,0.5561000000000001
+"('Jinx', 'Thresh')",Pyke,0.4397750000000001
+"('Jinx', 'Thresh')",Rakan,0.4691000000000001
+"('Jinx', 'Thresh')",Rell,0.4539000000000001
+"(""Kai'Sa"", 'Braum')",Karma,0.366475
+"(""Kai'Sa"", 'Braum')",Leona,0.3183499999999999
+"(""Kai'Sa"", 'Braum')",Lulu,0.42235
+"(""Kai'Sa"", 'Braum')",Nami,0.3599749999999999
+"(""Kai'Sa"", 'Braum')",Nautilus,0.46625
+"(""Kai'Sa"", 'Braum')",Pyke,0.3261
+"(""Kai'Sa"", 'Braum')",Rakan,0.34285
+"(""Kai'Sa"", 'Braum')",Rell,0.3317
+"(""Kai'Sa"", 'Braum')",Thresh,0.4130999999999999
+"(""Kai'Sa"", 'Karma')",Braum,0.3183499999999998
+"(""Kai'Sa"", 'Karma')",Leona,0.3035999999999998
+"(""Kai'Sa"", 'Karma')",Lulu,0.419575
+"(""Kai'Sa"", 'Karma')",Nami,0.3592749999999999
+"(""Kai'Sa"", 'Karma')",Nautilus,0.444975
+"(""Kai'Sa"", 'Karma')",Pyke,0.31415
+"(""Kai'Sa"", 'Karma')",Rakan,0.3244999999999999
+"(""Kai'Sa"", 'Karma')",Rell,0.3222499999999999
+"(""Kai'Sa"", 'Karma')",Thresh,0.3802749999999999
+"(""Kai'Sa"", 'Leona')",Braum,0.321625
+"(""Kai'Sa"", 'Leona')",Karma,0.363125
+"(""Kai'Sa"", 'Leona')",Lulu,0.4452750000000001
+"(""Kai'Sa"", 'Leona')",Nami,0.3614749999999999
+"(""Kai'Sa"", 'Leona')",Nautilus,0.4674250000000001
+"(""Kai'Sa"", 'Leona')",Pyke,0.329
+"(""Kai'Sa"", 'Leona')",Rakan,0.3396
+"(""Kai'Sa"", 'Leona')",Rell,0.33215
+"(""Kai'Sa"", 'Leona')",Thresh,0.4
+"(""Kai'Sa"", 'Lulu')",Braum,0.3261749999999999
+"(""Kai'Sa"", 'Lulu')",Karma,0.3363749999999998
+"(""Kai'Sa"", 'Lulu')",Leona,0.2698749999999998
+"(""Kai'Sa"", 'Lulu')",Nami,0.3450999999999999
+"(""Kai'Sa"", 'Lulu')",Nautilus,0.431475
+"(""Kai'Sa"", 'Lulu')",Pyke,0.3037749999999999
+"(""Kai'Sa"", 'Lulu')",Rakan,0.31315
+"(""Kai'Sa"", 'Lulu')",Rell,0.309125
+"(""Kai'Sa"", 'Lulu')",Thresh,0.3651249999999998
+"(""Kai'Sa"", 'Nami')",Braum,0.2149999999999999
+"(""Kai'Sa"", 'Nami')",Karma,0.2533250000000001
+"(""Kai'Sa"", 'Nami')",Leona,0.1866499999999999
+"(""Kai'Sa"", 'Nami')",Lulu,0.31155
+"(""Kai'Sa"", 'Nami')",Nautilus,0.3278
+"(""Kai'Sa"", 'Nami')",Pyke,0.218925
+"(""Kai'Sa"", 'Nami')",Rakan,0.2162
+"(""Kai'Sa"", 'Nami')",Rell,0.21195
+"(""Kai'Sa"", 'Nami')",Thresh,0.2741999999999999
+"(""Kai'Sa"", 'Nautilus')",Braum,0.2227249999999999
+"(""Kai'Sa"", 'Nautilus')",Karma,0.2746250000000001
+"(""Kai'Sa"", 'Nautilus')",Leona,0.2187749999999999
+"(""Kai'Sa"", 'Nautilus')",Lulu,0.3518250000000001
+"(""Kai'Sa"", 'Nautilus')",Nami,0.28285
+"(""Kai'Sa"", 'Nautilus')",Pyke,0.24425
+"(""Kai'Sa"", 'Nautilus')",Rakan,0.2417
+"(""Kai'Sa"", 'Nautilus')",Rell,0.233475
+"(""Kai'Sa"", 'Nautilus')",Thresh,0.3164750000000001
+"(""Kai'Sa"", 'Pyke')",Braum,0.25155
+"(""Kai'Sa"", 'Pyke')",Karma,0.3015750000000001
+"(""Kai'Sa"", 'Pyke')",Leona,0.2354249999999999
+"(""Kai'Sa"", 'Pyke')",Lulu,0.3700500000000001
+"(""Kai'Sa"", 'Pyke')",Nami,0.2804
+"(""Kai'Sa"", 'Pyke')",Nautilus,0.3690750000000001
+"(""Kai'Sa"", 'Pyke')",Rakan,0.249975
+"(""Kai'Sa"", 'Pyke')",Rell,0.2458
+"(""Kai'Sa"", 'Pyke')",Thresh,0.3137500000000001
+"(""Kai'Sa"", 'Rakan')",Braum,0.283
+"(""Kai'Sa"", 'Rakan')",Karma,0.3494250000000001
+"(""Kai'Sa"", 'Rakan')",Leona,0.273675
+"(""Kai'Sa"", 'Rakan')",Lulu,0.4176500000000001
+"(""Kai'Sa"", 'Rakan')",Nami,0.3231750000000001
+"(""Kai'Sa"", 'Rakan')",Nautilus,0.4198250000000001
+"(""Kai'Sa"", 'Rakan')",Pyke,0.3002250000000001
+"(""Kai'Sa"", 'Rakan')",Rell,0.2929250000000001
+"(""Kai'Sa"", 'Rakan')",Thresh,0.361375
+"(""Kai'Sa"", 'Rell')",Braum,0.3768
+"(""Kai'Sa"", 'Rell')",Karma,0.441075
+"(""Kai'Sa"", 'Rell')",Leona,0.365275
+"(""Kai'Sa"", 'Rell')",Lulu,0.4922500000000001
+"(""Kai'Sa"", 'Rell')",Nami,0.4182249999999999
+"(""Kai'Sa"", 'Rell')",Nautilus,0.5107000000000002
+"(""Kai'Sa"", 'Rell')",Pyke,0.3870500000000001
+"(""Kai'Sa"", 'Rell')",Rakan,0.388125
+"(""Kai'Sa"", 'Rell')",Thresh,0.453125
+"(""Kai'Sa"", 'Thresh')",Braum,0.27445
+"(""Kai'Sa"", 'Thresh')",Karma,0.3176250000000001
+"(""Kai'Sa"", 'Thresh')",Leona,0.263075
+"(""Kai'Sa"", 'Thresh')",Lulu,0.3812000000000001
+"(""Kai'Sa"", 'Thresh')",Nami,0.3215
+"(""Kai'Sa"", 'Thresh')",Nautilus,0.4123500000000001
+"(""Kai'Sa"", 'Thresh')",Pyke,0.296925
+"(""Kai'Sa"", 'Thresh')",Rakan,0.29835
+"(""Kai'Sa"", 'Thresh')",Rell,0.2918750000000001
+"(""Kog'Maw"", 'Braum')",Karma,0.3707249999999999
+"(""Kog'Maw"", 'Braum')",Leona,0.2962249999999999
+"(""Kog'Maw"", 'Braum')",Lulu,0.404675
+"(""Kog'Maw"", 'Braum')",Nami,0.3072749999999999
+"(""Kog'Maw"", 'Braum')",Nautilus,0.4412999999999999
+"(""Kog'Maw"", 'Braum')",Pyke,0.281025
+"(""Kog'Maw"", 'Braum')",Rakan,0.3208249999999999
+"(""Kog'Maw"", 'Braum')",Rell,0.292525
+"(""Kog'Maw"", 'Braum')",Thresh,0.3863
+"(""Kog'Maw"", 'Karma')",Braum,0.4791749999999999
+"(""Kog'Maw"", 'Karma')",Leona,0.4554749999999998
+"(""Kog'Maw"", 'Karma')",Lulu,0.569375
+"(""Kog'Maw"", 'Karma')",Nami,0.4805749999999999
+"(""Kog'Maw"", 'Karma')",Nautilus,0.594025
+"(""Kog'Maw"", 'Karma')",Pyke,0.4430749999999999
+"(""Kog'Maw"", 'Karma')",Rakan,0.4764749999999999
+"(""Kog'Maw"", 'Karma')",Rell,0.457075
+"(""Kog'Maw"", 'Karma')",Thresh,0.5274749999999999
+"(""Kog'Maw"", 'Leona')",Braum,0.3654499999999999
+"(""Kog'Maw"", 'Leona')",Karma,0.4296749999999998
+"(""Kog'Maw"", 'Leona')",Lulu,0.481875
+"(""Kog'Maw"", 'Leona')",Nami,0.3657749999999998
+"(""Kog'Maw"", 'Leona')",Nautilus,0.4994749999999999
+"(""Kog'Maw"", 'Leona')",Pyke,0.340925
+"(""Kog'Maw"", 'Leona')",Rakan,0.3745749999999999
+"(""Kog'Maw"", 'Leona')",Rell,0.349975
+"(""Kog'Maw"", 'Leona')",Thresh,0.4301999999999999
+"(""Kog'Maw"", 'Lulu')",Braum,0.4309999999999998
+"(""Kog'Maw"", 'Lulu')",Karma,0.4501249999999999
+"(""Kog'Maw"", 'Lulu')",Leona,0.3657499999999999
+"(""Kog'Maw"", 'Lulu')",Nami,0.4103999999999999
+"(""Kog'Maw"", 'Lulu')",Nautilus,0.524525
+"(""Kog'Maw"", 'Lulu')",Pyke,0.3766999999999999
+"(""Kog'Maw"", 'Lulu')",Rakan,0.413
+"(""Kog'Maw"", 'Lulu')",Rell,0.3879499999999999
+"(""Kog'Maw"", 'Lulu')",Thresh,0.4563249999999999
+"(""Kog'Maw"", 'Nami')",Braum,0.3360749999999999
+"(""Kog'Maw"", 'Nami')",Karma,0.3721999999999998
+"(""Kog'Maw"", 'Nami')",Leona,0.2987749999999998
+"(""Kog'Maw"", 'Nami')",Lulu,0.4216
+"(""Kog'Maw"", 'Nami')",Nautilus,0.4371
+"(""Kog'Maw"", 'Nami')",Pyke,0.3081
+"(""Kog'Maw"", 'Nami')",Rakan,0.3323
+"(""Kog'Maw"", 'Nami')",Rell,0.307025
+"(""Kog'Maw"", 'Nami')",Thresh,0.3816499999999999
+"(""Kog'Maw"", 'Nautilus')",Braum,0.3512999999999998
+"(""Kog'Maw"", 'Nautilus')",Karma,0.4320749999999999
+"(""Kog'Maw"", 'Nautilus')",Leona,0.3383999999999998
+"(""Kog'Maw"", 'Nautilus')",Lulu,0.4722749999999999
+"(""Kog'Maw"", 'Nautilus')",Nami,0.3718999999999998
+"(""Kog'Maw"", 'Nautilus')",Pyke,0.3409249999999999
+"(""Kog'Maw"", 'Nautilus')",Rakan,0.361425
+"(""Kog'Maw"", 'Nautilus')",Rell,0.3360499999999999
+"(""Kog'Maw"", 'Nautilus')",Thresh,0.4363749999999999
+"(""Kog'Maw"", 'Pyke')",Braum,0.506375
+"(""Kog'Maw"", 'Pyke')",Karma,0.567375
+"(""Kog'Maw"", 'Pyke')",Leona,0.4812999999999999
+"(""Kog'Maw"", 'Pyke')",Lulu,0.61385
+"(""Kog'Maw"", 'Pyke')",Nami,0.4957000000000001
+"(""Kog'Maw"", 'Pyke')",Nautilus,0.6121250000000003
+"(""Kog'Maw"", 'Pyke')",Rakan,0.4959500000000001
+"(""Kog'Maw"", 'Pyke')",Rell,0.4746250000000001
+"(""Kog'Maw"", 'Pyke')",Thresh,0.5549499999999999
+"(""Kog'Maw"", 'Rakan')",Braum,0.2928249999999998
+"(""Kog'Maw"", 'Rakan')",Karma,0.3608749999999999
+"(""Kog'Maw"", 'Rakan')",Leona,0.2745499999999998
+"(""Kog'Maw"", 'Rakan')",Lulu,0.407175
+"(""Kog'Maw"", 'Rakan')",Nami,0.2934749999999999
+"(""Kog'Maw"", 'Rakan')",Nautilus,0.417875
+"(""Kog'Maw"", 'Rakan')",Pyke,0.2781499999999999
+"(""Kog'Maw"", 'Rakan')",Rell,0.27675
+"(""Kog'Maw"", 'Rakan')",Thresh,0.3575749999999999
+"(""Kog'Maw"", 'Rell')",Braum,0.4586249999999999
+"(""Kog'Maw"", 'Rell')",Karma,0.5192749999999999
+"(""Kog'Maw"", 'Rell')",Leona,0.43815
+"(""Kog'Maw"", 'Rell')",Lulu,0.56305
+"(""Kog'Maw"", 'Rell')",Nami,0.4605249999999999
+"(""Kog'Maw"", 'Rell')",Nautilus,0.5807500000000001
+"(""Kog'Maw"", 'Rell')",Pyke,0.436975
+"(""Kog'Maw"", 'Rell')",Rakan,0.4611
+"(""Kog'Maw"", 'Rell')",Thresh,0.5213249999999999
+"(""Kog'Maw"", 'Thresh')",Braum,0.4272749999999998
+"(""Kog'Maw"", 'Thresh')",Karma,0.4856249999999998
+"(""Kog'Maw"", 'Thresh')",Leona,0.4069499999999998
+"(""Kog'Maw"", 'Thresh')",Lulu,0.5233
+"(""Kog'Maw"", 'Thresh')",Nami,0.4347999999999999
+"(""Kog'Maw"", 'Thresh')",Nautilus,0.5534
+"(""Kog'Maw"", 'Thresh')",Pyke,0.4191749999999999
+"(""Kog'Maw"", 'Thresh')",Rakan,0.44345
+"(""Kog'Maw"", 'Thresh')",Rell,0.4186999999999999
+"('Xayah', 'Braum')",Karma,0.3786750000000001
+"('Xayah', 'Braum')",Leona,0.3668249999999999
+"('Xayah', 'Braum')",Lulu,0.434325
+"('Xayah', 'Braum')",Nami,0.3997499999999999
+"('Xayah', 'Braum')",Nautilus,0.5161000000000001
+"('Xayah', 'Braum')",Pyke,0.3487999999999999
+"('Xayah', 'Braum')",Rakan,0.4043499999999999
+"('Xayah', 'Braum')",Rell,0.3902000000000001
+"('Xayah', 'Braum')",Thresh,0.451675
+"('Xayah', 'Karma')",Braum,0.2697249999999999
+"('Xayah', 'Karma')",Leona,0.2598249999999998
+"('Xayah', 'Karma')",Lulu,0.353375
+"('Xayah', 'Karma')",Nami,0.3067999999999999
+"('Xayah', 'Karma')",Nautilus,0.4052
+"('Xayah', 'Karma')",Pyke,0.2472249999999999
+"('Xayah', 'Karma')",Rakan,0.2975500000000001
+"('Xayah', 'Karma')",Rell,0.2885
+"('Xayah', 'Karma')",Thresh,0.3293
+"('Xayah', 'Leona')",Braum,0.24025
+"('Xayah', 'Leona')",Karma,0.2503250000000001
+"('Xayah', 'Leona')",Lulu,0.3322500000000002
+"('Xayah', 'Leona')",Nami,0.2762499999999999
+"('Xayah', 'Leona')",Nautilus,0.3933750000000002
+"('Xayah', 'Leona')",Pyke,0.2278
+"('Xayah', 'Leona')",Rakan,0.2833000000000001
+"('Xayah', 'Leona')",Rell,0.2656500000000001
+"('Xayah', 'Leona')",Thresh,0.3082750000000001
+"('Xayah', 'Lulu')",Braum,0.3475499999999998
+"('Xayah', 'Lulu')",Karma,0.3263249999999999
+"('Xayah', 'Lulu')",Leona,0.2960999999999998
+"('Xayah', 'Lulu')",Nami,0.3626249999999998
+"('Xayah', 'Lulu')",Nautilus,0.4464249999999999
+"('Xayah', 'Lulu')",Pyke,0.291575
+"('Xayah', 'Lulu')",Rakan,0.3442499999999999
+"('Xayah', 'Lulu')",Rell,0.3446249999999999
+"('Xayah', 'Lulu')",Thresh,0.3841499999999999
+"('Xayah', 'Nami')",Braum,0.232625
+"('Xayah', 'Nami')",Karma,0.239525
+"('Xayah', 'Nami')",Leona,0.2091249999999999
+"('Xayah', 'Nami')",Lulu,0.3171750000000001
+"('Xayah', 'Nami')",Nautilus,0.3570000000000001
+"('Xayah', 'Nami')",Pyke,0.221725
+"('Xayah', 'Nami')",Rakan,0.24355
+"('Xayah', 'Nami')",Rell,0.24445
+"('Xayah', 'Nami')",Thresh,0.289475
+"('Xayah', 'Nautilus')",Braum,0.3086
+"('Xayah', 'Nautilus')",Karma,0.329075
+"('Xayah', 'Nautilus')",Leona,0.3094999999999999
+"('Xayah', 'Nautilus')",Lulu,0.40605
+"('Xayah', 'Nautilus')",Nami,0.3648749999999999
+"('Xayah', 'Nautilus')",Pyke,0.3082999999999999
+"('Xayah', 'Nautilus')",Rakan,0.35265
+"('Xayah', 'Nautilus')",Rell,0.334225
+"('Xayah', 'Nautilus')",Thresh,0.3908
+"('Xayah', 'Pyke')",Braum,0.437425
+"('Xayah', 'Pyke')",Karma,0.456025
+"('Xayah', 'Pyke')",Leona,0.42615
+"('Xayah', 'Pyke')",Lulu,0.5298750000000001
+"('Xayah', 'Pyke')",Nami,0.462425
+"('Xayah', 'Pyke')",Nautilus,0.5665250000000001
+"('Xayah', 'Pyke')",Rakan,0.4533000000000001
+"('Xayah', 'Pyke')",Rell,0.44655
+"('Xayah', 'Pyke')",Thresh,0.4972749999999999
+"('Xayah', 'Rakan')",Braum,0.3236249999999999
+"('Xayah', 'Rakan')",Karma,0.3586249999999999
+"('Xayah', 'Rakan')",Leona,0.3191499999999999
+"('Xayah', 'Rakan')",Lulu,0.426625
+"('Xayah', 'Rakan')",Nami,0.3599499999999999
+"('Xayah', 'Rakan')",Nautilus,0.4720250000000001
+"('Xayah', 'Rakan')",Pyke,0.3275249999999999
+"('Xayah', 'Rakan')",Rell,0.348425
+"('Xayah', 'Rakan')",Thresh,0.3996499999999999
+"('Xayah', 'Rell')",Braum,0.3409249999999998
+"('Xayah', 'Rell')",Karma,0.3737749999999999
+"('Xayah', 'Rell')",Leona,0.3342499999999999
+"('Xayah', 'Rell')",Lulu,0.4472999999999999
+"('Xayah', 'Rell')",Nami,0.3784999999999998
+"('Xayah', 'Rell')",Nautilus,0.4864
+"('Xayah', 'Rell')",Pyke,0.33785
+"('Xayah', 'Rell')",Rakan,0.377325
+"('Xayah', 'Rell')",Thresh,0.4148999999999999
+"('Xayah', 'Thresh')",Braum,0.3458249999999999
+"('Xayah', 'Thresh')",Karma,0.3575750000000001
+"('Xayah', 'Thresh')",Leona,0.3393
+"('Xayah', 'Thresh')",Lulu,0.4209250000000001
+"('Xayah', 'Thresh')",Nami,0.389025
+"('Xayah', 'Thresh')",Nautilus,0.4746500000000002
+"('Xayah', 'Thresh')",Pyke,0.3334
+"('Xayah', 'Thresh')",Rakan,0.37945
+"('Xayah', 'Thresh')",Rell,0.374725

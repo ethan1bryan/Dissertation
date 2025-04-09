@@ -1,0 +1,291 @@
+champ1,champ2,win_rate,no_games,type
+Orianna,Azir,77.0,13,matchup
+Orianna,Akali,67.0,6,matchup
+Orianna,Syndra,100.0,5,matchup
+Orianna,Neeko,0.0,4,matchup
+Orianna,Sylas,33.0,3,matchup
+Orianna,Yone mid,0.0,2,matchup
+Orianna,Tristana mid,0.0,1,matchup
+Xayah,KaiSa,70.0,10,matchup
+Xayah,Ezreal,100.0,4,matchup
+Xayah,Aphelios,33.0,3,matchup
+Xayah,Sivir,0.0,2,matchup
+Xayah,Ziggs,100.0,1,matchup
+Xayah,Zeri,100.0,1,matchup
+Xayah,Draven,100.0,1,matchup
+Xayah,Jinx,0.0,1,matchup
+Xayah,Varus,100.0,1,matchup
+Jarvan IV,Maokai,57.0,7,matchup
+Jarvan IV,Vi,80.0,5,matchup
+Jarvan IV,Taliyah jng,67.0,3,matchup
+Jarvan IV,Sejuani,33.0,3,matchup
+Jarvan IV,Viego,0.0,3,matchup
+Jarvan IV,BelVeth,100.0,2,matchup
+Jarvan IV,Lee Sin,50.0,2,matchup
+Jarvan IV,Rell jng,50.0,2,matchup
+Jarvan IV,Poppy,100.0,1,matchup
+Rumble,KSante,60.0,5,matchup
+Rumble,Aatrox,75.0,4,matchup
+Rumble,Jax,100.0,3,matchup
+Rumble,Ornn,100.0,2,matchup
+Rumble,Gnar,50.0,2,matchup
+Rumble,Jayce top,0.0,1,matchup
+Rumble,Olaf,100.0,1,matchup
+Kalista,Aphelios,33.0,3,matchup
+Kalista,KaiSa,50.0,2,matchup
+Kalista,Tahm Kench bot,50.0,2,matchup
+Kalista,Ashe bot,100.0,2,matchup
+Kalista,Varus,50.0,2,matchup
+Kalista,Caitlyn,100.0,2,matchup
+Kalista,Draven,0.0,1,matchup
+Neeko,Ahri,75.0,4,matchup
+Neeko,Syndra,100.0,3,matchup
+Neeko,Azir,0.0,2,matchup
+Neeko,Jayce mid,100.0,2,matchup
+Neeko,LeBlanc,100.0,1,matchup
+Neeko,Akali,0.0,1,matchup
+Azir,Jayce mid,100.0,4,matchup
+Azir,Taliyah mid,33.0,3,matchup
+Azir,Sylas,50.0,2,matchup
+Azir,Syndra,100.0,1,matchup
+Azir,Akali,0.0,1,matchup
+Maokai,Sejuani,75.0,4,matchup
+Maokai,Rell jng,33.0,3,matchup
+Maokai,Lee Sin,33.0,3,matchup
+Maokai,Nocturne,0.0,2,matchup
+Maokai,Vi,0.0,2,matchup
+Rakan,Alistar,43.0,7,matchup
+Rakan,Rell jng,50.0,6,matchup
+Rakan,Nautilus,67.0,6,matchup
+Rakan,Bard,50.0,2,matchup
+Rakan,Renata,100.0,2,matchup
+Rakan,Lulu,50.0,2,matchup
+Rakan,Leona,100.0,1,matchup
+Rakan,Ashe sup,0.0,1,matchup
+Rell jng,Vi,100.0,5,matchup
+Rell sup,Senna,0.0,4,matchup
+Rell sup,Alistar,100.0,3,matchup
+Rell jng,Sejuani,33.0,3,matchup
+Rell sup,Renata,0.0,2,matchup
+Rell sup,Nautilus,50.0,2,matchup
+Rell jng,Wukong,50.0,2,matchup
+Rell jng,Viego,100.0,1,matchup
+Rell sup,Tahm Kench sup,100.0,1,matchup
+Rell sup,Milio,0.0,1,matchup
+Jax,Renekton,71.0,7,matchup
+Jax,KSante,40.0,5,matchup
+Jax,Aatrox,33.0,3,matchup
+Jax,Gwen,100.0,1,matchup
+Renata,Alistar,100.0,3,matchup
+Renata,Milio,67.0,3,matchup
+Renata,Senna,100.0,2,matchup
+Renata,Blitzcrank,100.0,1,matchup
+Renata,Tahm Kench sup,100.0,1,matchup
+Renata,Lux,100.0,1,matchup
+Renata,Ashe sup,100.0,1,matchup
+KaiSa,Zeri,50.0,4,matchup
+KaiSa,Tristana bot,33.0,3,matchup
+KaiSa,Sivir,67.0,3,matchup
+KaiSa,Aphelios,33.0,3,matchup
+KaiSa,Tahm Kench bot,0.0,3,matchup
+KaiSa,Caitlyn,50.0,2,matchup
+KaiSa,Ashe bot,0.0,1,matchup
+KSante,Aatrox,38.0,8,matchup
+KSante,Renekton,33.0,3,matchup
+KSante,Syndra,50.0,2,matchup
+KSante,Jayce top,0.0,1,matchup
+KSante,Yone top,0.0,1,matchup
+KSante,Gnar,0.0,1,matchup
+KSante,Olaf,100.0,1,matchup
+KSante,Ornn,0.0,1,matchup
+Poppy,Sejuani,50.0,2,matchup
+Poppy,Taliyah jng,100.0,1,matchup
+Poppy,Vi,100.0,1,matchup
+Vi,Lee Sin,75.0,4,matchup
+Vi,BelVeth,33.0,3,matchup
+Vi,Wukong,0.0,2,matchup
+Vi,Viego,100.0,1,matchup
+Alistar,Leona,50.0,2,matchup
+Alistar,Tahm Kench sup,0.0,1,matchup
+Alistar,Lulu,0.0,1,matchup
+Alistar,Nautilus,0.0,1,matchup
+Alistar,Lux,0.0,1,matchup
+Alistar,Milio,0.0,1,matchup
+Alistar,Bard,0.0,1,matchup
+Renekton,Gnar,25.0,4,matchup
+Renekton,Aatrox,25.0,4,matchup
+Renekton,Jayce top,50.0,2,matchup
+Renekton,Kennen,100.0,1,matchup
+Renekton,Ornn,100.0,1,matchup
+Renekton,Olaf,0.0,1,matchup
+Nautilus,Leona,100.0,2,matchup
+Nautilus,Braum,100.0,1,matchup
+Aphelios,Zeri,40.0,5,matchup
+Aphelios,Ashe bot,50.0,2,matchup
+Aphelios,Jinx,50.0,2,matchup
+Aphelios,Varus,0.0,2,matchup
+Aphelios,Caitlyn,0.0,1,matchup
+Aphelios,Tahm Kench bot,100.0,1,matchup
+Aatrox,Gwen,67.0,3,matchup
+Aatrox,Yone top,0.0,2,matchup
+Aatrox,Kennen,100.0,1,matchup
+Sejuani,Lee Sin,50.0,2,matchup
+Sejuani,Viego,100.0,1,matchup
+Sejuani,Ivern,100.0,1,matchup
+Sejuani,Wukong,0.0,1,matchup
+Lee Sin,Wukong,100.0,1,matchup
+Lee Sin,Nocturne,100.0,1,matchup
+Lee Sin,BelVeth,100.0,1,matchup
+Caitlyn,Ezreal,100.0,1,matchup
+Caitlyn,Varus,0.0,1,matchup
+Sylas,Jayce mid,100.0,2,matchup
+Sylas,Ahri,50.0,2,matchup
+Sylas,Tristana mid,100.0,1,matchup
+Sylas,Taliyah mid,100,1,matchup
+Sylas,LeBlanc,100,1,matchup
+Jayce mid,Taliyah mid,50.0,2,matchup
+Jayce mid,Yone mid,100.0,1,matchup
+Jayce mid,Ahri,0.0,1,matchup
+Taliyah mid,Akali,0.0,1,matchup
+Taliyah mid,Syndra,100.0,1,matchup
+Syndra,Ahri,100.0,1,matchup
+Syndra,Akali,100.0,1,matchup
+Akali,Ahri,0.0,1,matchup
+Zeri,Varus,0.0,1,matchup
+Ashe sup,Lux,100.0,1,matchup
+Ashe sup,Senna,0.0,1,matchup
+Senna,Milio,0.0,1,matchup
+Senna,Blitzcrank,100.0,1,matchup
+Draven,Varus,100.0,1,matchup
+Ornn,Garen,100.0,1,matchup
+Blitzcrank,Lux,0.0,1,matchup
+Bard,Braum,0.0,1,matchup
+Bard,Lulu,100.0,1,matchup
+Milio,Braum,100.0,1,matchup
+Xayah,Rakan,67.0,9,crossmatchup
+Xayah,Alistar,50.0,5,crossmatchup
+Xayah,Rell sup,67.0,3,crossmatchup
+Xayah,Milio,50.0,2,crossmatchup
+Xayah,Bard,50.0,2,crossmatchup
+Xayah,Leona,100.0,2,crossmatchup
+Xayah,Tahm Kench sup,0.0,1,crossmatchup
+Xayah,Braum,100.0,1,crossmatchup
+Xayah,Renata,100.0,1,crossmatchup
+Xayah,Nautilus,100.0,1,crossmatchup
+Kalista,Ashe sup,75.0,4,crossmatchup
+Kalista,Renata,0.0,3,crossmatchup
+Kalista,Tahm Kench sup,100.0,2,crossmatchup
+Kalista,Senna,50.0,2,crossmatchup
+Kalista,Lux,100.0,1,crossmatchup
+Kalista,Leona,0.0,1,crossmatchup
+Kalista,Blitzcrank,100.0,1,crossmatchup
+Kalista,Alistar,100.0,1,crossmatchup
+KaiSa,Rakan,38.0,8,crossmatchup
+KaiSa,Alistar,60.0,5,crossmatchup
+KaiSa,Senna,0.0,4,crossmatchup
+KaiSa,Rell sup,0.0,4,crossmatchup
+KaiSa,Braum,50.0,2,crossmatchup
+KaiSa,Leona,100.0,2,crossmatchup
+KaiSa,Lulu,50.0,2,crossmatchup
+KaiSa,Nautilus,50.0,2,crossmatchup
+KaiSa,Milio,0.0,1,crossmatchup
+KaiSa,Lux,0.0,1,crossmatchup
+KaiSa,Renata,0.0,1,crossmatchup
+Aphelios,Renata,20.0,5,crossmatchup
+Aphelios,Rakan,40.0,5,crossmatchup
+Aphelios,Alistar,100.0,3,crossmatchup
+Aphelios,Rell sup,100.0,2,crossmatchup
+Aphelios,Nautilus,0.0,2,crossmatchup
+Aphelios,Senna,100.0,1,crossmatchup
+Aphelios,Lux,0.0,1,crossmatchup
+Aphelios,Ashe sup,0.0,1,crossmatchup
+Caitlyn,Senna,0.0,1,crossmatchup
+Caitlyn,Renata,0.0,1,crossmatchup
+Caitlyn,Ashe sup,0.0,1,crossmatchup
+Caitlyn,Nautilus,0.0,1,crossmatchup
+Caitlyn,Alistar,100.0,1,crossmatchup
+Caitlyn,Blitzcrank,100.0,1,crossmatchup
+Zeri,Rell sup,67.0,3,crossmatchup
+Zeri,Bard,0.0,2,crossmatchup
+Zeri,Alistar,100.0,2,crossmatchup
+Zeri,Lulu,0.0,1,crossmatchup
+Zeri,Milio,0.0,1,crossmatchup
+Ashe bot,Rell sup,50.0,2,crossmatchup
+Ashe bot,Bard,50.0,2,crossmatchup
+Ashe bot,Renata,0.0,1,crossmatchup
+Draven,Alistar,100.0,1,crossmatchup
+Draven,Rakan,0.0,1,crossmatchup
+Draven,Senna,100.0,1,crossmatchup
+Varus,Rakan,50.0,2,crossmatchup
+Varus,Renata,0.0,2,crossmatchup
+Varus,Milio,100.0,1,crossmatchup
+Varus,Lux,100.0,1,crossmatchup
+Varus,Lulu,100.0,1,crossmatchup
+Tahm Kench bot,Rell sup,100.0,4,crossmatchup
+Tahm Kench bot,Renata,0.0,1,crossmatchup
+Tahm Kench bot,Milio,0.0,1,crossmatchup
+Tristana bot,Rakan,50.0,2,crossmatchup
+Tristana bot,Alistar,100.0,1,crossmatchup
+Sivir,Nautilus,60.0,5,crossmatchup
+Ziggs,Alistar,0.0,1,crossmatchup
+Ezreal,Rakan,0.0,2,crossmatchup
+Ezreal,Alistar,0.0,1,crossmatchup
+Ezreal,Nautilus,0.0,1,crossmatchup
+Jinx,Renata,50.0,2,crossmatchup
+Jinx,Alistar,100.0,1,crossmatchup
+Xayah,Rakan,89.0,9,synergy
+Xayah,Alistar,40.0,5,synergy
+Xayah,Rell sup,75.0,4,synergy
+Xayah,Nautilus,50.0,4,synergy
+Xayah,Milio,100.0,1,synergy
+Xayah,Renata,100.0,1,synergy
+Xayah,Lulu,0.0,1,synergy
+Xayah,Bard,100.0,1,synergy
+Kalista,Renata,100.0,6,synergy
+Kalista,Rell sup,33.0,3,synergy
+Kalista,Senna,50.0,2,synergy
+Kalista,Alistar,0.0,1,synergy
+KaiSa,Rakan,38.0,8,synergy
+KaiSa,Alistar,29.0,7,synergy
+KaiSa,Rell sup,29.0,7,synergy
+KaiSa,Nautilus,75.0,4,synergy
+KaiSa,Blitzcrank,0.0,3,synergy
+KaiSa,Leona,50.0,2,synergy
+KaiSa,Bard,0.0,1,synergy
+Aphelios,Milio,67.0,6,synergy
+Aphelios,Alistar,25.0,4,synergy
+Aphelios,Renata,75.0,4,synergy
+Aphelios,Rell sup,33.0,3,synergy
+Aphelios,Lulu,100.0,1,synergy
+Aphelios,Rakan,0.0,1,synergy
+Aphelios,Bard,100.0,1,synergy
+Aphelios,Tahm Kench sup,0.0,1,synergy
+Caitlyn,Lux,50.0,4,synergy
+Caitlyn,Ashe sup,0.0,1,synergy
+Caitlyn,Braum,0.0,1,synergy
+Zeri,Rakan,33.0,6,synergy
+Zeri,Nautilus,100.0,2,synergy
+Zeri,Lulu,50.0,2,synergy
+Zeri,Renata,0.0,1,synergy
+Ashe bot,Renata,100.0,1,synergy
+Ashe bot,Tahm Kench sup,0.0,1,synergy
+Ashe bot,Alistar,0.0,1,synergy
+Ashe bot,Braum,100.0,1,synergy
+Draven,Renata,67.0,3,synergy
+Varus,Ashe sup,75.0,4,synergy
+Varus,Bard,50,2,synergy
+Varus,Renata,100.0,1,synergy
+Varus,Alistar,0.0,1,synergy
+Tahm Kench bot,Senna,67.0,6,synergy
+Tristana bot,Rakan,100.0,1,synergy
+Tristana bot,Nautilus,0.0,1,synergy
+Tristana bot,Alistar,100.0,1,synergy
+Sivir,Leona,0.0,2,synergy
+Sivir,Rakan,100.0,2,synergy
+Sivir,Rell sup,100.0,1,synergy
+Ziggs,Leona,0.0,1,synergy
+Ezreal,Rakan,0.0,2,synergy
+Ezreal,Rell sup,0.0,1,synergy
+Jinx,Alistar,0.0,1,synergy
+Jinx,Tahm Kench sup,100.0,1,synergy
+Jinx,Rakan,100.0,1,synergy

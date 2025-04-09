@@ -1,0 +1,226 @@
+champ1,champ2,win_rate
+K'Sante,Jax,50.38
+K'Sante,Gnar,51.13
+K'Sante,Aatrox,48.05
+K'Sante,Renekton,48.92
+K'Sante,Aurora,48.93
+K'Sante,Yone top,47.09
+K'Sante,Riven,54.31
+K'Sante,Gragas,46.46
+K'Sante,Camille,52.83
+Jax,Gnar,47.28
+Jax,Aatrox,47.72
+Jax,Renekton,48.41
+Jax,Aurora,46.24
+Jax,Yone top,40.05
+Jax,Riven,47.06
+Jax,Gragas,48.94
+Jax,Camille,41.5
+Gnar,Aatrox,46.53
+Gnar,Renekton,49.51
+Gnar,Aurora,47.37
+Gnar,Yone top,46.27
+Gnar,Riven,48.98
+Gnar,Gragas,48.98
+Gnar,Camille,52.32
+Aatrox,Renekton,52.82
+Aatrox,Aurora,52.22
+Aatrox,Yone top,42.68
+Aatrox,Riven,53.88
+Aatrox,Gragas,47.92
+Aatrox,Camille,47.65
+Renekton,Aurora,55.66
+Renekton,Yone top,48.53
+Renekton,Riven,45.52
+Renekton,Gragas,57.72
+Renekton,Camille,53.2
+Aurora,Yone top,49.41
+Aurora,Riven,46.73
+Aurora,Gragas,54.4
+Aurora,Camille,50.68
+Yone top,Riven,53.89
+Yone top,Gragas,55.08
+Yone top,Camille,49.36
+Riven,Gragas,51.04
+Riven,Camille,45.93
+Gragas,Camille,45.93
+Graves,Viego,49.31
+Graves,Lee Sin,47.5
+Graves,Skarner,53.88
+Graves,Nidalee,49.93
+Graves,Elise,50.81
+Graves,Kha'Zix,49.09
+Graves,Jarvan IV,45.55
+Graves,Hecarim,49.85
+Graves,Kindred,49.38
+Viego,Lee Sin,49.27
+Viego,Skarner,51.13
+Viego,Nidalee,49.55
+Viego,Elise,52.82
+Viego,Kha'Zix,50.62
+Viego,Jarvan IV,45.95
+Viego,Hecarim,50.37
+Viego,Kindred,46.83
+Lee Sin,Skarner,54.99
+Lee Sin,Nidalee,50.65
+Lee Sin,Elise,52.37
+Lee Sin,Kha'Zix,48.78
+Lee Sin,Jarvan IV,50.77
+Lee Sin,Hecarim,49.88
+Lee Sin,Kindred,49.88
+Skarner,Nidalee,46.18
+Skarner,Elise,50.0
+Skarner,Kha'Zix,48.48
+Skarner,Jarvan IV,46.63
+Skarner,Hecarim,52.96
+Skarner,Kindred,42.76
+Nidalee,Elise,53.25
+Nidalee,Kha'Zix,40.14
+Nidalee,Jarvan IV,41.38
+Nidalee,Hecarim,52.36
+Nidalee,Kindred,52.19
+Elise,Kha'Zix,48.48
+Elise,Jarvan IV,59.26
+Elise,Hecarim,51.93
+Elise,Kindred,56.82
+Kha'Zix,Jarvan IV,54.55
+Kha'Zix,Hecarim,53.52
+Kha'Zix,Kindred,50.0
+Jarvan IV,Hecarim,44.74
+Jarvan IV,Kindred,48.34
+Hecarim,Kindred,44.94
+Sylas,Yone mid,47.08
+Sylas,Ahri,48.3
+Sylas,Corki mid,54.18
+Sylas,Syndra,45.66
+Sylas,Orianna,48.72
+Sylas,Yasuo,47.73
+Sylas,Akali,48.9
+Sylas,Galio,52.79
+Sylas,Hwei,47.72
+Yone mid,Ahri,54.26
+Yone mid,Corki mid,55.79
+Yone mid,Syndra,53.22
+Yone mid,Orianna,52.67
+Yone mid,Yasuo,48.07
+Yone mid,Akali,55.02
+Yone mid,Galio,49.75
+Yone mid,Hwei,47.69
+Ahri,Corki mid,51.43
+Ahri,Syndra,48.4
+Ahri,Orianna,49.38
+Ahri,Yasuo,52.67
+Ahri,Akali,46.31
+Ahri,Galio,44.3
+Ahri,Hwei,48.79
+Corki mid,Syndra,51.24
+Corki mid,Orianna,51.34
+Corki mid,Yasuo,43.76
+Corki mid,Akali,47.85
+Corki mid,Galio,44.64
+Corki mid,Hwei,53.85
+Syndra,Orianna,45.89
+Syndra,Yasuo,50.37
+Syndra,Akali,46.77
+Syndra,Galio,47.98
+Syndra,Hwei,49.51
+Orianna,Yasuo,50.37
+Orianna,Akali,46.77
+Orianna,Galio,47.98
+Orianna,Hwei,49.51
+Yasuo,Akali,50.78
+Yasuo,Galio,51.45
+Yasuo,Hwei,53.54
+Akali,Galio,53.09
+Akali,Hwei,50.21
+Galio,Hwei,56.96
+Ashe,Kai'Sa,46.58
+Ashe,Jhin,47.9
+Ashe,Ezreal,46.7
+Ashe,Corki bot,50.05
+Ashe,Caitlyn,48.16
+Ashe,Jinx,48.82
+Ashe,Kog'Maw,51.68
+Ashe,Xayah,49.21
+Ashe,Aphelios,47.53
+Kai'Sa,Jhin,50.04
+Kai'Sa,Ezreal,47.87
+Kai'Sa,Corki bot,54.38
+Kai'Sa,Caitlyn,51.42
+Kai'Sa,Jinx,50.69
+Kai'Sa,Kog'Maw,53.89
+Kai'Sa,Xayah,52.79
+Kai'Sa,Aphelios,55.62
+Jhin,Ezreal,50.62
+Jhin,Corki bot,52.13
+Jhin,Caitlyn,48.74
+Jhin,Jinx,53.58
+Jhin,Kog'Maw,51.83
+Jhin,Xayah,49.02
+Jhin,Aphelios,47.45
+Ezreal,Corki bot,51.01
+Ezreal,Caitlyn,49.21
+Ezreal,Jinx,50.78
+Ezreal,Kog'Maw,48.99
+Ezreal,Xayah,49.25
+Ezreal,Aphelios,47.79
+Corki bot,Caitlyn,47.75
+Corki bot,Jinx,47.15
+Corki bot,Kog'Maw,47.29
+Corki bot,Xayah,47.85
+Corki bot,Aphelios,43.91
+Caitlyn,Jinx,48.84
+Caitlyn,Kog'Maw,51.8
+Caitlyn,Xayah,44.67
+Caitlyn,Aphelios,46.45
+Jinx,Kog'Maw,49.72
+Jinx,Xayah,46.59
+Jinx,Aphelios,44.84
+Kog'Maw,Xayah,39.71
+Kog'Maw,Aphelios,45.08
+Xayah,Aphelios,43.89
+Rell,Nautilus,43.69
+Rell,Lulu,46.6
+Rell,Rakan,49.03
+Rell,Pyke,45.98
+Rell,Thresh,48.06
+Rell,Karma,48.25
+Rell,Nami,47.4
+Rell,Braum,49.02
+Rell,Leona,48.07
+Nautilus,Lulu,50.31
+Nautilus,Rakan,54.56
+Nautilus,Pyke,50.06
+Nautilus,Thresh,51.02
+Nautilus,Karma,52.11
+Nautilus,Nami,48.51
+Nautilus,Braum,57.61
+Nautilus,Leona,56.95
+Lulu,Rakan,50.6
+Lulu,Pyke,53.6
+Lulu,Thresh,48.21
+Lulu,Karma,50.06
+Lulu,Nami,50.96
+Lulu,Braum,43.58
+Lulu,Leona,51.18
+Rakan,Pyke,46.11
+Rakan,Thresh,49.56
+Rakan,Karma,47.61
+Rakan,Nami,50.82
+Rakan,Braum,51.94
+Rakan,Leona,49.51
+Pyke,Thresh,52.55
+Pyke,Karma,46.95
+Pyke,Nami,52.13
+Pyke,Braum,48.72
+Pyke,Leona,48.75
+Thresh,Karma,48.14
+Thresh,Nami,52.04
+Thresh,Braum,55.91
+Thresh,Leona,46.98
+Karma,Nami,48.89
+Karma,Braum,50.31
+Karma,Leona,47.4
+Nami,Braum,48.38
+Nami,Leona,47.85
+Braum,Leona,46.86

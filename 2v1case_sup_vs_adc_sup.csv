@@ -1,0 +1,901 @@
+Key,Opponent,Value
+Braum,"('Aphelios', 'Karma')",0.8038250000000002
+Braum,"('Aphelios', 'Leona')",0.85655
+Braum,"('Aphelios', 'Lulu')",0.6645
+Braum,"('Aphelios', 'Nami')",0.790425
+Braum,"('Aphelios', 'Nautilus')",0.7957000000000001
+Braum,"('Aphelios', 'Pyke')",0.7086250000000001
+Braum,"('Aphelios', 'Rakan')",0.580675
+Braum,"('Aphelios', 'Rell')",0.7021250000000001
+Braum,"('Aphelios', 'Thresh')",0.702975
+Braum,"('Ashe', 'Karma')",0.5714750000000001
+Braum,"('Ashe', 'Leona')",0.6862
+Braum,"('Ashe', 'Lulu')",0.5744000000000001
+Braum,"('Ashe', 'Nami')",0.622325
+Braum,"('Ashe', 'Nautilus')",0.6673500000000001
+Braum,"('Ashe', 'Pyke')",0.637025
+Braum,"('Ashe', 'Rakan')",0.6188250000000001
+Braum,"('Ashe', 'Rell')",0.6117750000000001
+Braum,"('Ashe', 'Thresh')",0.685625
+Braum,"('Caitlyn', 'Karma')",0.631675
+Braum,"('Caitlyn', 'Leona')",0.6254000000000002
+Braum,"('Caitlyn', 'Lulu')",0.6288500000000001
+Braum,"('Caitlyn', 'Nami')",0.7037750000000002
+Braum,"('Caitlyn', 'Nautilus')",0.7665500000000001
+Braum,"('Caitlyn', 'Pyke')",0.637225
+Braum,"('Caitlyn', 'Rakan')",0.530275
+Braum,"('Caitlyn', 'Rell')",0.652975
+Braum,"('Caitlyn', 'Thresh')",0.584075
+Braum,"('Corki bot', 'Karma')",0.562625
+Braum,"('Corki bot', 'Leona')",0.471525
+Braum,"('Corki bot', 'Lulu')",0.5273249999999999
+Braum,"('Corki bot', 'Nami')",0.4358249999999999
+Braum,"('Corki bot', 'Nautilus')",0.533875
+Braum,"('Corki bot', 'Pyke')",0.39415
+Braum,"('Corki bot', 'Rakan')",0.4327000000000001
+Braum,"('Corki bot', 'Rell')",0.4006500000000001
+Braum,"('Corki bot', 'Thresh')",0.5278499999999999
+Braum,"('Ezreal', 'Karma')",0.6924250000000001
+Braum,"('Ezreal', 'Leona')",0.7119
+Braum,"('Ezreal', 'Lulu')",0.6205999999999999
+Braum,"('Ezreal', 'Nami')",0.693775
+Braum,"('Ezreal', 'Nautilus')",0.72255
+Braum,"('Ezreal', 'Pyke')",0.7464750000000001
+Braum,"('Ezreal', 'Rakan')",0.7070250000000001
+Braum,"('Ezreal', 'Rell')",0.6759750000000001
+Braum,"('Ezreal', 'Thresh')",0.7718250000000001
+Braum,"('Jhin', 'Karma')",0.68915
+Braum,"('Jhin', 'Leona')",0.7391250000000001
+Braum,"('Jhin', 'Lulu')",0.7780750000000001
+Braum,"('Jhin', 'Nami')",0.6297499999999999
+Braum,"('Jhin', 'Nautilus')",0.7830250000000001
+Braum,"('Jhin', 'Pyke')",0.7517
+Braum,"('Jhin', 'Rakan')",0.72375
+Braum,"('Jhin', 'Rell')",0.6872
+Braum,"('Jhin', 'Thresh')",0.7913
+Braum,"('Jinx', 'Karma')",0.560925
+Braum,"('Jinx', 'Leona')",0.4849000000000001
+Braum,"('Jinx', 'Lulu')",0.5796000000000001
+Braum,"('Jinx', 'Nami')",0.599775
+Braum,"('Jinx', 'Nautilus')",0.72655
+Braum,"('Jinx', 'Pyke')",0.6132250000000002
+Braum,"('Jinx', 'Rakan')",0.6757750000000001
+Braum,"('Jinx', 'Rell')",0.5414750000000002
+Braum,"('Jinx', 'Thresh')",0.558575
+Braum,"(""Kai'Sa"", 'Karma')",0.6816500000000002
+Braum,"(""Kai'Sa"", 'Leona')",0.6783750000000001
+Braum,"(""Kai'Sa"", 'Lulu')",0.6738250000000001
+Braum,"(""Kai'Sa"", 'Nami')",0.7850000000000001
+Braum,"(""Kai'Sa"", 'Nautilus')",0.777275
+Braum,"(""Kai'Sa"", 'Pyke')",0.74845
+Braum,"(""Kai'Sa"", 'Rakan')",0.7170000000000001
+Braum,"(""Kai'Sa"", 'Rell')",0.6232
+Braum,"(""Kai'Sa"", 'Thresh')",0.72555
+Braum,"(""Kog'Maw"", 'Karma')",0.5208250000000001
+Braum,"(""Kog'Maw"", 'Leona')",0.6345500000000002
+Braum,"(""Kog'Maw"", 'Lulu')",0.5690000000000002
+Braum,"(""Kog'Maw"", 'Nami')",0.6639250000000001
+Braum,"(""Kog'Maw"", 'Nautilus')",0.6487000000000002
+Braum,"(""Kog'Maw"", 'Pyke')",0.493625
+Braum,"(""Kog'Maw"", 'Rakan')",0.7071750000000001
+Braum,"(""Kog'Maw"", 'Rell')",0.541375
+Braum,"(""Kog'Maw"", 'Thresh')",0.5727250000000003
+Braum,"('Xayah', 'Karma')",0.730275
+Braum,"('Xayah', 'Leona')",0.7597499999999998
+Braum,"('Xayah', 'Lulu')",0.6524500000000002
+Braum,"('Xayah', 'Nami')",0.767375
+Braum,"('Xayah', 'Nautilus')",0.6914
+Braum,"('Xayah', 'Pyke')",0.562575
+Braum,"('Xayah', 'Rakan')",0.6763750000000002
+Braum,"('Xayah', 'Rell')",0.6590750000000001
+Braum,"('Xayah', 'Thresh')",0.6541750000000001
+Karma,"('Aphelios', 'Braum')",0.7473249999999999
+Karma,"('Aphelios', 'Leona')",0.8179249999999999
+Karma,"('Aphelios', 'Lulu')",0.6571749999999998
+Karma,"('Aphelios', 'Nami')",0.7549749999999998
+Karma,"('Aphelios', 'Nautilus')",0.7466750000000001
+Karma,"('Aphelios', 'Pyke')",0.661475
+Karma,"('Aphelios', 'Rakan')",0.517125
+Karma,"('Aphelios', 'Rell')",0.640725
+Karma,"('Aphelios', 'Thresh')",0.662675
+Karma,"('Ashe', 'Braum')",0.5922749999999999
+Karma,"('Ashe', 'Leona')",0.649875
+Karma,"('Ashe', 'Lulu')",0.569375
+Karma,"('Ashe', 'Nami')",0.589175
+Karma,"('Ashe', 'Nautilus')",0.6206250000000001
+Karma,"('Ashe', 'Pyke')",0.592175
+Karma,"('Ashe', 'Rakan')",0.557575
+Karma,"('Ashe', 'Rell')",0.5526749999999999
+Karma,"('Ashe', 'Thresh')",0.6476249999999999
+Karma,"('Caitlyn', 'Braum')",0.569
+Karma,"('Caitlyn', 'Leona')",0.61235
+Karma,"('Caitlyn', 'Lulu')",0.6471
+Karma,"('Caitlyn', 'Nami')",0.6939000000000001
+Karma,"('Caitlyn', 'Nautilus')",0.7431
+Karma,"('Caitlyn', 'Pyke')",0.61565
+Karma,"('Caitlyn', 'Rakan')",0.4922999999999999
+Karma,"('Caitlyn', 'Rell')",0.6171499999999999
+Karma,"('Caitlyn', 'Thresh')",0.5693499999999999
+Karma,"('Corki bot', 'Braum')",0.4791749999999999
+Karma,"('Corki bot', 'Leona')",0.5425249999999999
+Karma,"('Corki bot', 'Lulu')",0.6015249999999999
+Karma,"('Corki bot', 'Nami')",0.4805749999999999
+Karma,"('Corki bot', 'Nautilus')",0.594025
+Karma,"('Corki bot', 'Pyke')",0.4430749999999999
+Karma,"('Corki bot', 'Rakan')",0.4764749999999999
+Karma,"('Corki bot', 'Rell')",0.457075
+Karma,"('Corki bot', 'Thresh')",0.5747749999999999
+Karma,"('Ezreal', 'Braum')",0.580275
+Karma,"('Ezreal', 'Leona')",0.6633749999999999
+Karma,"('Ezreal', 'Lulu')",0.6033749999999999
+Karma,"('Ezreal', 'Nami')",0.6484249999999999
+Karma,"('Ezreal', 'Nautilus')",0.6636249999999998
+Karma,"('Ezreal', 'Pyke')",0.689425
+Karma,"('Ezreal', 'Rakan')",0.633575
+Karma,"('Ezreal', 'Rell')",0.604675
+Karma,"('Ezreal', 'Thresh')",0.721625
+Karma,"('Jhin', 'Braum')",0.671475
+Karma,"('Jhin', 'Leona')",0.681575
+Karma,"('Jhin', 'Lulu')",0.7518250000000001
+Karma,"('Jhin', 'Nami')",0.5753749999999999
+Karma,"('Jhin', 'Nautilus')",0.7150749999999999
+Karma,"('Jhin', 'Pyke')",0.6856249999999998
+Karma,"('Jhin', 'Rakan')",0.6412749999999999
+Karma,"('Jhin', 'Rell')",0.6068749999999999
+Karma,"('Jhin', 'Thresh')",0.7320749999999998
+Karma,"('Jinx', 'Braum')",0.5863749999999999
+Karma,"('Jinx', 'Leona')",0.4554749999999998
+Karma,"('Jinx', 'Lulu')",0.581475
+Karma,"('Jinx', 'Nami')",0.573525
+Karma,"('Jinx', 'Nautilus')",0.686725
+Karma,"('Jinx', 'Pyke')",0.575275
+Karma,"('Jinx', 'Rakan')",0.621425
+Karma,"('Jinx', 'Rell')",0.4892749999999999
+Karma,"('Jinx', 'Thresh')",0.5274749999999999
+Karma,"(""Kai'Sa"", 'Braum')",0.633525
+Karma,"(""Kai'Sa"", 'Leona')",0.636875
+Karma,"(""Kai'Sa"", 'Lulu')",0.6636250000000001
+Karma,"(""Kai'Sa"", 'Nami')",0.746675
+Karma,"(""Kai'Sa"", 'Nautilus')",0.725375
+Karma,"(""Kai'Sa"", 'Pyke')",0.6984249999999999
+Karma,"(""Kai'Sa"", 'Rakan')",0.6505749999999999
+Karma,"(""Kai'Sa"", 'Rell')",0.558925
+Karma,"(""Kai'Sa"", 'Thresh')",0.6823749999999998
+Karma,"(""Kog'Maw"", 'Braum')",0.629275
+Karma,"(""Kog'Maw"", 'Leona')",0.5703250000000001
+Karma,"(""Kog'Maw"", 'Lulu')",0.5498750000000001
+Karma,"(""Kog'Maw"", 'Nami')",0.6278000000000001
+Karma,"(""Kog'Maw"", 'Nautilus')",0.5679250000000001
+Karma,"(""Kog'Maw"", 'Pyke')",0.432625
+Karma,"(""Kog'Maw"", 'Rakan')",0.639125
+Karma,"(""Kog'Maw"", 'Rell')",0.480725
+Karma,"(""Kog'Maw"", 'Thresh')",0.5143750000000001
+Karma,"('Xayah', 'Braum')",0.6213249999999999
+Karma,"('Xayah', 'Leona')",0.7496749999999999
+Karma,"('Xayah', 'Lulu')",0.673675
+Karma,"('Xayah', 'Nami')",0.760475
+Karma,"('Xayah', 'Nautilus')",0.670925
+Karma,"('Xayah', 'Pyke')",0.543975
+Karma,"('Xayah', 'Rakan')",0.641375
+Karma,"('Xayah', 'Rell')",0.626225
+Karma,"('Xayah', 'Thresh')",0.6424249999999999
+Leona,"('Aphelios', 'Braum')",0.7795
+Leona,"('Aphelios', 'Karma')",0.8055000000000001
+Leona,"('Aphelios', 'Lulu')",0.707725
+Leona,"('Aphelios', 'Nami')",0.8057
+Leona,"('Aphelios', 'Nautilus')",0.786575
+Leona,"('Aphelios', 'Pyke')",0.7116750000000001
+Leona,"('Aphelios', 'Rakan')",0.5769250000000001
+Leona,"('Aphelios', 'Rell')",0.7005750000000001
+Leona,"('Aphelios', 'Thresh')",0.701275
+Leona,"('Ashe', 'Braum')",0.63775
+Leona,"('Ashe', 'Karma')",0.5887500000000001
+Leona,"('Ashe', 'Lulu')",0.633225
+Leona,"('Ashe', 'Nami')",0.6532
+Leona,"('Ashe', 'Nautilus')",0.6738250000000001
+Leona,"('Ashe', 'Pyke')",0.655675
+Leona,"('Ashe', 'Rakan')",0.630675
+Leona,"('Ashe', 'Rell')",0.6258250000000001
+Leona,"('Ashe', 'Thresh')",0.699525
+Leona,"('Caitlyn', 'Braum')",0.6072
+Leona,"('Caitlyn', 'Karma')",0.66495
+Leona,"('Caitlyn', 'Lulu')",0.7036750000000002
+Leona,"('Caitlyn', 'Nami')",0.7506500000000002
+Leona,"('Caitlyn', 'Nautilus')",0.7890250000000002
+Leona,"('Caitlyn', 'Pyke')",0.671875
+Leona,"('Caitlyn', 'Rakan')",0.5581250000000001
+Leona,"('Caitlyn', 'Rell')",0.6830250000000001
+Leona,"('Caitlyn', 'Thresh')",0.6139749999999999
+Leona,"('Corki bot', 'Braum')",0.5150999999999999
+Leona,"('Corki bot', 'Karma')",0.6683500000000001
+Leona,"('Corki bot', 'Lulu')",0.655825
+Leona,"('Corki bot', 'Nami')",0.5350499999999999
+Leona,"('Corki bot', 'Nautilus')",0.6376750000000001
+Leona,"('Corki bot', 'Pyke')",0.4970250000000001
+Leona,"('Corki bot', 'Rakan')",0.5400250000000001
+Leona,"('Corki bot', 'Rell')",0.5206750000000001
+Leona,"('Corki bot', 'Thresh')",0.617125
+Leona,"('Ezreal', 'Braum')",0.6435750000000001
+Leona,"('Ezreal', 'Karma')",0.715325
+Leona,"('Ezreal', 'Lulu')",0.68505
+Leona,"('Ezreal', 'Nami')",0.730275
+Leona,"('Ezreal', 'Nautilus')",0.73465
+Leona,"('Ezreal', 'Pyke')",0.7707500000000002
+Leona,"('Ezreal', 'Rakan')",0.7245000000000001
+Leona,"('Ezreal', 'Rell')",0.69565
+Leona,"('Ezreal', 'Thresh')",0.7913500000000001
+Leona,"('Jhin', 'Braum')",0.7325500000000001
+Leona,"('Jhin', 'Karma')",0.7008000000000001
+Leona,"('Jhin', 'Lulu')",0.8312750000000002
+Leona,"('Jhin', 'Nami')",0.655
+Leona,"('Jhin', 'Nautilus')",0.7838750000000002
+Leona,"('Jhin', 'Pyke')",0.764725
+Leona,"('Jhin', 'Rakan')",0.729975
+Leona,"('Jhin', 'Rell')",0.695625
+Leona,"('Jhin', 'Thresh')",0.799575
+Leona,"('Jinx', 'Braum')",0.5555
+Leona,"('Jinx', 'Karma')",0.502875
+Leona,"('Jinx', 'Lulu')",0.547825
+Leona,"('Jinx', 'Nami')",0.547675
+Leona,"('Jinx', 'Nautilus')",0.674125
+Leona,"('Jinx', 'Pyke')",0.562525
+Leona,"('Jinx', 'Rakan')",0.618925
+Leona,"('Jinx', 'Rell')",0.4883250000000001
+Leona,"('Jinx', 'Thresh')",0.485475
+Leona,"(""Kai'Sa"", 'Braum')",0.6816500000000001
+Leona,"(""Kai'Sa"", 'Karma')",0.6964000000000001
+Leona,"(""Kai'Sa"", 'Lulu')",0.7301250000000001
+Leona,"(""Kai'Sa"", 'Nami')",0.8133500000000001
+Leona,"(""Kai'Sa"", 'Nautilus')",0.7812250000000001
+Leona,"(""Kai'Sa"", 'Pyke')",0.7645750000000001
+Leona,"(""Kai'Sa"", 'Rakan')",0.726325
+Leona,"(""Kai'Sa"", 'Rell')",0.634725
+Leona,"(""Kai'Sa"", 'Thresh')",0.7369249999999999
+Leona,"(""Kog'Maw"", 'Braum')",0.7037750000000002
+Leona,"(""Kog'Maw"", 'Karma')",0.5445250000000001
+Leona,"(""Kog'Maw"", 'Lulu')",0.6342500000000001
+Leona,"(""Kog'Maw"", 'Nami')",0.7012250000000002
+Leona,"(""Kog'Maw"", 'Nautilus')",0.6616000000000001
+Leona,"(""Kog'Maw"", 'Pyke')",0.5187
+Leona,"(""Kog'Maw"", 'Rakan')",0.7254500000000002
+Leona,"(""Kog'Maw"", 'Rell')",0.5618500000000001
+Leona,"(""Kog'Maw"", 'Thresh')",0.5930500000000002
+Leona,"('Xayah', 'Braum')",0.633175
+Leona,"('Xayah', 'Karma')",0.7401750000000001
+Leona,"('Xayah', 'Lulu')",0.7039000000000002
+Leona,"('Xayah', 'Nami')",0.7908750000000001
+Leona,"('Xayah', 'Nautilus')",0.6905000000000001
+Leona,"('Xayah', 'Pyke')",0.5738500000000001
+Leona,"('Xayah', 'Rakan')",0.6808500000000001
+Leona,"('Xayah', 'Rell')",0.6657500000000002
+Leona,"('Xayah', 'Thresh')",0.6607
+Lulu,"('Aphelios', 'Braum')",0.67585
+Lulu,"('Aphelios', 'Karma')",0.6849250000000001
+Lulu,"('Aphelios', 'Leona')",0.7201749999999999
+Lulu,"('Aphelios', 'Nami')",0.6761999999999999
+Lulu,"('Aphelios', 'Nautilus')",0.6538749999999999
+Lulu,"('Aphelios', 'Pyke')",0.57245
+Lulu,"('Aphelios', 'Rakan')",0.43945
+Lulu,"('Aphelios', 'Rell')",0.5690000000000001
+Lulu,"('Aphelios', 'Thresh')",0.5834999999999999
+Lulu,"('Ashe', 'Braum')",0.5408499999999998
+Lulu,"('Ashe', 'Karma')",0.4658
+Lulu,"('Ashe', 'Leona')",0.572175
+Lulu,"('Ashe', 'Nami')",0.5179749999999999
+Lulu,"('Ashe', 'Nautilus')",0.5478749999999999
+Lulu,"('Ashe', 'Pyke')",0.5225499999999998
+Lulu,"('Ashe', 'Rakan')",0.4937999999999999
+Lulu,"('Ashe', 'Rell')",0.4839499999999999
+Lulu,"('Ashe', 'Thresh')",0.5884999999999998
+Lulu,"('Caitlyn', 'Braum')",0.50205
+Lulu,"('Caitlyn', 'Karma')",0.5490999999999999
+Lulu,"('Caitlyn', 'Leona')",0.519125
+Lulu,"('Caitlyn', 'Nami')",0.6258750000000001
+Lulu,"('Caitlyn', 'Nautilus')",0.6548249999999999
+Lulu,"('Caitlyn', 'Pyke')",0.5373749999999999
+Lulu,"('Caitlyn', 'Rakan')",0.413
+Lulu,"('Caitlyn', 'Rell')",0.556175
+Lulu,"('Caitlyn', 'Thresh')",0.495675
+Lulu,"('Corki bot', 'Braum')",0.4309999999999998
+Lulu,"('Corki bot', 'Karma')",0.5801
+Lulu,"('Corki bot', 'Leona')",0.4720999999999999
+Lulu,"('Corki bot', 'Nami')",0.4378749999999998
+Lulu,"('Corki bot', 'Nautilus')",0.5294500000000001
+Lulu,"('Corki bot', 'Pyke')",0.390125
+Lulu,"('Corki bot', 'Rakan')",0.4211500000000001
+Lulu,"('Corki bot', 'Rell')",0.421425
+Lulu,"('Corki bot', 'Thresh')",0.5264249999999999
+Lulu,"('Ezreal', 'Braum')",0.5268999999999999
+Lulu,"('Ezreal', 'Karma')",0.598625
+Lulu,"('Ezreal', 'Leona')",0.5918749999999998
+Lulu,"('Ezreal', 'Nami')",0.6046499999999999
+Lulu,"('Ezreal', 'Nautilus')",0.5979749999999999
+Lulu,"('Ezreal', 'Pyke')",0.6354000000000001
+Lulu,"('Ezreal', 'Rakan')",0.577875
+Lulu,"('Ezreal', 'Rell')",0.5679500000000001
+Lulu,"('Ezreal', 'Thresh')",0.6722
+Lulu,"('Jhin', 'Braum')",0.6130500000000001
+Lulu,"('Jhin', 'Karma')",0.5711749999999999
+Lulu,"('Jhin', 'Leona')",0.596875
+Lulu,"('Jhin', 'Nami')",0.5164499999999999
+Lulu,"('Jhin', 'Nautilus')",0.6353249999999998
+Lulu,"('Jhin', 'Pyke')",0.6164499999999999
+Lulu,"('Jhin', 'Rakan')",0.5804249999999999
+Lulu,"('Jhin', 'Rell')",0.5549999999999998
+Lulu,"('Jhin', 'Thresh')",0.6674999999999999
+Lulu,"('Jinx', 'Braum')",0.5229249999999999
+Lulu,"('Jinx', 'Karma')",0.4690249999999999
+Lulu,"('Jinx', 'Leona')",0.3667749999999999
+Lulu,"('Jinx', 'Nami')",0.51255
+Lulu,"('Jinx', 'Nautilus')",0.6038749999999999
+Lulu,"('Jinx', 'Pyke')",0.5040500000000001
+Lulu,"('Jinx', 'Rakan')",0.5478000000000001
+Lulu,"('Jinx', 'Rell')",0.43535
+Lulu,"('Jinx', 'Thresh')",0.4608499999999999
+Lulu,"(""Kai'Sa"", 'Braum')",0.57765
+Lulu,"(""Kai'Sa"", 'Karma')",0.5804250000000001
+Lulu,"(""Kai'Sa"", 'Leona')",0.5547249999999999
+Lulu,"(""Kai'Sa"", 'Nami')",0.68845
+Lulu,"(""Kai'Sa"", 'Nautilus')",0.648175
+Lulu,"(""Kai'Sa"", 'Pyke')",0.6299499999999999
+Lulu,"(""Kai'Sa"", 'Rakan')",0.5823499999999998
+Lulu,"(""Kai'Sa"", 'Rell')",0.5077499999999999
+Lulu,"(""Kai'Sa"", 'Thresh')",0.6187999999999999
+Lulu,"(""Kog'Maw"", 'Braum')",0.5953249999999999
+Lulu,"(""Kog'Maw"", 'Karma')",0.430625
+Lulu,"(""Kog'Maw"", 'Leona')",0.518125
+Lulu,"(""Kog'Maw"", 'Nami')",0.5784
+Lulu,"(""Kog'Maw"", 'Nautilus')",0.5277250000000001
+Lulu,"(""Kog'Maw"", 'Pyke')",0.3861499999999999
+Lulu,"(""Kog'Maw"", 'Rakan')",0.5928249999999999
+Lulu,"(""Kog'Maw"", 'Rell')",0.4369499999999999
+Lulu,"(""Kog'Maw"", 'Thresh')",0.4767
+Lulu,"('Xayah', 'Braum')",0.5656749999999999
+Lulu,"('Xayah', 'Karma')",0.6466249999999999
+Lulu,"('Xayah', 'Leona')",0.6677499999999997
+Lulu,"('Xayah', 'Nami')",0.6828249999999999
+Lulu,"('Xayah', 'Nautilus')",0.59395
+Lulu,"('Xayah', 'Pyke')",0.4701249999999999
+Lulu,"('Xayah', 'Rakan')",0.573375
+Lulu,"('Xayah', 'Rell')",0.5527000000000001
+Lulu,"('Xayah', 'Thresh')",0.5790749999999999
+Nami,"('Aphelios', 'Braum')",0.7427250000000001
+Nami,"('Aphelios', 'Karma')",0.7546750000000002
+Nami,"('Aphelios', 'Leona')",0.808475
+Nami,"('Aphelios', 'Lulu')",0.6373500000000001
+Nami,"('Aphelios', 'Nautilus')",0.72735
+Nami,"('Aphelios', 'Pyke')",0.6715500000000001
+Nami,"('Aphelios', 'Rakan')",0.5322750000000002
+Nami,"('Aphelios', 'Rell')",0.6524750000000001
+Nami,"('Aphelios', 'Thresh')",0.6477
+Nami,"('Ashe', 'Braum')",0.60025
+Nami,"('Ashe', 'Karma')",0.5372
+Nami,"('Ashe', 'Leona')",0.6530000000000001
+Nami,"('Ashe', 'Lulu')",0.5621250000000001
+Nami,"('Ashe', 'Nautilus')",0.6138750000000001
+Nami,"('Ashe', 'Pyke')",0.6148250000000001
+Nami,"('Ashe', 'Rakan')",0.5853
+Nami,"('Ashe', 'Rell')",0.5770000000000001
+Nami,"('Ashe', 'Thresh')",0.6452249999999999
+Nami,"('Caitlyn', 'Braum')",0.5641750000000001
+Nami,"('Caitlyn', 'Karma')",0.607875
+Nami,"('Caitlyn', 'Leona')",0.6026750000000002
+Nami,"('Caitlyn', 'Lulu')",0.6270500000000001
+Nami,"('Caitlyn', 'Nautilus')",0.7235500000000001
+Nami,"('Caitlyn', 'Pyke')",0.6255
+Nami,"('Caitlyn', 'Rakan')",0.5072250000000001
+Nami,"('Caitlyn', 'Rell')",0.6286750000000001
+Nami,"('Caitlyn', 'Thresh')",0.55415
+Nami,"('Corki bot', 'Braum')",0.400225
+Nami,"('Corki bot', 'Karma')",0.550525
+Nami,"('Corki bot', 'Leona')",0.452325
+Nami,"('Corki bot', 'Lulu')",0.5287000000000001
+Nami,"('Corki bot', 'Nautilus')",0.4898000000000001
+Nami,"('Corki bot', 'Pyke')",0.3787000000000001
+Nami,"('Corki bot', 'Rakan')",0.4165250000000001
+Nami,"('Corki bot', 'Rell')",0.3922250000000001
+Nami,"('Corki bot', 'Thresh')",0.503
+Nami,"('Ezreal', 'Braum')",0.5891000000000001
+Nami,"('Ezreal', 'Karma')",0.6467999999999999
+Nami,"('Ezreal', 'Leona')",0.66735
+Nami,"('Ezreal', 'Lulu')",0.596975
+Nami,"('Ezreal', 'Nautilus')",0.657725
+Nami,"('Ezreal', 'Pyke')",0.7129250000000001
+Nami,"('Ezreal', 'Rakan')",0.66215
+Nami,"('Ezreal', 'Rell')",0.6298500000000001
+Nami,"('Ezreal', 'Thresh')",0.720075
+Nami,"('Jhin', 'Braum')",0.6816500000000002
+Nami,"('Jhin', 'Karma')",0.6358499999999999
+Nami,"('Jhin', 'Leona')",0.6869000000000002
+Nami,"('Jhin', 'Lulu')",0.7467750000000001
+Nami,"('Jhin', 'Nautilus')",0.7105250000000001
+Nami,"('Jhin', 'Pyke')",0.710475
+Nami,"('Jhin', 'Rakan')",0.6712
+Nami,"('Jhin', 'Rell')",0.6334000000000001
+Nami,"('Jhin', 'Thresh')",0.731875
+Nami,"('Jinx', 'Braum')",0.6007000000000001
+Nami,"('Jinx', 'Karma')",0.5398999999999999
+Nami,"('Jinx', 'Leona')",0.46495
+Nami,"('Jinx', 'Lulu')",0.5805750000000002
+Nami,"('Jinx', 'Nautilus')",0.686325
+Nami,"('Jinx', 'Pyke')",0.6042750000000001
+Nami,"('Jinx', 'Rakan')",0.6555000000000001
+Nami,"('Jinx', 'Rell')",0.5199500000000001
+Nami,"('Jinx', 'Thresh')",0.531425
+Nami,"(""Kai'Sa"", 'Braum')",0.6400250000000001
+Nami,"(""Kai'Sa"", 'Karma')",0.6407250000000001
+Nami,"(""Kai'Sa"", 'Leona')",0.638525
+Nami,"(""Kai'Sa"", 'Lulu')",0.6549000000000001
+Nami,"(""Kai'Sa"", 'Nautilus')",0.7171500000000001
+Nami,"(""Kai'Sa"", 'Pyke')",0.7195999999999999
+Nami,"(""Kai'Sa"", 'Rakan')",0.676825
+Nami,"(""Kai'Sa"", 'Rell')",0.581775
+Nami,"(""Kai'Sa"", 'Thresh')",0.6785
+Nami,"(""Kog'Maw"", 'Braum')",0.692725
+Nami,"(""Kog'Maw"", 'Karma')",0.5194250000000001
+Nami,"(""Kog'Maw"", 'Leona')",0.6342250000000001
+Nami,"(""Kog'Maw"", 'Lulu')",0.5896000000000001
+Nami,"(""Kog'Maw"", 'Nautilus')",0.6281000000000002
+Nami,"(""Kog'Maw"", 'Pyke')",0.5043
+Nami,"(""Kog'Maw"", 'Rakan')",0.7065250000000001
+Nami,"(""Kog'Maw"", 'Rell')",0.539475
+Nami,"(""Kog'Maw"", 'Thresh')",0.5652000000000001
+Nami,"('Xayah', 'Braum')",0.6002500000000002
+Nami,"('Xayah', 'Karma')",0.6932
+Nami,"('Xayah', 'Leona')",0.72375
+Nami,"('Xayah', 'Lulu')",0.6373750000000001
+Nami,"('Xayah', 'Nautilus')",0.635125
+Nami,"('Xayah', 'Pyke')",0.537575
+Nami,"('Xayah', 'Rakan')",0.6400500000000001
+Nami,"('Xayah', 'Rell')",0.6215000000000002
+Nami,"('Xayah', 'Thresh')",0.6109749999999999
+Nautilus,"('Aphelios', 'Braum')",0.6347999999999999
+Nautilus,"('Aphelios', 'Karma')",0.6673250000000001
+Nautilus,"('Aphelios', 'Leona')",0.7008749999999999
+Nautilus,"('Aphelios', 'Lulu')",0.5493249999999998
+Nautilus,"('Aphelios', 'Nami')",0.66775
+Nautilus,"('Aphelios', 'Pyke')",0.5812249999999999
+Nautilus,"('Aphelios', 'Rakan')",0.4339749999999999
+Nautilus,"('Aphelios', 'Rell')",0.5583499999999999
+Nautilus,"('Aphelios', 'Thresh')",0.5551999999999998
+Nautilus,"('Ashe', 'Braum')",0.4887749999999998
+Nautilus,"('Ashe', 'Karma')",0.4463
+Nautilus,"('Ashe', 'Leona')",0.5418499999999999
+Nautilus,"('Ashe', 'Lulu')",0.4722749999999999
+Nautilus,"('Ashe', 'Nami')",0.5109749999999998
+Nautilus,"('Ashe', 'Pyke')",0.5209499999999998
+Nautilus,"('Ashe', 'Rakan')",0.4834499999999999
+Nautilus,"('Ashe', 'Rell')",0.4793249999999999
+Nautilus,"('Ashe', 'Thresh')",0.5535499999999999
+Nautilus,"('Caitlyn', 'Braum')",0.4661249999999999
+Nautilus,"('Caitlyn', 'Karma')",0.5303999999999999
+Nautilus,"('Caitlyn', 'Leona')",0.50495
+Nautilus,"('Caitlyn', 'Lulu')",0.5488999999999999
+Nautilus,"('Caitlyn', 'Nami')",0.616325
+Nautilus,"('Caitlyn', 'Pyke')",0.5450499999999998
+Nautilus,"('Caitlyn', 'Rakan')",0.4187999999999999
+Nautilus,"('Caitlyn', 'Rell')",0.5444249999999998
+Nautilus,"('Caitlyn', 'Thresh')",0.4715249999999998
+Nautilus,"('Corki bot', 'Braum')",0.3512999999999998
+Nautilus,"('Corki bot', 'Karma')",0.5170999999999999
+Nautilus,"('Corki bot', 'Leona')",0.4090249999999999
+Nautilus,"('Corki bot', 'Lulu')",0.4909749999999998
+Nautilus,"('Corki bot', 'Nami')",0.386125
+Nautilus,"('Corki bot', 'Pyke')",0.3411
+Nautilus,"('Corki bot', 'Rakan')",0.361425
+Nautilus,"('Corki bot', 'Rell')",0.3562749999999999
+Nautilus,"('Corki bot', 'Thresh')",0.4672499999999999
+Nautilus,"('Ezreal', 'Braum')",0.4966
+Nautilus,"('Ezreal', 'Karma')",0.5748749999999998
+Nautilus,"('Ezreal', 'Leona')",0.5751749999999999
+Nautilus,"('Ezreal', 'Lulu')",0.5243749999999998
+Nautilus,"('Ezreal', 'Nami')",0.5900499999999999
+Nautilus,"('Ezreal', 'Pyke')",0.6380250000000001
+Nautilus,"('Ezreal', 'Rakan')",0.579275
+Nautilus,"('Ezreal', 'Rell')",0.5511499999999999
+Nautilus,"('Ezreal', 'Thresh')",0.643
+Nautilus,"('Jhin', 'Braum')",0.5845750000000001
+Nautilus,"('Jhin', 'Karma')",0.5593499999999998
+Nautilus,"('Jhin', 'Leona')",0.59015
+Nautilus,"('Jhin', 'Lulu')",0.6696
+Nautilus,"('Jhin', 'Nami')",0.5137749999999999
+Nautilus,"('Jhin', 'Pyke')",0.6309999999999998
+Nautilus,"('Jhin', 'Rakan')",0.5837499999999999
+Nautilus,"('Jhin', 'Rell')",0.5501249999999999
+Nautilus,"('Jhin', 'Thresh')",0.6502249999999998
+Nautilus,"('Jinx', 'Braum')",0.4977499999999999
+Nautilus,"('Jinx', 'Karma')",0.4575249999999998
+Nautilus,"('Jinx', 'Leona')",0.3623249999999999
+Nautilus,"('Jinx', 'Lulu')",0.497525
+Nautilus,"('Jinx', 'Nami')",0.5101999999999999
+Nautilus,"('Jinx', 'Pyke')",0.518925
+Nautilus,"('Jinx', 'Rakan')",0.562175
+Nautilus,"('Jinx', 'Rell')",0.4307999999999999
+Nautilus,"('Jinx', 'Thresh')",0.4438999999999998
+Nautilus,"(""Kai'Sa"", 'Braum')",0.53375
+Nautilus,"(""Kai'Sa"", 'Karma')",0.555025
+Nautilus,"(""Kai'Sa"", 'Leona')",0.5325749999999999
+Nautilus,"(""Kai'Sa"", 'Lulu')",0.568525
+Nautilus,"(""Kai'Sa"", 'Nami')",0.6722
+Nautilus,"(""Kai'Sa"", 'Pyke')",0.6309249999999998
+Nautilus,"(""Kai'Sa"", 'Rakan')",0.5801749999999999
+Nautilus,"(""Kai'Sa"", 'Rell')",0.4892999999999998
+Nautilus,"(""Kai'Sa"", 'Thresh')",0.5876499999999999
+Nautilus,"(""Kog'Maw"", 'Braum')",0.5587
+Nautilus,"(""Kog'Maw"", 'Karma')",0.405975
+Nautilus,"(""Kog'Maw"", 'Leona')",0.5005250000000001
+Nautilus,"(""Kog'Maw"", 'Lulu')",0.475475
+Nautilus,"(""Kog'Maw"", 'Nami')",0.5629
+Nautilus,"(""Kog'Maw"", 'Pyke')",0.3878749999999998
+Nautilus,"(""Kog'Maw"", 'Rakan')",0.582125
+Nautilus,"(""Kog'Maw"", 'Rell')",0.4192499999999999
+Nautilus,"(""Kog'Maw"", 'Thresh')",0.4465999999999999
+Nautilus,"('Xayah', 'Braum')",0.4838999999999999
+Nautilus,"('Xayah', 'Karma')",0.5947999999999999
+Nautilus,"('Xayah', 'Leona')",0.6066249999999997
+Nautilus,"('Xayah', 'Lulu')",0.553575
+Nautilus,"('Xayah', 'Nami')",0.6429999999999998
+Nautilus,"('Xayah', 'Pyke')",0.4334749999999999
+Nautilus,"('Xayah', 'Rakan')",0.527975
+Nautilus,"('Xayah', 'Rell')",0.5136
+Nautilus,"('Xayah', 'Thresh')",0.5253499999999999
+Pyke,"('Aphelios', 'Braum')",0.7866
+Pyke,"('Aphelios', 'Karma')",0.8098000000000002
+Pyke,"('Aphelios', 'Leona')",0.85095
+Pyke,"('Aphelios', 'Lulu')",0.6886749999999999
+Pyke,"('Aphelios', 'Nami')",0.7882750000000001
+Pyke,"('Aphelios', 'Nautilus')",0.77595
+Pyke,"('Aphelios', 'Rakan')",0.5652250000000001
+Pyke,"('Aphelios', 'Rell')",0.69365
+Pyke,"('Aphelios', 'Thresh')",0.6809499999999999
+Pyke,"('Ashe', 'Braum')",0.6405499999999998
+Pyke,"('Ashe', 'Karma')",0.58875
+Pyke,"('Ashe', 'Leona')",0.6919
+Pyke,"('Ashe', 'Lulu')",0.61385
+Pyke,"('Ashe', 'Nami')",0.6314749999999999
+Pyke,"('Ashe', 'Nautilus')",0.6589
+Pyke,"('Ashe', 'Rakan')",0.614675
+Pyke,"('Ashe', 'Rell')",0.6145999999999999
+Pyke,"('Ashe', 'Thresh')",0.681525
+Pyke,"('Caitlyn', 'Braum')",0.6058499999999999
+Pyke,"('Caitlyn', 'Karma')",0.6607999999999998
+Pyke,"('Caitlyn', 'Leona')",0.64295
+Pyke,"('Caitlyn', 'Lulu')",0.6761750000000001
+Pyke,"('Caitlyn', 'Nami')",0.7247750000000001
+Pyke,"('Caitlyn', 'Nautilus')",0.76995
+Pyke,"('Caitlyn', 'Rakan')",0.537975
+Pyke,"('Caitlyn', 'Rell')",0.6676499999999999
+Pyke,"('Caitlyn', 'Thresh')",0.586625
+Pyke,"('Corki bot', 'Braum')",0.506375
+Pyke,"('Corki bot', 'Karma')",0.6542
+Pyke,"('Corki bot', 'Leona')",0.5623750000000001
+Pyke,"('Corki bot', 'Lulu')",0.6335999999999999
+Pyke,"('Corki bot', 'Nami')",0.4957000000000001
+Pyke,"('Corki bot', 'Nautilus')",0.6121250000000003
+Pyke,"('Corki bot', 'Rakan')",0.4959500000000001
+Pyke,"('Corki bot', 'Rell')",0.4746250000000001
+Pyke,"('Corki bot', 'Thresh')",0.596275
+Pyke,"('Ezreal', 'Braum')",0.6326750000000001
+Pyke,"('Ezreal', 'Karma')",0.7016249999999999
+Pyke,"('Ezreal', 'Leona')",0.709525
+Pyke,"('Ezreal', 'Lulu')",0.6479999999999998
+Pyke,"('Ezreal', 'Nami')",0.6948499999999999
+Pyke,"('Ezreal', 'Nautilus')",0.7060249999999999
+Pyke,"('Ezreal', 'Rakan')",0.6948000000000001
+Pyke,"('Ezreal', 'Rell')",0.6707249999999999
+Pyke,"('Ezreal', 'Thresh')",0.753025
+Pyke,"('Jhin', 'Braum')",0.7385250000000001
+Pyke,"('Jhin', 'Karma')",0.7039749999999999
+Pyke,"('Jhin', 'Leona')",0.742375
+Pyke,"('Jhin', 'Lulu')",0.8111
+Pyke,"('Jhin', 'Nami')",0.63645
+Pyke,"('Jhin', 'Nautilus')",0.7721250000000001
+Pyke,"('Jhin', 'Rakan')",0.71715
+Pyke,"('Jhin', 'Rell')",0.6875749999999999
+Pyke,"('Jhin', 'Thresh')",0.779925
+Pyke,"('Jinx', 'Braum')",0.6401249999999998
+Pyke,"('Jinx', 'Karma')",0.5905749999999999
+Pyke,"('Jinx', 'Leona')",0.5029749999999998
+Pyke,"('Jinx', 'Lulu')",0.62745
+Pyke,"('Jinx', 'Nami')",0.6213
+Pyke,"('Jinx', 'Nautilus')",0.7304749999999999
+Pyke,"('Jinx', 'Rakan')",0.6839999999999999
+Pyke,"('Jinx', 'Rell')",0.5566749999999999
+Pyke,"('Jinx', 'Thresh')",0.560225
+Pyke,"(""Kai'Sa"", 'Braum')",0.6739
+Pyke,"(""Kai'Sa"", 'Karma')",0.6858500000000001
+Pyke,"(""Kai'Sa"", 'Leona')",0.6709999999999999
+Pyke,"(""Kai'Sa"", 'Lulu')",0.696225
+Pyke,"(""Kai'Sa"", 'Nami')",0.781075
+Pyke,"(""Kai'Sa"", 'Nautilus')",0.7557499999999999
+Pyke,"(""Kai'Sa"", 'Rakan')",0.6997749999999999
+Pyke,"(""Kai'Sa"", 'Rell')",0.6129499999999999
+Pyke,"(""Kai'Sa"", 'Thresh')",0.703075
+Pyke,"(""Kog'Maw"", 'Braum')",0.7189749999999999
+Pyke,"(""Kog'Maw"", 'Karma')",0.5569250000000001
+Pyke,"(""Kog'Maw"", 'Leona')",0.659075
+Pyke,"(""Kog'Maw"", 'Lulu')",0.6233000000000001
+Pyke,"(""Kog'Maw"", 'Nami')",0.6919000000000001
+Pyke,"(""Kog'Maw"", 'Nautilus')",0.6590750000000001
+Pyke,"(""Kog'Maw"", 'Rakan')",0.7218500000000001
+Pyke,"(""Kog'Maw"", 'Rell')",0.563025
+Pyke,"(""Kog'Maw"", 'Thresh')",0.5808250000000001
+Pyke,"('Xayah', 'Braum')",0.6512
+Pyke,"('Xayah', 'Karma')",0.7527750000000001
+Pyke,"('Xayah', 'Leona')",0.7722
+Pyke,"('Xayah', 'Lulu')",0.7084250000000001
+Pyke,"('Xayah', 'Nami')",0.778275
+Pyke,"('Xayah', 'Nautilus')",0.6917
+Pyke,"('Xayah', 'Rakan')",0.672475
+Pyke,"('Xayah', 'Rell')",0.66215
+Pyke,"('Xayah', 'Thresh')",0.6666
+Rakan,"('Aphelios', 'Braum')",0.758475
+Rakan,"('Aphelios', 'Karma')",0.7880750000000001
+Rakan,"('Aphelios', 'Leona')",0.828975
+Rakan,"('Aphelios', 'Lulu')",0.6689749999999999
+Rakan,"('Aphelios', 'Nami')",0.780675
+Rakan,"('Aphelios', 'Nautilus')",0.7671250000000001
+Rakan,"('Aphelios', 'Pyke')",0.7006
+Rakan,"('Aphelios', 'Rell')",0.6812
+Rakan,"('Aphelios', 'Thresh')",0.6705249999999999
+Rakan,"('Ashe', 'Braum')",0.6089999999999999
+Rakan,"('Ashe', 'Karma')",0.5636
+Rakan,"('Ashe', 'Leona')",0.6665000000000001
+Rakan,"('Ashe', 'Lulu')",0.5883749999999999
+Rakan,"('Ashe', 'Nami')",0.6220749999999998
+Rakan,"('Ashe', 'Nautilus')",0.6466500000000001
+Rakan,"('Ashe', 'Pyke')",0.636875
+Rakan,"('Ashe', 'Rell')",0.5987249999999998
+Rakan,"('Ashe', 'Thresh')",0.6626749999999998
+Rakan,"('Caitlyn', 'Braum')",0.5672999999999999
+Rakan,"('Caitlyn', 'Karma')",0.6286499999999999
+Rakan,"('Caitlyn', 'Leona')",0.61055
+Rakan,"('Caitlyn', 'Lulu')",0.6381749999999999
+Rakan,"('Caitlyn', 'Nami')",0.69755
+Rakan,"('Caitlyn', 'Nautilus')",0.7507
+Rakan,"('Caitlyn', 'Pyke')",0.641925
+Rakan,"('Caitlyn', 'Rell')",0.6447749999999999
+Rakan,"('Caitlyn', 'Thresh')",0.5621749999999999
+Rakan,"('Corki bot', 'Braum')",0.4697249999999999
+Rakan,"('Corki bot', 'Karma')",0.6227749999999999
+Rakan,"('Corki bot', 'Leona')",0.51985
+Rakan,"('Corki bot', 'Lulu')",0.5998249999999998
+Rakan,"('Corki bot', 'Nami')",0.4927749999999999
+Rakan,"('Corki bot', 'Nautilus')",0.5812
+Rakan,"('Corki bot', 'Pyke')",0.462025
+Rakan,"('Corki bot', 'Rell')",0.455625
+Rakan,"('Corki bot', 'Thresh')",0.569125
+Rakan,"('Ezreal', 'Braum')",0.5931750000000001
+Rakan,"('Ezreal', 'Karma')",0.6685249999999999
+Rakan,"('Ezreal', 'Leona')",0.676175
+Rakan,"('Ezreal', 'Lulu')",0.6187749999999999
+Rakan,"('Ezreal', 'Nami')",0.6777249999999999
+Rakan,"('Ezreal', 'Nautilus')",0.6858249999999999
+Rakan,"('Ezreal', 'Pyke')",0.7303000000000001
+Rakan,"('Ezreal', 'Rell')",0.6469
+Rakan,"('Ezreal', 'Thresh')",0.733075
+Rakan,"('Jhin', 'Braum')",0.6783500000000001
+Rakan,"('Jhin', 'Karma')",0.6502
+Rakan,"('Jhin', 'Leona')",0.6883500000000001
+Rakan,"('Jhin', 'Lulu')",0.757225
+Rakan,"('Jhin', 'Nami')",0.5946749999999998
+Rakan,"('Jhin', 'Nautilus')",0.73125
+Rakan,"('Jhin', 'Pyke')",0.720475
+Rakan,"('Jhin', 'Rell')",0.643075
+Rakan,"('Jhin', 'Thresh')",0.7335249999999999
+Rakan,"('Jinx', 'Braum')",0.5909749999999999
+Rakan,"('Jinx', 'Karma')",0.547825
+Rakan,"('Jinx', 'Leona')",0.4599749999999998
+Rakan,"('Jinx', 'Lulu')",0.5888499999999999
+Rakan,"('Jinx', 'Nami')",0.5947999999999999
+Rakan,"('Jinx', 'Nautilus')",0.700625
+Rakan,"('Jinx', 'Pyke')",0.6078500000000001
+Rakan,"('Jinx', 'Rell')",0.5232
+Rakan,"('Jinx', 'Thresh')",0.5308999999999999
+Rakan,"(""Kai'Sa"", 'Braum')",0.65715
+Rakan,"(""Kai'Sa"", 'Karma')",0.6755000000000001
+Rakan,"(""Kai'Sa"", 'Leona')",0.6603999999999999
+Rakan,"(""Kai'Sa"", 'Lulu')",0.6868500000000001
+Rakan,"(""Kai'Sa"", 'Nami')",0.7837999999999999
+Rakan,"(""Kai'Sa"", 'Nautilus')",0.7582999999999999
+Rakan,"(""Kai'Sa"", 'Pyke')",0.7500249999999999
+Rakan,"(""Kai'Sa"", 'Rell')",0.611875
+Rakan,"(""Kai'Sa"", 'Thresh')",0.7016499999999999
+Rakan,"(""Kog'Maw"", 'Braum')",0.6791750000000001
+Rakan,"(""Kog'Maw"", 'Karma')",0.523525
+Rakan,"(""Kog'Maw"", 'Leona')",0.625425
+Rakan,"(""Kog'Maw"", 'Lulu')",0.5870000000000001
+Rakan,"(""Kog'Maw"", 'Nami')",0.6677000000000001
+Rakan,"(""Kog'Maw"", 'Nautilus')",0.638575
+Rakan,"(""Kog'Maw"", 'Pyke')",0.5040499999999999
+Rakan,"(""Kog'Maw"", 'Rell')",0.5388999999999999
+Rakan,"(""Kog'Maw"", 'Thresh')",0.55655
+Rakan,"('Xayah', 'Braum')",0.59565
+Rakan,"('Xayah', 'Karma')",0.7024499999999999
+Rakan,"('Xayah', 'Leona')",0.7166999999999999
+Rakan,"('Xayah', 'Lulu')",0.65575
+Rakan,"('Xayah', 'Nami')",0.75645
+Rakan,"('Xayah', 'Nautilus')",0.64735
+Rakan,"('Xayah', 'Pyke')",0.5466999999999999
+Rakan,"('Xayah', 'Rell')",0.622675
+Rakan,"('Xayah', 'Thresh')",0.6205499999999999
+Rell,"('Aphelios', 'Braum')",0.767875
+Rell,"('Aphelios', 'Karma')",0.788575
+Rell,"('Aphelios', 'Leona')",0.8346750000000001
+Rell,"('Aphelios', 'Lulu')",0.6701999999999999
+Rell,"('Aphelios', 'Nami')",0.782125
+Rell,"('Aphelios', 'Nautilus')",0.7736
+Rell,"('Aphelios', 'Pyke')",0.7030250000000001
+Rell,"('Aphelios', 'Rakan')",0.5594
+Rell,"('Aphelios', 'Thresh')",0.6741999999999999
+Rell,"('Ashe', 'Braum')",0.6089999999999999
+Rell,"('Ashe', 'Karma')",0.5547
+Rell,"('Ashe', 'Leona')",0.6628000000000001
+Rell,"('Ashe', 'Lulu')",0.5785750000000001
+Rell,"('Ashe', 'Nami')",0.6124999999999998
+Rell,"('Ashe', 'Nautilus')",0.643725
+Rell,"('Ashe', 'Pyke')",0.6298999999999999
+Rell,"('Ashe', 'Rakan')",0.5960249999999999
+Rell,"('Ashe', 'Thresh')",0.6553249999999999
+Rell,"('Caitlyn', 'Braum')",0.5993499999999998
+Rell,"('Caitlyn', 'Karma')",0.6517999999999999
+Rell,"('Caitlyn', 'Leona')",0.6389
+Rell,"('Caitlyn', 'Lulu')",0.6699249999999999
+Rell,"('Caitlyn', 'Nami')",0.73085
+Rell,"('Caitlyn', 'Nautilus')",0.779825
+Rell,"('Caitlyn', 'Pyke')",0.6669999999999999
+Rell,"('Caitlyn', 'Rakan')",0.544375
+Rell,"('Caitlyn', 'Thresh')",0.5906749999999998
+Rell,"('Corki bot', 'Braum')",0.4586249999999999
+Rell,"('Corki bot', 'Karma')",0.61235
+Rell,"('Corki bot', 'Leona')",0.517075
+Rell,"('Corki bot', 'Lulu')",0.5944999999999999
+Rell,"('Corki bot', 'Nami')",0.4800499999999998
+Rell,"('Corki bot', 'Nautilus')",0.5807500000000001
+Rell,"('Corki bot', 'Pyke')",0.443325
+Rell,"('Corki bot', 'Rakan')",0.4768
+Rell,"('Corki bot', 'Thresh')",0.5626499999999999
+Rell,"('Ezreal', 'Braum')",0.613925
+Rell,"('Ezreal', 'Karma')",0.680375
+Rell,"('Ezreal', 'Leona')",0.6932249999999999
+Rell,"('Ezreal', 'Lulu')",0.6294999999999998
+Rell,"('Ezreal', 'Nami')",0.6886749999999999
+Rell,"('Ezreal', 'Nautilus')",0.70365
+Rell,"('Ezreal', 'Pyke')",0.744075
+Rell,"('Ezreal', 'Rakan')",0.6889500000000001
+Rell,"('Ezreal', 'Thresh')",0.74625
+Rell,"('Jhin', 'Braum')",0.7049500000000001
+Rell,"('Jhin', 'Karma')",0.6678999999999999
+Rell,"('Jhin', 'Leona')",0.71125
+Rell,"('Jhin', 'Lulu')",0.777775
+Rell,"('Jhin', 'Nami')",0.6154499999999998
+Rell,"('Jhin', 'Nautilus')",0.7549250000000001
+Rell,"('Jhin', 'Pyke')",0.7400999999999999
+Rell,"('Jhin', 'Rakan')",0.696475
+Rell,"('Jhin', 'Thresh')",0.7565249999999999
+Rell,"('Jinx', 'Braum')",0.6140249999999999
+Rell,"('Jinx', 'Karma')",0.5619749999999999
+Rell,"('Jinx', 'Leona')",0.4793249999999999
+Rell,"('Jinx', 'Lulu')",0.6015999999999999
+Rell,"('Jinx', 'Nami')",0.6077749999999998
+Rell,"('Jinx', 'Nautilus')",0.7207499999999999
+Rell,"('Jinx', 'Pyke')",0.6239250000000001
+Rell,"('Jinx', 'Rakan')",0.6708
+Rell,"('Jinx', 'Thresh')",0.5460999999999999
+Rell,"(""Kai'Sa"", 'Braum')",0.6683
+Rell,"(""Kai'Sa"", 'Karma')",0.6777500000000001
+Rell,"(""Kai'Sa"", 'Leona')",0.6678499999999999
+Rell,"(""Kai'Sa"", 'Lulu')",0.690875
+Rell,"(""Kai'Sa"", 'Nami')",0.78805
+Rell,"(""Kai'Sa"", 'Nautilus')",0.7665249999999999
+Rell,"(""Kai'Sa"", 'Pyke')",0.7542
+Rell,"(""Kai'Sa"", 'Rakan')",0.7070749999999999
+Rell,"(""Kai'Sa"", 'Thresh')",0.7081249999999999
+Rell,"(""Kog'Maw"", 'Braum')",0.7074750000000001
+Rell,"(""Kog'Maw"", 'Karma')",0.542925
+Rell,"(""Kog'Maw"", 'Leona')",0.6500250000000001
+Rell,"(""Kog'Maw"", 'Lulu')",0.6120500000000001
+Rell,"(""Kog'Maw"", 'Nami')",0.692975
+Rell,"(""Kog'Maw"", 'Nautilus')",0.6639500000000002
+Rell,"(""Kog'Maw"", 'Pyke')",0.5253749999999999
+Rell,"(""Kog'Maw"", 'Rakan')",0.7232500000000001
+Rell,"(""Kog'Maw"", 'Thresh')",0.5813
+Rell,"('Xayah', 'Braum')",0.6097999999999999
+Rell,"('Xayah', 'Karma')",0.7115
+Rell,"('Xayah', 'Leona')",0.7343499999999998
+Rell,"('Xayah', 'Lulu')",0.655375
+Rell,"('Xayah', 'Nami')",0.7555499999999999
+Rell,"('Xayah', 'Nautilus')",0.665775
+Rell,"('Xayah', 'Pyke')",0.55345
+Rell,"('Xayah', 'Rakan')",0.651575
+Rell,"('Xayah', 'Thresh')",0.625275
+Thresh,"('Aphelios', 'Braum')",0.701
+Thresh,"('Aphelios', 'Karma')",0.745075
+Thresh,"('Aphelios', 'Leona')",0.7813500000000001
+Thresh,"('Aphelios', 'Lulu')",0.628725
+Thresh,"('Aphelios', 'Nami')",0.7343999999999999
+Thresh,"('Aphelios', 'Nautilus')",0.700175
+Thresh,"('Aphelios', 'Pyke')",0.6496
+Thresh,"('Aphelios', 'Rakan')",0.505475
+Thresh,"('Aphelios', 'Rell')",0.6289750000000001
+Thresh,"('Ashe', 'Braum')",0.5441749999999999
+Thresh,"('Ashe', 'Karma')",0.5132500000000001
+Thresh,"('Ashe', 'Leona')",0.6115250000000002
+Thresh,"('Ashe', 'Lulu')",0.53915
+Thresh,"('Ashe', 'Nami')",0.566825
+Thresh,"('Ashe', 'Nautilus')",0.5764499999999999
+Thresh,"('Ashe', 'Pyke')",0.578525
+Thresh,"('Ashe', 'Rakan')",0.54415
+Thresh,"('Ashe', 'Rell')",0.53915
+Thresh,"('Caitlyn', 'Braum')",0.5111249999999999
+Thresh,"('Caitlyn', 'Karma')",0.58695
+Thresh,"('Caitlyn', 'Leona')",0.5642250000000001
+Thresh,"('Caitlyn', 'Lulu')",0.6071000000000001
+Thresh,"('Caitlyn', 'Nami')",0.6617750000000001
+Thresh,"('Caitlyn', 'Nautilus')",0.6894
+Thresh,"('Caitlyn', 'Pyke')",0.592225
+Thresh,"('Caitlyn', 'Rakan')",0.4691000000000001
+Thresh,"('Caitlyn', 'Rell')",0.59385
+Thresh,"('Corki bot', 'Braum')",0.4414249999999999
+Thresh,"('Corki bot', 'Karma')",0.61275
+Thresh,"('Corki bot', 'Leona')",0.5145250000000001
+Thresh,"('Corki bot', 'Lulu')",0.5816499999999999
+Thresh,"('Corki bot', 'Nami')",0.468575
+Thresh,"('Corki bot', 'Nautilus')",0.5561000000000001
+Thresh,"('Corki bot', 'Pyke')",0.4397750000000001
+Thresh,"('Corki bot', 'Rakan')",0.4734
+Thresh,"('Corki bot', 'Rell')",0.4539000000000001
+Thresh,"('Ezreal', 'Braum')",0.5519750000000001
+Thresh,"('Ezreal', 'Karma')",0.6418
+Thresh,"('Ezreal', 'Leona')",0.644825
+Thresh,"('Ezreal', 'Lulu')",0.59295
+Thresh,"('Ezreal', 'Nami')",0.6458749999999999
+Thresh,"('Ezreal', 'Nautilus')",0.63515
+Thresh,"('Ezreal', 'Pyke')",0.6955750000000002
+Thresh,"('Ezreal', 'Rakan')",0.6399500000000001
+Thresh,"('Ezreal', 'Rell')",0.6109500000000001
+Thresh,"('Jhin', 'Braum')",0.6439000000000001
+Thresh,"('Jhin', 'Karma')",0.630225
+Thresh,"('Jhin', 'Leona')",0.6637500000000002
+Thresh,"('Jhin', 'Lulu')",0.742125
+Thresh,"('Jhin', 'Nami')",0.57355
+Thresh,"('Jhin', 'Nautilus')",0.687325
+Thresh,"('Jhin', 'Pyke')",0.6925
+Thresh,"('Jhin', 'Rakan')",0.648375
+Thresh,"('Jhin', 'Rell')",0.613875
+Thresh,"('Jinx', 'Braum')",0.5227999999999998
+Thresh,"('Jinx', 'Karma')",0.4856249999999998
+Thresh,"('Jinx', 'Leona')",0.4069499999999998
+Thresh,"('Jinx', 'Lulu')",0.5272749999999999
+Thresh,"('Jinx', 'Nami')",0.529575
+Thresh,"('Jinx', 'Nautilus')",0.6344249999999999
+Thresh,"('Jinx', 'Pyke')",0.5397
+Thresh,"('Jinx', 'Rakan')",0.576725
+Thresh,"('Jinx', 'Rell')",0.439225
+Thresh,"(""Kai'Sa"", 'Braum')",0.5869000000000001
+Thresh,"(""Kai'Sa"", 'Karma')",0.6197250000000001
+Thresh,"(""Kai'Sa"", 'Leona')",0.6
+Thresh,"(""Kai'Sa"", 'Lulu')",0.6348750000000001
+Thresh,"(""Kai'Sa"", 'Nami')",0.7258000000000001
+Thresh,"(""Kai'Sa"", 'Nautilus')",0.6835249999999999
+Thresh,"(""Kai'Sa"", 'Pyke')",0.68625
+Thresh,"(""Kai'Sa"", 'Rakan')",0.638625
+Thresh,"(""Kai'Sa"", 'Rell')",0.546875
+Thresh,"(""Kog'Maw"", 'Braum')",0.6137
+Thresh,"(""Kog'Maw"", 'Karma')",0.472525
+Thresh,"(""Kog'Maw"", 'Leona')",0.5698000000000001
+Thresh,"(""Kog'Maw"", 'Lulu')",0.543675
+Thresh,"(""Kog'Maw"", 'Nami')",0.6183500000000001
+Thresh,"(""Kog'Maw"", 'Nautilus')",0.5636250000000002
+Thresh,"(""Kog'Maw"", 'Pyke')",0.44505
+Thresh,"(""Kog'Maw"", 'Rakan')",0.642425
+Thresh,"(""Kog'Maw"", 'Rell')",0.4786750000000001
+Thresh,"('Xayah', 'Braum')",0.548325
+Thresh,"('Xayah', 'Karma')",0.6707
+Thresh,"('Xayah', 'Leona')",0.6917249999999998
+Thresh,"('Xayah', 'Lulu')",0.6158500000000001
+Thresh,"('Xayah', 'Nami')",0.7105250000000001
+Thresh,"('Xayah', 'Nautilus')",0.6092
+Thresh,"('Xayah', 'Pyke')",0.5027250000000001
+Thresh,"('Xayah', 'Rakan')",0.6003500000000002
+Thresh,"('Xayah', 'Rell')",0.5851000000000002

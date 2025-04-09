@@ -1,0 +1,901 @@
+Key,Opponent,Value
+"('Aphelios', 'Braum')",Ashe,0.3161000000000001
+"('Aphelios', 'Braum')",Caitlyn,0.248625
+"('Aphelios', 'Braum')",Corki bot,0.2134
+"('Aphelios', 'Braum')",Ezreal,0.3867749999999999
+"('Aphelios', 'Braum')",Jhin,0.3906499999999999
+"('Aphelios', 'Braum')",Jinx,0.2205
+"('Aphelios', 'Braum')",Kai'Sa,0.3712999999999999
+"('Aphelios', 'Braum')",Kog'Maw,0.2290749999999999
+"('Aphelios', 'Braum')",Xayah,0.29645
+"('Aphelios', 'Karma')",Ashe,0.2910999999999999
+"('Aphelios', 'Karma')",Caitlyn,0.222825
+"('Aphelios', 'Karma')",Corki bot,0.1901999999999999
+"('Aphelios', 'Karma')",Ezreal,0.3027249999999999
+"('Aphelios', 'Karma')",Jhin,0.3376249999999999
+"('Aphelios', 'Karma')",Jinx,0.1944999999999998
+"('Aphelios', 'Karma')",Kai'Sa,0.3260499999999999
+"('Aphelios', 'Karma')",Kog'Maw,0.2084999999999998
+"('Aphelios', 'Karma')",Xayah,0.2585499999999999
+"('Aphelios', 'Leona')",Ashe,0.2360750000000001
+"('Aphelios', 'Leona')",Caitlyn,0.19125
+"('Aphelios', 'Leona')",Corki bot,0.1434499999999999
+"('Aphelios', 'Leona')",Ezreal,0.27255
+"('Aphelios', 'Leona')",Jhin,0.3042499999999999
+"('Aphelios', 'Leona')",Jinx,0.20605
+"('Aphelios', 'Leona')",Kai'Sa,0.2997999999999999
+"('Aphelios', 'Leona')",Kog'Maw,0.1658249999999999
+"('Aphelios', 'Leona')",Xayah,0.210175
+"('Aphelios', 'Lulu')",Ashe,0.3909750000000001
+"('Aphelios', 'Lulu')",Caitlyn,0.3310250000000002
+"('Aphelios', 'Lulu')",Corki bot,0.3113250000000001
+"('Aphelios', 'Lulu')",Ezreal,0.4368500000000002
+"('Aphelios', 'Lulu')",Jhin,0.4447
+"('Aphelios', 'Lulu')",Jinx,0.2922749999999999
+"('Aphelios', 'Lulu')",Kai'Sa,0.436725
+"('Aphelios', 'Lulu')",Kog'Maw,0.3143500000000001
+"('Aphelios', 'Lulu')",Xayah,0.3722000000000001
+"('Aphelios', 'Nami')",Ashe,0.275575
+"('Aphelios', 'Nami')",Caitlyn,0.219325
+"('Aphelios', 'Nami')",Corki bot,0.2095749999999999
+"('Aphelios', 'Nami')",Ezreal,0.3057500000000002
+"('Aphelios', 'Nami')",Jhin,0.36045
+"('Aphelios', 'Nami')",Jinx,0.1943
+"('Aphelios', 'Nami')",Kai'Sa,0.323625
+"('Aphelios', 'Nami')",Kog'Maw,0.2334999999999999
+"('Aphelios', 'Nami')",Xayah,0.2652
+"('Aphelios', 'Nautilus')",Ashe,0.306425
+"('Aphelios', 'Nautilus')",Caitlyn,0.25265
+"('Aphelios', 'Nautilus')",Corki bot,0.2042999999999999
+"('Aphelios', 'Nautilus')",Ezreal,0.3350000000000001
+"('Aphelios', 'Nautilus')",Jhin,0.3901749999999999
+"('Aphelios', 'Nautilus')",Jinx,0.2134249999999999
+"('Aphelios', 'Nautilus')",Kai'Sa,0.3528999999999999
+"('Aphelios', 'Nautilus')",Kog'Maw,0.2388249999999999
+"('Aphelios', 'Nautilus')",Xayah,0.28285
+"('Aphelios', 'Pyke')",Ashe,0.383125
+"('Aphelios', 'Pyke')",Caitlyn,0.3060750000000001
+"('Aphelios', 'Pyke')",Corki bot,0.2913749999999999
+"('Aphelios', 'Pyke')",Ezreal,0.4053250000000001
+"('Aphelios', 'Pyke')",Jhin,0.4470999999999999
+"('Aphelios', 'Pyke')",Jinx,0.2883249999999999
+"('Aphelios', 'Pyke')",Kai'Sa,0.4107999999999999
+"('Aphelios', 'Pyke')",Kog'Maw,0.3385249999999999
+"('Aphelios', 'Pyke')",Xayah,0.40365
+"('Aphelios', 'Rakan')",Ashe,0.535725
+"('Aphelios', 'Rakan')",Caitlyn,0.51125
+"('Aphelios', 'Rakan')",Corki bot,0.4193249999999999
+"('Aphelios', 'Rakan')",Ezreal,0.543575
+"('Aphelios', 'Rakan')",Jhin,0.576
+"('Aphelios', 'Rakan')",Jinx,0.4230749999999999
+"('Aphelios', 'Rakan')",Kai'Sa,0.5874749999999999
+"('Aphelios', 'Rakan')",Kog'Maw,0.4669999999999998
+"('Aphelios', 'Rakan')",Xayah,0.5004499999999998
+"('Aphelios', 'Rell')",Ashe,0.383825
+"('Aphelios', 'Rell')",Caitlyn,0.3472249999999999
+"('Aphelios', 'Rell')",Corki bot,0.2978749999999999
+"('Aphelios', 'Rell')",Ezreal,0.421325
+"('Aphelios', 'Rell')",Jhin,0.4608499999999998
+"('Aphelios', 'Rell')",Jinx,0.2994249999999999
+"('Aphelios', 'Rell')",Kai'Sa,0.48685
+"('Aphelios', 'Rell')",Kog'Maw,0.345325
+"('Aphelios', 'Rell')",Xayah,0.3718249999999999
+"('Aphelios', 'Thresh')",Ashe,0.3878250000000001
+"('Aphelios', 'Thresh')",Caitlyn,0.3294750000000001
+"('Aphelios', 'Thresh')",Corki bot,0.297025
+"('Aphelios', 'Thresh')",Ezreal,0.4082000000000001
+"('Aphelios', 'Thresh')",Jhin,0.4500499999999999
+"('Aphelios', 'Thresh')",Jinx,0.298725
+"('Aphelios', 'Thresh')",Kai'Sa,0.4392
+"('Aphelios', 'Thresh')",Kog'Maw,0.3194249999999999
+"('Aphelios', 'Thresh')",Xayah,0.3662999999999999
+"('Ashe', 'Braum')",Aphelios,0.4388500000000001
+"('Ashe', 'Braum')",Caitlyn,0.3964750000000001
+"('Ashe', 'Braum')",Corki bot,0.3594500000000002
+"('Ashe', 'Braum')",Ezreal,0.5274500000000001
+"('Ashe', 'Braum')",Jhin,0.5296500000000001
+"('Ashe', 'Braum')",Jinx,0.3622499999999999
+"('Ashe', 'Braum')",Kai'Sa,0.509575
+"('Ashe', 'Braum')",Kog'Maw,0.368125
+"('Ashe', 'Braum')",Xayah,0.44465
+"('Ashe', 'Karma')",Aphelios,0.4642749999999999
+"('Ashe', 'Karma')",Caitlyn,0.4456749999999999
+"('Ashe', 'Karma')",Corki bot,0.41125
+"('Ashe', 'Karma')",Ezreal,0.5337500000000001
+"('Ashe', 'Karma')",Jhin,0.5516249999999999
+"('Ashe', 'Karma')",Jinx,0.4112499999999998
+"('Ashe', 'Karma')",Kai'Sa,0.5393249999999999
+"('Ashe', 'Karma')",Kog'Maw,0.42255
+"('Ashe', 'Karma')",Xayah,0.4817499999999999
+"('Ashe', 'Leona')",Aphelios,0.3566749999999999
+"('Ashe', 'Leona')",Caitlyn,0.3521
+"('Ashe', 'Leona')",Corki bot,0.3081
+"('Ashe', 'Leona')",Ezreal,0.441575
+"('Ashe', 'Leona')",Jhin,0.4562499999999999
+"('Ashe', 'Leona')",Jinx,0.378675
+"('Ashe', 'Leona')",Kai'Sa,0.4510749999999999
+"('Ashe', 'Leona')",Kog'Maw,0.3178749999999999
+"('Ashe', 'Leona')",Xayah,0.3713749999999999
+"('Ashe', 'Lulu')",Aphelios,0.4257000000000001
+"('Ashe', 'Lulu')",Caitlyn,0.4116250000000001
+"('Ashe', 'Lulu')",Corki bot,0.390125
+"('Ashe', 'Lulu')",Ezreal,0.525625
+"('Ashe', 'Lulu')",Jhin,0.5164499999999999
+"('Ashe', 'Lulu')",Jinx,0.3667749999999999
+"('Ashe', 'Lulu')",Kai'Sa,0.5077499999999999
+"('Ashe', 'Lulu')",Kog'Maw,0.3861499999999999
+"('Ashe', 'Lulu')",Xayah,0.45315
+"('Ashe', 'Nami')",Aphelios,0.3949500000000001
+"('Ashe', 'Nami')",Caitlyn,0.3779250000000002
+"('Ashe', 'Nami')",Corki bot,0.368525
+"('Ashe', 'Nami')",Ezreal,0.4725250000000002
+"('Ashe', 'Nami')",Jhin,0.5266000000000001
+"('Ashe', 'Nami')",Jinx,0.3468
+"('Ashe', 'Nami')",Kai'Sa,0.47265
+"('Ashe', 'Nami')",Kog'Maw,0.3833
+"('Ashe', 'Nami')",Xayah,0.4241500000000001
+"('Ashe', 'Nautilus')",Aphelios,0.3786499999999999
+"('Ashe', 'Nautilus')",Caitlyn,0.3715
+"('Ashe', 'Nautilus')",Corki bot,0.3326499999999999
+"('Ashe', 'Nautilus')",Ezreal,0.4620250000000001
+"('Ashe', 'Nautilus')",Jhin,0.5001749999999999
+"('Ashe', 'Nautilus')",Jinx,0.3261749999999999
+"('Ashe', 'Nautilus')",Kai'Sa,0.4621749999999999
+"('Ashe', 'Nautilus')",Kog'Maw,0.3488749999999999
+"('Ashe', 'Nautilus')",Xayah,0.4020499999999999
+"('Ashe', 'Pyke')",Aphelios,0.3874000000000001
+"('Ashe', 'Pyke')",Caitlyn,0.3681750000000001
+"('Ashe', 'Pyke')",Corki bot,0.362975
+"('Ashe', 'Pyke')",Ezreal,0.4756000000000002
+"('Ashe', 'Pyke')",Jhin,0.50035
+"('Ashe', 'Pyke')",Jinx,0.344325
+"('Ashe', 'Pyke')",Kai'Sa,0.463325
+"('Ashe', 'Pyke')",Kog'Maw,0.404825
+"('Ashe', 'Pyke')",Xayah,0.4774
+"('Ashe', 'Rakan')",Aphelios,0.585175
+"('Ashe', 'Rakan')",Caitlyn,0.4714749999999999
+"('Ashe', 'Rakan')",Corki bot,0.3811749999999999
+"('Ashe', 'Rakan')",Ezreal,0.5041000000000001
+"('Ashe', 'Rakan')",Jhin,0.5195
+"('Ashe', 'Rakan')",Jinx,0.369325
+"('Ashe', 'Rakan')",Kai'Sa,0.53025
+"('Ashe', 'Rakan')",Kog'Maw,0.4105499999999999
+"('Ashe', 'Rakan')",Xayah,0.45315
+"('Ashe', 'Rell')",Aphelios,0.4350750000000001
+"('Ashe', 'Rell')",Caitlyn,0.428075
+"('Ashe', 'Rell')",Corki bot,0.3854000000000001
+"('Ashe', 'Rell')",Ezreal,0.5103500000000001
+"('Ashe', 'Rell')",Jhin,0.5328499999999999
+"('Ashe', 'Rell')",Jinx,0.374175
+"('Ashe', 'Rell')",Kai'Sa,0.5566
+"('Ashe', 'Rell')",Kog'Maw,0.417375
+"('Ashe', 'Rell')",Xayah,0.453025
+"('Ashe', 'Thresh')",Aphelios,0.359475
+"('Ashe', 'Thresh')",Caitlyn,0.3373250000000001
+"('Ashe', 'Thresh')",Corki bot,0.3143749999999999
+"('Ashe', 'Thresh')",Ezreal,0.4242250000000001
+"('Ashe', 'Thresh')",Jhin,0.44905
+"('Ashe', 'Thresh')",Jinx,0.300475
+"('Ashe', 'Thresh')",Kai'Sa,0.437475
+"('Ashe', 'Thresh')",Kog'Maw,0.318475
+"('Ashe', 'Thresh')",Xayah,0.3745
+"('Caitlyn', 'Braum')",Aphelios,0.48875
+"('Caitlyn', 'Braum')",Ashe,0.4882000000000001
+"('Caitlyn', 'Braum')",Corki bot,0.39415
+"('Caitlyn', 'Braum')",Ezreal,0.556325
+"('Caitlyn', 'Braum')",Jhin,0.5628249999999999
+"('Caitlyn', 'Braum')",Jinx,0.3928
+"('Caitlyn', 'Braum')",Kai'Sa,0.519725
+"('Caitlyn', 'Braum')",Kog'Maw,0.4080249999999999
+"('Caitlyn', 'Braum')",Xayah,0.4962
+"('Caitlyn', 'Karma')",Aphelios,0.407425
+"('Caitlyn', 'Karma')",Ashe,0.43385
+"('Caitlyn', 'Karma')",Corki bot,0.3392000000000001
+"('Caitlyn', 'Karma')",Ezreal,0.468825
+"('Caitlyn', 'Karma')",Jhin,0.47805
+"('Caitlyn', 'Karma')",Jinx,0.3350499999999999
+"('Caitlyn', 'Karma')",Kai'Sa,0.442725
+"('Caitlyn', 'Karma')",Kog'Maw,0.3556999999999999
+"('Caitlyn', 'Karma')",Xayah,0.42655
+"('Caitlyn', 'Leona')",Aphelios,0.4208249999999999
+"('Caitlyn', 'Leona')",Ashe,0.435425
+"('Caitlyn', 'Leona')",Corki bot,0.3570499999999999
+"('Caitlyn', 'Leona')",Ezreal,0.49765
+"('Caitlyn', 'Leona')",Jhin,0.5036749999999998
+"('Caitlyn', 'Leona')",Jinx,0.4080249999999999
+"('Caitlyn', 'Leona')",Kai'Sa,0.4754749999999998
+"('Caitlyn', 'Leona')",Kog'Maw,0.3720249999999999
+"('Caitlyn', 'Leona')",Xayah,0.4371749999999999
+"('Caitlyn', 'Lulu')",Aphelios,0.3746
+"('Caitlyn', 'Lulu')",Ashe,0.394825
+"('Caitlyn', 'Lulu')",Corki bot,0.323825
+"('Caitlyn', 'Lulu')",Ezreal,0.4664500000000001
+"('Caitlyn', 'Lulu')",Jhin,0.4486249999999998
+"('Caitlyn', 'Lulu')",Jinx,0.2963249999999999
+"('Caitlyn', 'Lulu')",Kai'Sa,0.4168999999999999
+"('Caitlyn', 'Lulu')",Kog'Maw,0.3250499999999999
+"('Caitlyn', 'Lulu')",Xayah,0.4036999999999999
+"('Caitlyn', 'Nami')",Aphelios,0.31685
+"('Caitlyn', 'Nami')",Ashe,0.3304249999999999
+"('Caitlyn', 'Nami')",Corki bot,0.26915
+"('Caitlyn', 'Nami')",Ezreal,0.38635
+"('Caitlyn', 'Nami')",Jhin,0.4053499999999998
+"('Caitlyn', 'Nami')",Jinx,0.2493499999999998
+"('Caitlyn', 'Nami')",Kai'Sa,0.3547999999999999
+"('Caitlyn', 'Nami')",Kog'Maw,0.2951999999999998
+"('Caitlyn', 'Nami')",Xayah,0.3476999999999999
+"('Caitlyn', 'Nautilus')",Aphelios,0.2828
+"('Caitlyn', 'Nautilus')",Ashe,0.3037749999999999
+"('Caitlyn', 'Nautilus')",Corki bot,0.220175
+"('Caitlyn', 'Nautilus')",Ezreal,0.3581
+"('Caitlyn', 'Nautilus')",Jhin,0.3863249999999999
+"('Caitlyn', 'Nautilus')",Jinx,0.2109749999999998
+"('Caitlyn', 'Nautilus')",Kai'Sa,0.3265749999999999
+"('Caitlyn', 'Nautilus')",Kog'Maw,0.2430249999999999
+"('Caitlyn', 'Nautilus')",Xayah,0.3078499999999999
+"('Caitlyn', 'Pyke')",Aphelios,0.3905500000000001
+"('Caitlyn', 'Pyke')",Ashe,0.4227250000000001
+"('Caitlyn', 'Pyke')",Corki bot,0.3330000000000001
+"('Caitlyn', 'Pyke')",Ezreal,0.4706750000000002
+"('Caitlyn', 'Pyke')",Jhin,0.4867749999999999
+"('Caitlyn', 'Pyke')",Jinx,0.328125
+"('Caitlyn', 'Pyke')",Kai'Sa,0.426725
+"('Caitlyn', 'Pyke')",Kog'Maw,0.372925
+"('Caitlyn', 'Pyke')",Xayah,0.4912750000000001
+"('Caitlyn', 'Rakan')",Aphelios,0.652775
+"('Caitlyn', 'Rakan')",Ashe,0.5543250000000001
+"('Caitlyn', 'Rakan')",Corki bot,0.455625
+"('Caitlyn', 'Rakan')",Ezreal,0.587925
+"('Caitlyn', 'Rakan')",Jhin,0.5946749999999998
+"('Caitlyn', 'Rakan')",Jinx,0.4418749999999998
+"('Caitlyn', 'Rakan')",Kai'Sa,0.5823999999999999
+"('Caitlyn', 'Rakan')",Kog'Maw,0.4924499999999999
+"('Caitlyn', 'Rakan')",Xayah,0.5466999999999999
+"('Caitlyn', 'Rell')",Aphelios,0.3972250000000001
+"('Caitlyn', 'Rell')",Ashe,0.401175
+"('Caitlyn', 'Rell')",Corki bot,0.3323500000000001
+"('Caitlyn', 'Rell')",Ezreal,0.4644250000000001
+"('Caitlyn', 'Rell')",Jhin,0.4782749999999999
+"('Caitlyn', 'Rell')",Jinx,0.316975
+"('Caitlyn', 'Rell')",Kai'Sa,0.502325
+"('Caitlyn', 'Rell')",Kog'Maw,0.3695250000000001
+"('Caitlyn', 'Rell')",Xayah,0.416825
+"('Caitlyn', 'Thresh')",Aphelios,0.4643750000000001
+"('Caitlyn', 'Thresh')",Ashe,0.4749250000000001
+"('Caitlyn', 'Thresh')",Corki bot,0.4093250000000001
+"('Caitlyn', 'Thresh')",Ezreal,0.5210500000000002
+"('Caitlyn', 'Thresh')",Jhin,0.537225
+"('Caitlyn', 'Thresh')",Jinx,0.386025
+"('Caitlyn', 'Thresh')",Kai'Sa,0.502625
+"('Caitlyn', 'Thresh')",Kog'Maw,0.413375
+"('Caitlyn', 'Thresh')",Xayah,0.48105
+"('Corki bot', 'Braum')",Aphelios,0.580675
+"('Corki bot', 'Braum')",Ashe,0.5714750000000001
+"('Corki bot', 'Braum')",Caitlyn,0.530275
+"('Corki bot', 'Braum')",Ezreal,0.6205999999999999
+"('Corki bot', 'Braum')",Jhin,0.6297499999999999
+"('Corki bot', 'Braum')",Jinx,0.4849000000000001
+"('Corki bot', 'Braum')",Kai'Sa,0.6232
+"('Corki bot', 'Braum')",Kog'Maw,0.493625
+"('Corki bot', 'Braum')",Xayah,0.562575
+"('Corki bot', 'Karma')",Aphelios,0.40385
+"('Corki bot', 'Karma')",Ashe,0.4199000000000001
+"('Corki bot', 'Karma')",Caitlyn,0.3772250000000001
+"('Corki bot', 'Karma')",Ezreal,0.452575
+"('Corki bot', 'Karma')",Jhin,0.4494749999999999
+"('Corki bot', 'Karma')",Jinx,0.3316499999999999
+"('Corki bot', 'Karma')",Kai'Sa,0.4507
+"('Corki bot', 'Karma')",Kog'Maw,0.3458
+"('Corki bot', 'Karma')",Xayah,0.3974250000000001
+"('Corki bot', 'Leona')",Aphelios,0.4927500000000001
+"('Corki bot', 'Leona')",Ashe,0.4987
+"('Corki bot', 'Leona')",Caitlyn,0.48015
+"('Corki bot', 'Leona')",Ezreal,0.5569000000000001
+"('Corki bot', 'Leona')",Jhin,0.5506
+"('Corki bot', 'Leona')",Jinx,0.485475
+"('Corki bot', 'Leona')",Kai'Sa,0.55895
+"('Corki bot', 'Leona')",Kog'Maw,0.4376249999999999
+"('Corki bot', 'Leona')",Xayah,0.48355
+"('Corki bot', 'Lulu')",Aphelios,0.4222750000000002
+"('Corki bot', 'Lulu')",Ashe,0.43385
+"('Corki bot', 'Lulu')",Caitlyn,0.4001750000000001
+"('Corki bot', 'Lulu')",Ezreal,0.5014500000000003
+"('Corki bot', 'Lulu')",Jhin,0.4712999999999999
+"('Corki bot', 'Lulu')",Jinx,0.344175
+"('Corki bot', 'Lulu')",Kai'Sa,0.4761249999999999
+"('Corki bot', 'Lulu')",Kog'Maw,0.3664
+"('Corki bot', 'Lulu')",Xayah,0.4258250000000001
+"('Corki bot', 'Nami')",Aphelios,0.5322750000000002
+"('Corki bot', 'Nami')",Ashe,0.5372
+"('Corki bot', 'Nami')",Caitlyn,0.5072250000000001
+"('Corki bot', 'Nami')",Ezreal,0.5891000000000001
+"('Corki bot', 'Nami')",Jhin,0.6334000000000001
+"('Corki bot', 'Nami')",Jinx,0.46495
+"('Corki bot', 'Nami')",Kai'Sa,0.581775
+"('Corki bot', 'Nami')",Kog'Maw,0.5043
+"('Corki bot', 'Nami')",Xayah,0.537575
+"('Corki bot', 'Nautilus')",Aphelios,0.4339749999999999
+"('Corki bot', 'Nautilus')",Ashe,0.4463
+"('Corki bot', 'Nautilus')",Caitlyn,0.4187999999999999
+"('Corki bot', 'Nautilus')",Ezreal,0.4966
+"('Corki bot', 'Nautilus')",Jhin,0.5137749999999999
+"('Corki bot', 'Nautilus')",Jinx,0.3623249999999999
+"('Corki bot', 'Nautilus')",Kai'Sa,0.4892999999999998
+"('Corki bot', 'Nautilus')",Kog'Maw,0.3878749999999998
+"('Corki bot', 'Nautilus')",Xayah,0.4334749999999999
+"('Corki bot', 'Pyke')",Aphelios,0.5652250000000001
+"('Corki bot', 'Pyke')",Ashe,0.58875
+"('Corki bot', 'Pyke')",Caitlyn,0.537975
+"('Corki bot', 'Pyke')",Ezreal,0.6326750000000001
+"('Corki bot', 'Pyke')",Jhin,0.63645
+"('Corki bot', 'Pyke')",Jinx,0.5029749999999998
+"('Corki bot', 'Pyke')",Kai'Sa,0.6129499999999999
+"('Corki bot', 'Pyke')",Kog'Maw,0.5569250000000001
+"('Corki bot', 'Pyke')",Xayah,0.6436
+"('Corki bot', 'Rakan')",Aphelios,0.6610999999999999
+"('Corki bot', 'Rakan')",Ashe,0.5636
+"('Corki bot', 'Rakan')",Caitlyn,0.5621749999999999
+"('Corki bot', 'Rakan')",Ezreal,0.5931750000000001
+"('Corki bot', 'Rakan')",Jhin,0.5875999999999999
+"('Corki bot', 'Rakan')",Jinx,0.4599749999999998
+"('Corki bot', 'Rakan')",Kai'Sa,0.611875
+"('Corki bot', 'Rakan')",Kog'Maw,0.5040499999999999
+"('Corki bot', 'Rakan')",Xayah,0.5390749999999999
+"('Corki bot', 'Rell')",Aphelios,0.5594
+"('Corki bot', 'Rell')",Ashe,0.5547
+"('Corki bot', 'Rell')",Caitlyn,0.544375
+"('Corki bot', 'Rell')",Ezreal,0.613925
+"('Corki bot', 'Rell')",Jhin,0.6154499999999998
+"('Corki bot', 'Rell')",Jinx,0.4793249999999999
+"('Corki bot', 'Rell')",Kai'Sa,0.6678499999999999
+"('Corki bot', 'Rell')",Kog'Maw,0.5253749999999999
+"('Corki bot', 'Rell')",Xayah,0.55345
+"('Corki bot', 'Thresh')",Aphelios,0.46105
+"('Corki bot', 'Thresh')",Ashe,0.4629500000000001
+"('Corki bot', 'Thresh')",Caitlyn,0.430875
+"('Corki bot', 'Thresh')",Ezreal,0.5050500000000002
+"('Corki bot', 'Thresh')",Jhin,0.5089
+"('Corki bot', 'Thresh')",Jinx,0.382875
+"('Corki bot', 'Thresh')",Kai'Sa,0.5108499999999999
+"('Corki bot', 'Thresh')",Kog'Maw,0.4037249999999999
+"('Corki bot', 'Thresh')",Xayah,0.452175
+"('Ezreal', 'Braum')",Aphelios,0.4564249999999999
+"('Ezreal', 'Braum')",Ashe,0.4662499999999999
+"('Ezreal', 'Braum')",Caitlyn,0.4120749999999999
+"('Ezreal', 'Braum')",Corki bot,0.367325
+"('Ezreal', 'Braum')",Jhin,0.5394999999999999
+"('Ezreal', 'Braum')",Jinx,0.3564249999999999
+"('Ezreal', 'Braum')",Kai'Sa,0.4931749999999998
+"('Ezreal', 'Braum')",Kog'Maw,0.3851249999999999
+"('Ezreal', 'Braum')",Xayah,0.4548249999999998
+"('Ezreal', 'Karma')",Aphelios,0.3611
+"('Ezreal', 'Karma')",Ashe,0.395875
+"('Ezreal', 'Karma')",Caitlyn,0.3405250000000001
+"('Ezreal', 'Karma')",Corki bot,0.2983750000000001
+"('Ezreal', 'Karma')",Jhin,0.440725
+"('Ezreal', 'Karma')",Jinx,0.2846749999999999
+"('Ezreal', 'Karma')",Kai'Sa,0.402175
+"('Ezreal', 'Karma')",Kog'Maw,0.3188
+"('Ezreal', 'Karma')",Xayah,0.3711749999999999
+"('Ezreal', 'Leona')",Aphelios,0.34875
+"('Ezreal', 'Leona')",Ashe,0.3737250000000001
+"('Ezreal', 'Leona')",Caitlyn,0.3422
+"('Ezreal', 'Leona')",Corki bot,0.2881
+"('Ezreal', 'Leona')",Jhin,0.4406
+"('Ezreal', 'Leona')",Jinx,0.3457500000000001
+"('Ezreal', 'Leona')",Kai'Sa,0.4091749999999999
+"('Ezreal', 'Leona')",Kog'Maw,0.309375
+"('Ezreal', 'Leona')",Xayah,0.35605
+"('Ezreal', 'Lulu')",Aphelios,0.3972750000000002
+"('Ezreal', 'Lulu')",Ashe,0.427875
+"('Ezreal', 'Lulu')",Caitlyn,0.3812250000000001
+"('Ezreal', 'Lulu')",Corki bot,0.3520000000000001
+"('Ezreal', 'Lulu')",Jhin,0.4803
+"('Ezreal', 'Lulu')",Jinx,0.31495
+"('Ezreal', 'Lulu')",Kai'Sa,0.4453499999999999
+"('Ezreal', 'Lulu')",Kog'Maw,0.35715
+"('Ezreal', 'Lulu')",Xayah,0.4173250000000001
+"('Ezreal', 'Nami')",Aphelios,0.341275
+"('Ezreal', 'Nami')",Ashe,0.3652250000000001
+"('Ezreal', 'Nami')",Caitlyn,0.3222750000000001
+"('Ezreal', 'Nami')",Corki bot,0.3051500000000001
+"('Ezreal', 'Nami')",Jhin,0.4491249999999999
+"('Ezreal', 'Nami')",Jinx,0.269725
+"('Ezreal', 'Nami')",Kai'Sa,0.385
+"('Ezreal', 'Nami')",Kog'Maw,0.32905
+"('Ezreal', 'Nami')",Xayah,0.363075
+"('Ezreal', 'Nautilus')",Aphelios,0.3412250000000001
+"('Ezreal', 'Nautilus')",Ashe,0.3725750000000002
+"('Ezreal', 'Nautilus')",Caitlyn,0.3321
+"('Ezreal', 'Nautilus')",Corki bot,0.27745
+"('Ezreal', 'Nautilus')",Jhin,0.4550249999999999
+"('Ezreal', 'Nautilus')",Jinx,0.26535
+"('Ezreal', 'Nautilus')",Kai'Sa,0.3907749999999999
+"('Ezreal', 'Nautilus')",Kog'Maw,0.310875
+"('Ezreal', 'Nautilus')",Xayah,0.357225
+"('Ezreal', 'Pyke')",Aphelios,0.2957249999999999
+"('Ezreal', 'Pyke')",Ashe,0.338275
+"('Ezreal', 'Pyke')",Caitlyn,0.274525
+"('Ezreal', 'Pyke')",Corki bot,0.2535249999999998
+"('Ezreal', 'Pyke')",Jhin,0.4009499999999998
+"('Ezreal', 'Pyke')",Jinx,0.2292499999999998
+"('Ezreal', 'Pyke')",Kai'Sa,0.3376749999999998
+"('Ezreal', 'Pyke')",Kog'Maw,0.2997749999999998
+"('Ezreal', 'Pyke')",Xayah,0.3702499999999999
+"('Ezreal', 'Rakan')",Aphelios,0.5011749999999999
+"('Ezreal', 'Rakan')",Ashe,0.402375
+"('Ezreal', 'Rakan')",Caitlyn,0.3830499999999999
+"('Ezreal', 'Rakan')",Corki bot,0.2929749999999999
+"('Ezreal', 'Rakan')",Jhin,0.4413499999999999
+"('Ezreal', 'Rakan')",Jinx,0.2754999999999999
+"('Ezreal', 'Rakan')",Kai'Sa,0.4258499999999998
+"('Ezreal', 'Rakan')",Kog'Maw,0.3395499999999998
+"('Ezreal', 'Rakan')",Xayah,0.3753249999999998
+"('Ezreal', 'Rell')",Aphelios,0.3886500000000001
+"('Ezreal', 'Rell')",Ashe,0.4029750000000001
+"('Ezreal', 'Rell')",Caitlyn,0.379675
+"('Ezreal', 'Rell')",Corki bot,0.3240249999999999
+"('Ezreal', 'Rell')",Jhin,0.4786999999999999
+"('Ezreal', 'Rell')",Jinx,0.3043499999999999
+"('Ezreal', 'Rell')",Kai'Sa,0.480925
+"('Ezreal', 'Rell')",Kog'Maw,0.370375
+"('Ezreal', 'Rell')",Xayah,0.3992
+"('Ezreal', 'Thresh')",Aphelios,0.29105
+"('Ezreal', 'Thresh')",Ashe,0.311975
+"('Ezreal', 'Thresh')",Caitlyn,0.2669249999999999
+"('Ezreal', 'Thresh')",Corki bot,0.2281749999999998
+"('Ezreal', 'Thresh')",Jhin,0.3728999999999999
+"('Ezreal', 'Thresh')",Jinx,0.2086499999999999
+"('Ezreal', 'Thresh')",Kai'Sa,0.3350749999999998
+"('Ezreal', 'Thresh')",Kog'Maw,0.2494749999999998
+"('Ezreal', 'Thresh')",Xayah,0.2986749999999999
+"('Jhin', 'Braum')",Aphelios,0.3748999999999999
+"('Jhin', 'Braum')",Ashe,0.3851499999999999
+"('Jhin', 'Braum')",Caitlyn,0.3308749999999999
+"('Jhin', 'Braum')",Corki bot,0.2614749999999999
+"('Jhin', 'Braum')",Ezreal,0.4458249999999999
+"('Jhin', 'Braum')",Jinx,0.2674499999999999
+"('Jhin', 'Braum')",Kai'Sa,0.4103749999999999
+"('Jhin', 'Braum')",Kog'Maw,0.2749749999999998
+"('Jhin', 'Braum')",Xayah,0.3523499999999998
+"('Jhin', 'Karma')",Aphelios,0.383075
+"('Jhin', 'Karma')",Ashe,0.4130499999999999
+"('Jhin', 'Karma')",Caitlyn,0.362825
+"('Jhin', 'Karma')",Corki bot,0.2960250000000001
+"('Jhin', 'Karma')",Ezreal,0.4114750000000001
+"('Jhin', 'Karma')",Jinx,0.2991999999999999
+"('Jhin', 'Karma')",Kai'Sa,0.4228750000000001
+"('Jhin', 'Karma')",Kog'Maw,0.31215
+"('Jhin', 'Karma')",Xayah,0.3722
+"('Jhin', 'Leona')",Aphelios,0.3402249999999999
+"('Jhin', 'Leona')",Ashe,0.3656249999999999
+"('Jhin', 'Leona')",Caitlyn,0.3339999999999999
+"('Jhin', 'Leona')",Corki bot,0.257625
+"('Jhin', 'Leona')",Ezreal,0.38405
+"('Jhin', 'Leona')",Jinx,0.3235249999999999
+"('Jhin', 'Leona')",Kai'Sa,0.3993749999999998
+"('Jhin', 'Leona')",Kog'Maw,0.2722249999999999
+"('Jhin', 'Leona')",Xayah,0.3265749999999999
+"('Jhin', 'Lulu')",Aphelios,0.2584999999999999
+"('Jhin', 'Lulu')",Ashe,0.289525
+"('Jhin', 'Lulu')",Caitlyn,0.242775
+"('Jhin', 'Lulu')",Corki bot,0.1888999999999999
+"('Jhin', 'Lulu')",Ezreal,0.3173500000000001
+"('Jhin', 'Lulu')",Jinx,0.1687249999999998
+"('Jhin', 'Lulu')",Kai'Sa,0.3052999999999999
+"('Jhin', 'Lulu')",Kog'Maw,0.1897499999999999
+"('Jhin', 'Lulu')",Xayah,0.2575999999999999
+"('Jhin', 'Nami')",Aphelios,0.424
+"('Jhin', 'Nami')",Ashe,0.4483750000000001
+"('Jhin', 'Nami')",Caitlyn,0.4053250000000001
+"('Jhin', 'Nami')",Corki bot,0.36355
+"('Jhin', 'Nami')",Ezreal,0.4605000000000002
+"('Jhin', 'Nami')",Jinx,0.345
+"('Jhin', 'Nami')",Kai'Sa,0.4664500000000001
+"('Jhin', 'Nami')",Kog'Maw,0.38315
+"('Jhin', 'Nami')",Xayah,0.42485
+"('Jhin', 'Nautilus')",Aphelios,0.29945
+"('Jhin', 'Nautilus')",Ashe,0.331225
+"('Jhin', 'Nautilus')",Caitlyn,0.29065
+"('Jhin', 'Nautilus')",Corki bot,0.2169749999999998
+"('Jhin', 'Nautilus')",Ezreal,0.3417500000000001
+"('Jhin', 'Nautilus')",Jinx,0.2161249999999999
+"('Jhin', 'Nautilus')",Kai'Sa,0.3477249999999999
+"('Jhin', 'Nautilus')",Kog'Maw,0.2404749999999999
+"('Jhin', 'Nautilus')",Xayah,0.2945
+"('Jhin', 'Pyke')",Aphelios,0.3092
+"('Jhin', 'Pyke')",Ashe,0.3521750000000001
+"('Jhin', 'Pyke')",Caitlyn,0.2883250000000001
+"('Jhin', 'Pyke')",Corki bot,0.2483
+"('Jhin', 'Pyke')",Ezreal,0.3563250000000001
+"('Jhin', 'Pyke')",Jinx,0.2352749999999999
+"('Jhin', 'Pyke')",Kai'Sa,0.349875
+"('Jhin', 'Pyke')",Kog'Maw,0.29945
+"('Jhin', 'Pyke')",Xayah,0.3684
+"('Jhin', 'Rakan')",Aphelios,0.497875
+"('Jhin', 'Rakan')",Ashe,0.404775
+"('Jhin', 'Rakan')",Caitlyn,0.3703
+"('Jhin', 'Rakan')",Corki bot,0.27625
+"('Jhin', 'Rakan')",Ezreal,0.3945750000000002
+"('Jhin', 'Rakan')",Jinx,0.2700249999999999
+"('Jhin', 'Rakan')",Kai'Sa,0.42655
+"('Jhin', 'Rakan')",Kog'Maw,0.3129
+"('Jhin', 'Rakan')",Xayah,0.35635
+"('Jhin', 'Rell')",Aphelios,0.3961250000000001
+"('Jhin', 'Rell')",Ashe,0.4108750000000001
+"('Jhin', 'Rell')",Caitlyn,0.387475
+"('Jhin', 'Rell')",Corki bot,0.3124250000000001
+"('Jhin', 'Rell')",Ezreal,0.4303250000000001
+"('Jhin', 'Rell')",Jinx,0.304375
+"('Jhin', 'Rell')",Kai'Sa,0.4779250000000001
+"('Jhin', 'Rell')",Kog'Maw,0.349225
+"('Jhin', 'Rell')",Xayah,0.385725
+"('Jhin', 'Thresh')",Aphelios,0.2902750000000001
+"('Jhin', 'Thresh')",Ashe,0.3073499999999999
+"('Jhin', 'Thresh')",Caitlyn,0.2664750000000001
+"('Jhin', 'Thresh')",Corki bot,0.2087
+"('Jhin', 'Thresh')",Ezreal,0.3139500000000001
+"('Jhin', 'Thresh')",Jinx,0.200425
+"('Jhin', 'Thresh')",Kai'Sa,0.333025
+"('Jhin', 'Thresh')",Kog'Maw,0.220075
+"('Jhin', 'Thresh')",Xayah,0.2769500000000001
+"('Jinx', 'Braum')",Aphelios,0.4706
+"('Jinx', 'Braum')",Ashe,0.467275
+"('Jinx', 'Braum')",Caitlyn,0.414
+"('Jinx', 'Braum')",Corki bot,0.3598750000000001
+"('Jinx', 'Braum')",Ezreal,0.534175
+"('Jinx', 'Braum')",Jhin,0.5398999999999999
+"('Jinx', 'Braum')",Kai'Sa,0.504725
+"('Jinx', 'Braum')",Kog'Maw,0.38045
+"('Jinx', 'Braum')",Xayah,0.4586249999999999
+"('Jinx', 'Karma')",Aphelios,0.4937749999999999
+"('Jinx', 'Karma')",Ashe,0.526475
+"('Jinx', 'Karma')",Caitlyn,0.4609499999999999
+"('Jinx', 'Karma')",Corki bot,0.4094250000000001
+"('Jinx', 'Karma')",Ezreal,0.545
+"('Jinx', 'Karma')",Jhin,0.559625
+"('Jinx', 'Karma')",Kai'Sa,0.532225
+"('Jinx', 'Karma')",Kog'Maw,0.432625
+"('Jinx', 'Karma')",Xayah,0.4934749999999999
+"('Jinx', 'Leona')",Aphelios,0.5769250000000001
+"('Jinx', 'Leona')",Ashe,0.5887500000000001
+"('Jinx', 'Leona')",Caitlyn,0.5581250000000001
+"('Jinx', 'Leona')",Corki bot,0.4970250000000001
+"('Jinx', 'Leona')",Ezreal,0.6435750000000001
+"('Jinx', 'Leona')",Jhin,0.655
+"('Jinx', 'Leona')",Kai'Sa,0.634725
+"('Jinx', 'Leona')",Kog'Maw,0.5187
+"('Jinx', 'Leona')",Xayah,0.5738500000000001
+"('Jinx', 'Lulu')",Aphelios,0.43945
+"('Jinx', 'Lulu')",Ashe,0.4569
+"('Jinx', 'Lulu')",Caitlyn,0.41115
+"('Jinx', 'Lulu')",Corki bot,0.3725500000000001
+"('Jinx', 'Lulu')",Ezreal,0.5211250000000001
+"('Jinx', 'Lulu')",Jhin,0.5086999999999999
+"('Jinx', 'Lulu')",Kai'Sa,0.4848999999999999
+"('Jinx', 'Lulu')",Kog'Maw,0.3804749999999999
+"('Jinx', 'Lulu')",Xayah,0.4491249999999999
+"('Jinx', 'Nami')",Aphelios,0.4364500000000001
+"('Jinx', 'Nami')",Ashe,0.4472500000000001
+"('Jinx', 'Nami')",Caitlyn,0.4052000000000001
+"('Jinx', 'Nami')",Corki bot,0.3787000000000001
+"('Jinx', 'Nami')",Ezreal,0.4957750000000001
+"('Jinx', 'Nami')",Jhin,0.542025
+"('Jinx', 'Nami')",Kai'Sa,0.47755
+"('Jinx', 'Nami')",Kog'Maw,0.4053749999999999
+"('Jinx', 'Nami')",Xayah,0.447875
+"('Jinx', 'Nautilus')",Aphelios,0.3384
+"('Jinx', 'Nautilus')",Ashe,0.3566
+"('Jinx', 'Nautilus')",Caitlyn,0.317025
+"('Jinx', 'Nautilus')",Corki bot,0.269525
+"('Jinx', 'Nautilus')",Ezreal,0.4035250000000001
+"('Jinx', 'Nautilus')",Jhin,0.438425
+"('Jinx', 'Nautilus')",Kai'Sa,0.385325
+"('Jinx', 'Nautilus')",Kog'Maw,0.2891999999999999
+"('Jinx', 'Nautilus')",Xayah,0.3440249999999999
+"('Jinx', 'Pyke')",Aphelios,0.43015
+"('Jinx', 'Pyke')",Ashe,0.4595499999999999
+"('Jinx', 'Pyke')",Caitlyn,0.3967
+"('Jinx', 'Pyke')",Corki bot,0.376075
+"('Jinx', 'Pyke')",Ezreal,0.5001000000000001
+"('Jinx', 'Pyke')",Jhin,0.5215999999999998
+"('Jinx', 'Pyke')",Kai'Sa,0.4694749999999999
+"('Jinx', 'Pyke')",Kog'Maw,0.4226999999999999
+"('Jinx', 'Pyke')",Xayah,0.5147499999999999
+"('Jinx', 'Rakan')",Aphelios,0.531875
+"('Jinx', 'Rakan')",Ashe,0.4216500000000001
+"('Jinx', 'Rakan')",Caitlyn,0.4140249999999998
+"('Jinx', 'Rakan')",Corki bot,0.316
+"('Jinx', 'Rakan')",Ezreal,0.4478500000000001
+"('Jinx', 'Rakan')",Jhin,0.4599999999999998
+"('Jinx', 'Rakan')",Kai'Sa,0.4556499999999999
+"('Jinx', 'Rakan')",Kog'Maw,0.353125
+"('Jinx', 'Rakan')",Xayah,0.397375
+"('Jinx', 'Rell')",Aphelios,0.5243249999999999
+"('Jinx', 'Rell')",Ashe,0.5255
+"('Jinx', 'Rell')",Caitlyn,0.5031
+"('Jinx', 'Rell')",Corki bot,0.443325
+"('Jinx', 'Rell')",Ezreal,0.58135
+"('Jinx', 'Rell')",Jhin,0.6005999999999999
+"('Jinx', 'Rell')",Kai'Sa,0.6202249999999999
+"('Jinx', 'Rell')",Kog'Maw,0.4871999999999998
+"('Jinx', 'Rell')",Xayah,0.5245
+"('Jinx', 'Thresh')",Aphelios,0.505475
+"('Jinx', 'Thresh')",Ashe,0.5132500000000001
+"('Jinx', 'Thresh')",Caitlyn,0.4691000000000001
+"('Jinx', 'Thresh')",Corki bot,0.4397750000000001
+"('Jinx', 'Thresh')",Ezreal,0.5519750000000001
+"('Jinx', 'Thresh')",Jhin,0.57355
+"('Jinx', 'Thresh')",Kai'Sa,0.546875
+"('Jinx', 'Thresh')",Kog'Maw,0.44505
+"('Jinx', 'Thresh')",Xayah,0.5027250000000001
+"(""Kai'Sa"", 'Braum')",Aphelios,0.3813
+"(""Kai'Sa"", 'Braum')",Ashe,0.42495
+"(""Kai'Sa"", 'Braum')",Caitlyn,0.3509999999999999
+"(""Kai'Sa"", 'Braum')",Corki bot,0.3261
+"(""Kai'Sa"", 'Braum')",Ezreal,0.4932499999999998
+"(""Kai'Sa"", 'Braum')",Jhin,0.4953499999999998
+"(""Kai'Sa"", 'Braum')",Jinx,0.3183499999999999
+"(""Kai'Sa"", 'Braum')",Kog'Maw,0.3400749999999998
+"(""Kai'Sa"", 'Braum')",Xayah,0.4131749999999999
+"(""Kai'Sa"", 'Karma')",Aphelios,0.3429749999999999
+"(""Kai'Sa"", 'Karma')",Ashe,0.3970249999999998
+"(""Kai'Sa"", 'Karma')",Caitlyn,0.3364499999999999
+"(""Kai'Sa"", 'Karma')",Corki bot,0.31415
+"(""Kai'Sa"", 'Karma')",Ezreal,0.4314749999999999
+"(""Kai'Sa"", 'Karma')",Jhin,0.4535749999999999
+"(""Kai'Sa"", 'Karma')",Jinx,0.3035999999999998
+"(""Kai'Sa"", 'Karma')",Kog'Maw,0.3307499999999999
+"(""Kai'Sa"", 'Karma')",Xayah,0.3865249999999999
+"(""Kai'Sa"", 'Leona')",Aphelios,0.353375
+"(""Kai'Sa"", 'Leona')",Ashe,0.412175
+"(""Kai'Sa"", 'Leona')",Caitlyn,0.360875
+"(""Kai'Sa"", 'Leona')",Corki bot,0.321625
+"(""Kai'Sa"", 'Leona')",Ezreal,0.4573000000000002
+"(""Kai'Sa"", 'Leona')",Jhin,0.4762
+"(""Kai'Sa"", 'Leona')",Jinx,0.3797750000000001
+"(""Kai'Sa"", 'Leona')",Kog'Maw,0.3440749999999999
+"(""Kai'Sa"", 'Leona')",Xayah,0.39415
+"(""Kai'Sa"", 'Lulu')",Aphelios,0.31515
+"(""Kai'Sa"", 'Lulu')",Ashe,0.3795749999999999
+"(""Kai'Sa"", 'Lulu')",Caitlyn,0.31315
+"(""Kai'Sa"", 'Lulu')",Corki bot,0.3037749999999999
+"(""Kai'Sa"", 'Lulu')",Ezreal,0.4341
+"(""Kai'Sa"", 'Lulu')",Jhin,0.4291499999999997
+"(""Kai'Sa"", 'Lulu')",Jinx,0.2698749999999998
+"(""Kai'Sa"", 'Lulu')",Kog'Maw,0.3050999999999998
+"(""Kai'Sa"", 'Lulu')",Xayah,0.3686749999999999
+"(""Kai'Sa"", 'Nami')",Aphelios,0.22115
+"(""Kai'Sa"", 'Nami')",Ashe,0.278925
+"(""Kai'Sa"", 'Nami')",Caitlyn,0.2162
+"(""Kai'Sa"", 'Nami')",Corki bot,0.21195
+"(""Kai'Sa"", 'Nami')",Ezreal,0.3177500000000001
+"(""Kai'Sa"", 'Nami')",Jhin,0.356525
+"(""Kai'Sa"", 'Nami')",Jinx,0.1866499999999999
+"(""Kai'Sa"", 'Nami')",Kog'Maw,0.2389999999999999
+"(""Kai'Sa"", 'Nami')",Xayah,0.276425
+"(""Kai'Sa"", 'Nautilus')",Aphelios,0.2576
+"(""Kai'Sa"", 'Nautilus')",Ashe,0.322775
+"(""Kai'Sa"", 'Nautilus')",Caitlyn,0.262525
+"(""Kai'Sa"", 'Nautilus')",Corki bot,0.2227249999999999
+"(""Kai'Sa"", 'Nautilus')",Ezreal,0.3600000000000001
+"(""Kai'Sa"", 'Nautilus')",Jhin,0.402375
+"(""Kai'Sa"", 'Nautilus')",Jinx,0.2187749999999999
+"(""Kai'Sa"", 'Nautilus')",Kog'Maw,0.2573249999999999
+"(""Kai'Sa"", 'Nautilus')",Xayah,0.307075
+"(""Kai'Sa"", 'Pyke')",Aphelios,0.2648500000000002
+"(""Kai'Sa"", 'Pyke')",Ashe,0.3349000000000001
+"(""Kai'Sa"", 'Pyke')",Caitlyn,0.2577000000000001
+"(""Kai'Sa"", 'Pyke')",Corki bot,0.2458
+"(""Kai'Sa"", 'Pyke')",Ezreal,0.3720750000000001
+"(""Kai'Sa"", 'Pyke')",Jhin,0.4010499999999999
+"(""Kai'Sa"", 'Pyke')",Jinx,0.2354249999999999
+"(""Kai'Sa"", 'Pyke')",Kog'Maw,0.285825
+"(""Kai'Sa"", 'Pyke')",Xayah,0.3678500000000001
+"(""Kai'Sa"", 'Rakan')",Aphelios,0.4724750000000001
+"(""Kai'Sa"", 'Rakan')",Ashe,0.397325
+"(""Kai'Sa"", 'Rakan')",Caitlyn,0.375975
+"(""Kai'Sa"", 'Rakan')",Corki bot,0.283
+"(""Kai'Sa"", 'Rakan')",Ezreal,0.4138250000000001
+"(""Kai'Sa"", 'Rakan')",Jhin,0.43345
+"(""Kai'Sa"", 'Rakan')",Jinx,0.273675
+"(""Kai'Sa"", 'Rakan')",Kog'Maw,0.33075
+"(""Kai'Sa"", 'Rakan')",Xayah,0.3699249999999999
+"(""Kai'Sa"", 'Rell')",Aphelios,0.4125250000000001
+"(""Kai'Sa"", 'Rell')",Ashe,0.4606750000000001
+"(""Kai'Sa"", 'Rell')",Caitlyn,0.4176000000000001
+"(""Kai'Sa"", 'Rell')",Corki bot,0.3768
+"(""Kai'Sa"", 'Rell')",Ezreal,0.5068250000000002
+"(""Kai'Sa"", 'Rell')",Jhin,0.5335499999999999
+"(""Kai'Sa"", 'Rell')",Jinx,0.365275
+"(""Kai'Sa"", 'Rell')",Kog'Maw,0.424325
+"(""Kai'Sa"", 'Rell')",Xayah,0.45655
+"(""Kai'Sa"", 'Thresh')",Aphelios,0.308425
+"(""Kai'Sa"", 'Thresh')",Ashe,0.3631750000000001
+"(""Kai'Sa"", 'Thresh')",Caitlyn,0.29835
+"(""Kai'Sa"", 'Thresh')",Corki bot,0.27445
+"(""Kai'Sa"", 'Thresh')",Ezreal,0.3922000000000001
+"(""Kai'Sa"", 'Thresh')",Jhin,0.42125
+"(""Kai'Sa"", 'Thresh')",Jinx,0.263075
+"(""Kai'Sa"", 'Thresh')",Kog'Maw,0.296925
+"(""Kai'Sa"", 'Thresh')",Xayah,0.349525
+"(""Kog'Maw"", 'Braum')",Aphelios,0.3814499999999999
+"(""Kog'Maw"", 'Braum')",Ashe,0.393175
+"(""Kog'Maw"", 'Braum')",Caitlyn,0.33285
+"(""Kog'Maw"", 'Braum')",Corki bot,0.281025
+"(""Kog'Maw"", 'Braum')",Ezreal,0.4484499999999999
+"(""Kog'Maw"", 'Braum')",Jhin,0.4431499999999999
+"(""Kog'Maw"", 'Braum')",Jinx,0.2962249999999999
+"(""Kog'Maw"", 'Braum')",Kai'Sa,0.418925
+"(""Kog'Maw"", 'Braum')",Xayah,0.3966249999999999
+"(""Kog'Maw"", 'Karma')",Aphelios,0.517125
+"(""Kog'Maw"", 'Karma')",Ashe,0.5526749999999999
+"(""Kog'Maw"", 'Karma')",Caitlyn,0.4922999999999999
+"(""Kog'Maw"", 'Karma')",Corki bot,0.4430749999999999
+"(""Kog'Maw"", 'Karma')",Ezreal,0.580275
+"(""Kog'Maw"", 'Karma')",Jhin,0.5753749999999999
+"(""Kog'Maw"", 'Karma')",Jinx,0.4554749999999998
+"(""Kog'Maw"", 'Karma')",Kai'Sa,0.558925
+"(""Kog'Maw"", 'Karma')",Xayah,0.543975
+"(""Kog'Maw"", 'Leona')",Aphelios,0.410525
+"(""Kog'Maw"", 'Leona')",Ashe,0.4373999999999999
+"(""Kog'Maw"", 'Leona')",Caitlyn,0.3997249999999999
+"(""Kog'Maw"", 'Leona')",Corki bot,0.340925
+"(""Kog'Maw"", 'Leona')",Ezreal,0.4891
+"(""Kog'Maw"", 'Leona')",Jhin,0.4809999999999998
+"(""Kog'Maw"", 'Leona')",Jinx,0.3944499999999999
+"(""Kog'Maw"", 'Leona')",Kai'Sa,0.4716749999999998
+"(""Kog'Maw"", 'Leona')",Xayah,0.4345999999999999
+"(""Kog'Maw"", 'Lulu')",Aphelios,0.4332999999999999
+"(""Kog'Maw"", 'Lulu')",Ashe,0.4658
+"(""Kog'Maw"", 'Lulu')",Caitlyn,0.413
+"(""Kog'Maw"", 'Lulu')",Corki bot,0.3766999999999999
+"(""Kog'Maw"", 'Lulu')",Ezreal,0.5268999999999999
+"(""Kog'Maw"", 'Lulu')",Jhin,0.4949499999999998
+"(""Kog'Maw"", 'Lulu')",Jinx,0.3657499999999999
+"(""Kog'Maw"", 'Lulu')",Kai'Sa,0.4820999999999998
+"(""Kog'Maw"", 'Lulu')",Xayah,0.4701249999999999
+"(""Kog'Maw"", 'Nami')",Aphelios,0.35555
+"(""Kog'Maw"", 'Nami')",Ashe,0.3813999999999999
+"(""Kog'Maw"", 'Nami')",Caitlyn,0.3323
+"(""Kog'Maw"", 'Nami')",Corki bot,0.307025
+"(""Kog'Maw"", 'Nami')",Ezreal,0.4268
+"(""Kog'Maw"", 'Nami')",Jhin,0.4520999999999999
+"(""Kog'Maw"", 'Nami')",Jinx,0.2987749999999998
+"(""Kog'Maw"", 'Nami')",Kai'Sa,0.3999999999999999
+"(""Kog'Maw"", 'Nami')",Xayah,0.3941249999999999
+"(""Kog'Maw"", 'Nautilus')",Aphelios,0.3994999999999999
+"(""Kog'Maw"", 'Nautilus')",Ashe,0.4327499999999999
+"(""Kog'Maw"", 'Nautilus')",Caitlyn,0.386125
+"(""Kog'Maw"", 'Nautilus')",Corki bot,0.3360499999999999
+"(""Kog'Maw"", 'Nautilus')",Ezreal,0.4765499999999999
+"(""Kog'Maw"", 'Nautilus')",Jhin,0.4919249999999999
+"(""Kog'Maw"", 'Nautilus')",Jinx,0.3383999999999998
+"(""Kog'Maw"", 'Nautilus')",Kai'Sa,0.4497749999999997
+"(""Kog'Maw"", 'Nautilus')",Xayah,0.4322749999999999
+"(""Kog'Maw"", 'Pyke')",Aphelios,0.5330000000000001
+"(""Kog'Maw"", 'Pyke')",Ashe,0.57745
+"(""Kog'Maw"", 'Pyke')",Caitlyn,0.5075500000000001
+"(""Kog'Maw"", 'Pyke')",Corki bot,0.4746250000000001
+"(""Kog'Maw"", 'Pyke')",Ezreal,0.6148750000000002
+"(""Kog'Maw"", 'Pyke')",Jhin,0.61685
+"(""Kog'Maw"", 'Pyke')",Jinx,0.4812999999999999
+"(""Kog'Maw"", 'Pyke')",Kai'Sa,0.5756749999999999
+"(""Kog'Maw"", 'Pyke')",Xayah,0.6464500000000001
+"(""Kog'Maw"", 'Rakan')",Aphelios,0.478475
+"(""Kog'Maw"", 'Rakan')",Ashe,0.3885499999999999
+"(""Kog'Maw"", 'Rakan')",Caitlyn,0.3896749999999999
+"(""Kog'Maw"", 'Rakan')",Corki bot,0.27675
+"(""Kog'Maw"", 'Rakan')",Ezreal,0.4116250000000001
+"(""Kog'Maw"", 'Rakan')",Jhin,0.4042499999999998
+"(""Kog'Maw"", 'Rakan')",Jinx,0.2745499999999998
+"(""Kog'Maw"", 'Rakan')",Kai'Sa,0.4108499999999999
+"(""Kog'Maw"", 'Rakan')",Xayah,0.3763749999999999
+"(""Kog'Maw"", 'Rell')",Aphelios,0.5076750000000001
+"(""Kog'Maw"", 'Rell')",Ashe,0.5239
+"(""Kog'Maw"", 'Rell')",Caitlyn,0.49445
+"(""Kog'Maw"", 'Rell')",Corki bot,0.436975
+"(""Kog'Maw"", 'Rell')",Ezreal,0.576625
+"(""Kog'Maw"", 'Rell')",Jhin,0.5763499999999999
+"(""Kog'Maw"", 'Rell')",Jinx,0.43815
+"(""Kog'Maw"", 'Rell')",Kai'Sa,0.633275
+"(""Kog'Maw"", 'Rell')",Xayah,0.535
+"(""Kog'Maw"", 'Thresh')",Aphelios,0.4745749999999999
+"(""Kog'Maw"", 'Thresh')",Ashe,0.4973999999999999
+"(""Kog'Maw"", 'Thresh')",Caitlyn,0.4461999999999999
+"(""Kog'Maw"", 'Thresh')",Corki bot,0.4186999999999999
+"(""Kog'Maw"", 'Thresh')",Ezreal,0.533
+"(""Kog'Maw"", 'Thresh')",Jhin,0.5350499999999999
+"(""Kog'Maw"", 'Thresh')",Jinx,0.4069499999999998
+"(""Kog'Maw"", 'Thresh')",Kai'Sa,0.5193249999999999
+"(""Kog'Maw"", 'Thresh')",Xayah,0.4989749999999998
+"('Xayah', 'Braum')",Aphelios,0.47375
+"('Xayah', 'Braum')",Ashe,0.4597249999999999
+"('Xayah', 'Braum')",Caitlyn,0.4043499999999999
+"('Xayah', 'Braum')",Corki bot,0.3564
+"('Xayah', 'Braum')",Ezreal,0.5140249999999998
+"('Xayah', 'Braum')",Jhin,0.5272
+"('Xayah', 'Braum')",Jinx,0.3668249999999999
+"('Xayah', 'Braum')",Kai'Sa,0.51245
+"('Xayah', 'Braum')",Kog'Maw,0.3487999999999999
+"('Xayah', 'Karma')",Aphelios,0.3431749999999999
+"('Xayah', 'Karma')",Ashe,0.361875
+"('Xayah', 'Karma')",Caitlyn,0.2975500000000001
+"('Xayah', 'Karma')",Corki bot,0.2522
+"('Xayah', 'Karma')",Ezreal,0.3700750000000001
+"('Xayah', 'Karma')",Jhin,0.393175
+"('Xayah', 'Karma')",Jinx,0.2598249999999998
+"('Xayah', 'Karma')",Kai'Sa,0.3861999999999999
+"('Xayah', 'Karma')",Kog'Maw,0.2472249999999999
+"('Xayah', 'Leona')",Aphelios,0.3208250000000001
+"('Xayah', 'Leona')",Ashe,0.32195
+"('Xayah', 'Leona')",Caitlyn,0.2892250000000001
+"('Xayah', 'Leona')",Corki bot,0.2343000000000001
+"('Xayah', 'Leona')",Ezreal,0.3631500000000002
+"('Xayah', 'Leona')",Jhin,0.38305
+"('Xayah', 'Leona')",Jinx,0.3009000000000001
+"('Xayah', 'Leona')",Kai'Sa,0.3831999999999999
+"('Xayah', 'Leona')",Kog'Maw,0.2278
+"('Xayah', 'Lulu')",Aphelios,0.3853499999999999
+"('Xayah', 'Lulu')",Ashe,0.3920999999999999
+"('Xayah', 'Lulu')",Caitlyn,0.3442499999999999
+"('Xayah', 'Lulu')",Corki bot,0.311825
+"('Xayah', 'Lulu')",Ezreal,0.4427
+"('Xayah', 'Lulu')",Jhin,0.4387499999999998
+"('Xayah', 'Lulu')",Jinx,0.2960999999999998
+"('Xayah', 'Lulu')",Kai'Sa,0.4353749999999998
+"('Xayah', 'Lulu')",Kog'Maw,0.291575
+"('Xayah', 'Nami')",Aphelios,0.2876000000000001
+"('Xayah', 'Nami')",Ashe,0.2877000000000001
+"('Xayah', 'Nami')",Caitlyn,0.24355
+"('Xayah', 'Nami')",Corki bot,0.2232250000000001
+"('Xayah', 'Nami')",Ezreal,0.3226000000000001
+"('Xayah', 'Nami')",Jhin,0.3806749999999999
+"('Xayah', 'Nami')",Jinx,0.2091249999999999
+"('Xayah', 'Nami')",Kai'Sa,0.333275
+"('Xayah', 'Nami')",Kog'Maw,0.221725
+"('Xayah', 'Nautilus')",Aphelios,0.3923
+"('Xayah', 'Nautilus')",Ashe,0.3998
+"('Xayah', 'Nautilus')",Caitlyn,0.358125
+"('Xayah', 'Nautilus')",Corki bot,0.3086
+"('Xayah', 'Nautilus')",Ezreal,0.4331
+"('Xayah', 'Nautilus')",Jhin,0.4764749999999999
+"('Xayah', 'Nautilus')",Jinx,0.3094999999999999
+"('Xayah', 'Nautilus')",Kai'Sa,0.4438
+"('Xayah', 'Nautilus')",Kog'Maw,0.3082999999999999
+"('Xayah', 'Pyke')",Aphelios,0.4995500000000001
+"('Xayah', 'Pyke')",Ashe,0.51825
+"('Xayah', 'Pyke')",Caitlyn,0.4533000000000001
+"('Xayah', 'Pyke')",Corki bot,0.437425
+"('Xayah', 'Pyke')",Ezreal,0.5451750000000001
+"('Xayah', 'Pyke')",Jhin,0.57515
+"('Xayah', 'Pyke')",Jinx,0.42615
+"('Xayah', 'Pyke')",Kai'Sa,0.5434499999999999
+"('Xayah', 'Pyke')",Kog'Maw,0.456025
+"('Xayah', 'Rakan')",Aphelios,0.536225
+"('Xayah', 'Rakan')",Ashe,0.4291
+"('Xayah', 'Rakan')",Caitlyn,0.40125
+"('Xayah', 'Rakan')",Corki bot,0.3236249999999999
+"('Xayah', 'Rakan')",Ezreal,0.441675
+"('Xayah', 'Rakan')",Jhin,0.4622999999999999
+"('Xayah', 'Rakan')",Jinx,0.3191499999999999
+"('Xayah', 'Rakan')",Kai'Sa,0.4783749999999999
+"('Xayah', 'Rakan')",Kog'Maw,0.3364749999999999
+"('Xayah', 'Rell')",Aphelios,0.425475
+"('Xayah', 'Rell')",Ashe,0.4159499999999999
+"('Xayah', 'Rell')",Caitlyn,0.3914499999999999
+"('Xayah', 'Rell')",Corki bot,0.33785
+"('Xayah', 'Rell')",Ezreal,0.458175
+"('Xayah', 'Rell')",Jhin,0.4858999999999998
+"('Xayah', 'Rell')",Jinx,0.3342499999999999
+"('Xayah', 'Rell')",Kai'Sa,0.512975
+"('Xayah', 'Rell')",Kog'Maw,0.3535499999999999
+"('Xayah', 'Thresh')",Aphelios,0.4286250000000001
+"('Xayah', 'Thresh')",Ashe,0.4257000000000001
+"('Xayah', 'Thresh')",Caitlyn,0.37945
+"('Xayah', 'Thresh')",Corki bot,0.3458249999999999
+"('Xayah', 'Thresh')",Ezreal,0.4508000000000002
+"('Xayah', 'Thresh')",Jhin,0.48085
+"('Xayah', 'Thresh')",Jinx,0.3393
+"('Xayah', 'Thresh')",Kai'Sa,0.4745999999999999
+"('Xayah', 'Thresh')",Kog'Maw,0.3334
