@@ -1,0 +1,51 @@
+name,win_rate,pick_rate,ban_rate,role
+K'Sante,50.22,14.0,16.3,top
+Jax,52.22,12.5,20.3,top
+Gnar,50.32,9.8,4.5,top
+Aatrox,50.05,8.1,6.9,top
+Renekton,48.93,8.0,6.0,top
+Aurora,50.3,6.3,33.0,top
+Yone top,46.39,5.8,19.0,top
+Riven,50.72,5.8,4.3,top
+Gragas,50.73,5.6,2.4,top
+Camille,50.62,5.0,4.0,top
+Graves,51.01,21.2,20.2,jng
+Viego,50.01,21.0,13.2,jng
+Lee Sin,49.3,14.9,10.8,jng
+Skarner,52.14,9.2,32.2,jng
+Nidalee,50.35,8.4,12.6,jng
+Elise,51.17,7.6,17.4,jng
+Kha'Zix,49.08,6.7,7.0,jng
+Jarvan IV,49.3,6.6,4.2,jng
+Hecarim,51.39,5.7,5.1,jng
+Kindred,50.01,5.1,5.0,jng
+Sylas,51.39,17.3,13.2,mid
+Yone mid,47.89,11.6,19.0,mid
+Ahri,50.6,11.3,2.2,mid
+Corki mid,52.53,9.8,32.7,mid
+Syndra,50.4,8.6,12.3,mid
+Orianna,49.99,7.9,3.5,mid
+Yasuo,48.9,7.6,19.0,mid
+Akali,49.18,7.2,7.3,mid
+Galio,49.87,6.9,3.1,mid
+Hwei,49.38,6.4,11.4,mid
+Ashe,51.39,20.8,19.6,bot
+Kai'Sa,48.59,20.1,6.6,bot
+Jhin,48.78,19.1,3.8,bot
+Ezreal,48.83,15.4,6.6,bot
+Corki bot,52.93,15.2,32.7,bot
+Caitlyn,49.45,12.0,7.2,bot
+Jinx,51.11,12.0,1.3,bot
+Kog'Maw,51.69,8.0,15.4,bot
+Xayah,49.49,7.2,0.8,bot
+Aphelios,48.23,6.8,0.7,bot
+Rell,51.62,16.9,15.1,sup
+Nautilus,48.25,12.4,9.0,sup
+Lulu,49.87,11.8,7.8,sup
+Rakan,50.35,10.9,1.4,sup
+Pyke,49.74,10.3,44.9,sup
+Thresh,50.14,9.6,3.2,sup
+Karma,50.39,8.8,2.3,sup
+Nami,50.06,8.7,0.3,sup
+Braum,51.27,8.1,8.0,sup
+Leona,49.66,8.0,5.0,sup
